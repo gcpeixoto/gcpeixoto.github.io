@@ -2,6 +2,10 @@
   href: https://github.com/gcpeixoto
   icon: entypo/github.svg
 
+- caption: ORCID
+  href: https://orcid.org/0000-0002-4042-3548
+  icon: entypo/orcid.svg
+
 - caption: ResearchGate
   href: https://www.researchgate.net/profile/Gustavo_Peixoto_De_Oliveira
   icon: entypo/rg.svg
