@@ -1,20 +1,16 @@
-- caption: Friday Theme on GitHub
-  href: https://github.com/sfreytag/friday-theme
+- caption: GitHub
+  href: https://github.com/gcpeixoto
   icon: entypo/github.svg
 
-- caption: Stack Overflow
-  href: https://stackoverflow.com
-  icon: icons/stackoverflow.svg
+- caption: ResearchGate
+  href: https://www.researchgate.net/profile/Gustavo_Peixoto_De_Oliveira
+  icon: entypo/rg.svg
 
-- caption: Facebook
-  href: https://www.facebook.com
-  icon: entypo/facebook.svg
+- caption: LinkedIn
+  href: https://www.linkedin.com/in/gcpoliveira/
+  icon: entypo/linkedin.svg
 
-- caption: Twitter
-  href: https://www.twitter.com
-  icon: entypo/twitter.svg
-
-- caption: London
-  href: https://www.google.co.uk/maps/place/London/@51.528308,-0.3817765,10z/data=!3m1!4b1!4m5!3m4!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5073509!4d-0.1277583
+- caption: João Pessoa, Brazil
+  href: https://www.google.com/maps/place/João+Pessoa,+State+of+Para%C3%ADba/@-7.1464332,-34.9516379,12z/data=!3m1!4b1!4m5!3m4!1s0x7ace839019aa3d7:0x6e414a9c6d26db34!8m2!3d-7.1194958!4d-34.8450118
   icon: entypo/location-pin.svg
 
