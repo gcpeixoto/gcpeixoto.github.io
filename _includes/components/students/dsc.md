@@ -1,8 +1,11 @@
 ## D.Sc. Theses
 ---
 
+#### Camilo Gustavo Araújo Alves, Mech. Engg. <span style="color:rgb(200,200,0);"> &#10144; </span>
+- *Efficiency of Forced Air Streams on the Dissipation of SARS-CoV-2 Particles in Healthcare Environments*, 2020.
+
 #### José Wilker Lima da Silva, Mech. Engg. <span style="color:rgb(200,200,0);"> &#10144; </span>
-- *Modeling of the porosity-permeability-tension coupling for enhanced infill drilling*, 2020. (Co-advisor)
+- *Modeling of the porosity-permeability-tension coupling for enhanced infill drilling*, 2020.
 
 #### Clarissa Pessoa Borges Fernandes, Mech. Engg. <span style="color:rgb(200,200,0);"> &#10144; </span>
 - *Assessment of Volumetric Productivity Potential in Hydraulic Flow Units for Well Placement in Heterogeneous Reservoirs*, 2020. (Co-advisor)
