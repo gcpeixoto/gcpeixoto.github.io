@@ -22,8 +22,9 @@
 
 #### João Luiz Padilha de Aguiar, Civil Engg. <span style="color:green;"> &#10004; </span>
 - *Computer modeling for production zone placement in reservoirs*, 2017.
+- Funding: UFPB
 
 
 #### Lucas Cavalcanti Silva, Mech. Engg. <span style="color:green;"> &#10004; </span>
-- Reservoir Simulation with MRST Toolbox, 2017
+- *Reservoir Simulation with MRST Toolbox*, 2017
 - Funding: UFPB and Petrobras

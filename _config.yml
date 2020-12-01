@@ -10,13 +10,14 @@ excerpt_separator: <!--more-->
 title:            Gustavo P. OLIVEIRA's personal website            # Site title
 name:             Dr. Gustavo PEIXOTO DE OLIVEIRA            # Your name
 avatar:           /theme/img/avatar.jpg   # Path to an avatar image
+media_root:	  /_media # Media files
 
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
 baseurl: ""
 
 # Add a directory to hold misc pages, just to keep the root directory clean.
-include: ["_pages", "_portfolio"]
+include: ["_pages", "_media"]
 
 # Wire in the SASS files in the theme directory.
 sass:
