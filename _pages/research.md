@@ -1,9 +1,44 @@
 ---
 layout: defaults/page
-permalink: portfolio.html
+permalink: research.html
 narrow: true
-title: Portfolio
+title: Research
 ---
+## Fields and areas
+
+Below, you see an informal and non-optimally arranged tree of fields of expertise and knowledge areas where I get involved with:
+
+- Fluid Mechanics
+	- Multiphase Flows
+	- Computational Fluid Dynamics
+- Scientific Computing 
+	- Computer Programming
+	- Symbolic Computing
+	- Mathematical Modelling
+	- Reservoir Modelling
+	- Data Science
+- Numerical Methods
+	- Finite Elements
+- Intelligent Systems
+	- Pattern Recognition	
+	- Artificial Intelligence
+
+---
+## Reviewer for
+
+- Earth Science Informatics 
+- Trends in Computational and Applied Mathematics
+- Journal of Petroleum Science and Engineering
+- Journal of King Saud University - Science
+- International Journal of Multiphase Flow
+- Plos One
+- Journal of the Brazilian Society of Mechanical Sciences and Engineering
+
+---
+## Portfolio
+
+Find here a few cards telling you about themes that compose my research portfolio. Many things are reported in my publications under different words. Others are not...
+
 <!-- Arranged in reversed order in time --> 
 <div class="card-columns">
 {% include components/portfolio/patch.html %}

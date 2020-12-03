@@ -34,6 +34,10 @@ collections:
     output: true
     title: portfolio
     permalink: /:collection/:name.html
+  toolbox:
+    output: true
+    title: Toolbox
+    permalink: /:collection/:name.html
 
 defaults:
 # Turn the profile sidebar on for all pages by default, except for the
@@ -67,6 +71,12 @@ defaults:
   -
     scope:
       path: "list"
+    values:
+      show_profile: false
+      layout: defaults/list
+  -
+    scope:
+      path: "_toolbox"
     values:
       show_profile: false
       layout: defaults/list

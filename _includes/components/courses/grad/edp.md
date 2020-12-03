@@ -1,4 +1,4 @@
-## Numerical Simulations of PDEs (GDCOC0061)
+### Numerical Simulations of PDEs (GDCOC0061)
 ---
 
 

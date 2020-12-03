@@ -1,6 +1,5 @@
-## Introductory Numerical Methods (GDCO0072)
+### Introductory Numerical Methods (GDCO0072)
 ---
 
 
-Under construction
-
+- My *Virtual Lab of Numerical Methods* is available [here](https://github.com/gcpeixoto/ipynb-lab-metodos-numericos).

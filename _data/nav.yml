@@ -1,14 +1,23 @@
 - title: Home
   href: index.html
 
-- title: Portfolio
-  href: portfolio.html
+- title: Publications
+  href: publications.html
+
+- title: Research
+  href: research.html
 
 - title: Teaching
   href: teaching.html
 
+- title: Consulting
+  href: consulting.html
+
 - title: Students
   href: students.html
+
+- title: Toolbox
+  href: list/toolbox.html
 
 - title: Contact
   href: contact.html

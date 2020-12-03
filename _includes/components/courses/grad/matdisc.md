@@ -1,6 +1,4 @@
-## Discrete Math (5102001)
+### Discrete Math (5102001)
 ---
 
-
-Under construction
-
+- My virtual lab of Discrete Math contains something [here](https://github.com/gcpeixoto/ipynb-lab-matematica-discreta).

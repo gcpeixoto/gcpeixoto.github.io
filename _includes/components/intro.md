@@ -16,6 +16,7 @@ Nice stay and best regards!
 
 G.P.O.
 
+---
 ## Resume
 
 ### Identification 
@@ -26,10 +27,10 @@ G.P.O.
 
 ### Roles
 
-- Adjunct professor at the Scientific Computing Department - [Center of Informatics](www.ci.ufpb.br)
-- Member and advisor at the Graduate Program in Mechanical Engineering - Technology Center 
-- Researcher and co-manager at the [Petroleum Engineering Modeling Laboratory](www.lamep.ci.ufpb.br).
-- Member of the [Brazilian Society of Mechanical Sciences and Engineering](www.abcm.org.br) 
+- Adjunct professor at the Scientific Computing Department - [Center of Informatics](http://www.ci.ufpb.br)
+- Member and advisor at the [Graduate Program in Mechanical Engineering](https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?id=1870) - Technology Center 
+- Researcher and co-manager at the [Petroleum Engineering Modeling Laboratory](http://www.lamep.ci.ufpb.br).
+- Member of the [Brazilian Society of Mechanical Sciences and Engineering](http://www.abcm.org.br) 
 
 
 ### Education
@@ -54,8 +55,18 @@ Here you will find full details on my scientific production in the **TROIM** dim
 
 - [Lattes Platform](http://lattes.cnpq.br/2612838955804083)
 
+--- 
+## Recommended links
+
+- [Gustavo Anjos's website](https://gustavorabello.github.io)
+- [GESAR Lab @UERJ Brazil](https://www.gesar.uerj.br)
+- [MRST Project @Sintef Norway](https://www.sintef.no/projectweb/mrst/)
+- [Gibbon Code @NUIG Ireland](https://www.gibboncode.org)
+- [Snap @Stanford USA ](https://snap.stanford.edu)
+- [Paraview @Kitware USA ](https://www.paraview.org/)
 
 
+---
 #### Afterwords
 
 > *“And wisdom and knowledge shall be the stability of thy times, and strength of salvation: the fear of the Lord is his treasure.”* The Holy Bible, Isaiah 33:6, apud: Introduction to Hydrodynamics Stability, by P. G. Drazin.
