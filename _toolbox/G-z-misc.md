@@ -2,6 +2,10 @@
 title: G-ω - Useful links
 ---
 
+## Geology glossary
+
+- [Illustrated Geologic Glossary by CPRM Brazil (PT only)](http://sigep.cprm.gov.br/glossario/index.html)
+
 ## Oil and gas glossaries
 
 - [PPSA Glossary (PT only)](http://www.presalpetroleo.gov.br/ppsa/glossario-da-industria-de-petroleo-e-gas/a)
