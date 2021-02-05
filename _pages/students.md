@@ -10,6 +10,8 @@ title: Students
 
 {% include components/students/msc.md %}
 
+{% include components/students/bsc.md %}
+
 {% include components/students/ic.md %}
 
 

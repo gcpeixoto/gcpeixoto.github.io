@@ -21,7 +21,7 @@
 
 
 #### João Luiz Padilha de Aguiar, Civil Engg. <span style="color:green;"> &#10004; </span>
-- *Computer modeling for production zone placement in reservoirs*, 2017.
+- *Computer Modeling for Production Zone Placement in Reservoirs*, 2017.
 - Funding: UFPB
 
 
