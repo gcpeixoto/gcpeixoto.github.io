@@ -26,3 +26,20 @@ jupyter labextension install @jupyterlab/debugger
 {% endhighlight %} 
 
 See further discussion [here](https://github.com/jupyterlab/debugger) and [here](https://github.com/jupyter-xeus/xeus-python).
+
+- [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
+	- A reference e-book to all who use Jupyter for lecturing.
+
+- [Lorena Barba's group](https://lorenabarba.com)
+	- Open-source code-sharing innitiative and very cool Jupyter notebooks for CFD.
+
+- [Journal of Open Source Software](https://joss.theoj.org)
+	- Journal that is bursting on open source, counting with renowned people involved with machine learning, data science, and torrents of projects using Jupyter NBs.
+
+- Autograding tools for testing Jupyter or making assignments easier to handle
+	- [nbgrader](https://nbgrader.readthedocs.io/en/stable/) by Jupyter team.
+	- [autograde](https://github.com/cssh-rwth/autograde)
+	- [Otter-Grader](https://otter-grader.readthedocs.io/en/stable/) @Berkeley
+	- Interesting [report](https://infovis.cs.vt.edu/sites/default/files/Auto_Grading_Jupyter_Notebooks.pdf) talking about graders and the alternative _Web Cat_.
+	- Security failure in nbgrader is alleged and a solution is proposed by the Finnish SciComp group Aalto [here](https://scicomp.aalto.fi/aalto/jupyterhub-instructors/autograding/).  
+	- This [video](https://youtu.be/__yUvsV1xsU) shows nicely how to use grader with Github Classroom and accompanies this [handout](https://github.com/jkuruzovich/otter_helper). 
