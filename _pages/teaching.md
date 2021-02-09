@@ -24,6 +24,8 @@ Find here information and materials about current(past) courses that I teach(hav
 
 ## Short courses
 
+{% include components/courses/extra/data-science.md %}
+{% include components/courses/extra/fem-icmf.md %}
 {% include components/courses/extra/latex.md %}
 {% include components/courses/extra/bash.md %}
 
