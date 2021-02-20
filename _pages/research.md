@@ -26,6 +26,7 @@ Below, you see an informal and non-optimally arranged tree of fields of expertis
 ---
 ## Reviewer for
 
+- Natural Resources Research
 - Earth Science Informatics 
 - Trends in Computational and Applied Mathematics
 - Journal of Petroleum Science and Engineering
