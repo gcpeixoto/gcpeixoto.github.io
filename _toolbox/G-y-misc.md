@@ -1,5 +1,5 @@
 ---
-title: G-ω - Useful links
+title: G-ψ - Useful links
 ---
 
 ## Geology glossary
