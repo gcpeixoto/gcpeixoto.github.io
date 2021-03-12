@@ -43,3 +43,33 @@ See further discussion [here](https://github.com/jupyterlab/debugger) and [here]
 	- Interesting [report](https://infovis.cs.vt.edu/sites/default/files/Auto_Grading_Jupyter_Notebooks.pdf) talking about graders and the alternative _Web Cat_.
 	- Security failure in nbgrader is alleged and a solution is proposed by the Finnish SciComp group Aalto [here](https://scicomp.aalto.fi/aalto/jupyterhub-instructors/autograding/).  
 	- This [video](https://youtu.be/__yUvsV1xsU) shows nicely how to use grader with Github Classroom and accompanies this [handout](https://github.com/jkuruzovich/otter_helper). 
+
+- Notes on [RISE](https://rise.readthedocs.io/en/stable/installation.html) Slideshow troubleshooting:
+	- RISE stopped working correctly on Safari with Big Sur 11.2.3 suddenly. 
+	- Go to fix...
+	- With version 5.7.1, I had an issue with
+	{% highlight bash %} 
+	pkg_resources.ContextualVersionConflict: 
+	(jedi 0.15.2 ... Requirement.parse('jedi>=0.16'), {'ipython'})
+	{% endhighlight %}
+- With `conda update jedi; conda list jedi`, the version was not being upgraded to 0.18 (available on PyPi);
+- Worked only with `conda update -c conda-forge jedi=0.17.2` after a long wait on "frozen/flexible solve... solving environment...";
+- Then, launching Jupyter on Safari, the `Cell Toolbar > Slideshow` could be visible, but the button to launch RISE Slideshow was not showing up.
+	- Current solution: use Chrome.		
+
+- How to customize RISE's chalkboard
+	- From version 5.7.1, colors are customizable for chalkboard.
+	- Options can be found in the [reveal.js-plugins/chalkboard README](https://github.com/rajgoel/reveal.js-plugins/tree/master/chalkboard)
+	- Here is an example on how to change chalkboard options:	
+{% highlight json %} 
+"rise": {
+  "chalkboard": {
+      "boardmarkerWidth": 3,      
+      "grid": {
+        "color": "rgb(50,50,10,0.5)",
+        "distance": 80,
+        "width": 2
+      }
+    },
+ }
+{% endhighlight %} 		
