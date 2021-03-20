@@ -73,3 +73,11 @@ See further discussion [here](https://github.com/jupyterlab/debugger) and [here]
     },
  }
 {% endhighlight %} 		
+
+- How to edit the font color of a postscripted PDF 
+	- I will report a pathway although I have not gotten to a final solution yet:
+	- Stefano Chizzolini, [PDFClown](https://sourceforge.net/projects/clown/)'s developer proposed a code in this [post](https://sourceforge.net/p/clown/discussion/607163/thread/bc191071/). At the current version, however, PDFClown possibly has embedded all those isolated Java elements.
+	- The idea would be try to follow SC's approach.
+	- Secondly, [PyPDF2](https://pypi.org/project/PyPDF2/) might be a Python alternative. There is a tutorial [here](https://realpython.com/creating-modifying-pdf/#setting-font-properties), but font color changes seems to be a hard stuff.
+	- Why I wanted that? Modify color of latexized PDF text from black to CMY-balanced (after K=0) color to fill out CMY printer cartridges.
+	- Let us leave that for future... 
