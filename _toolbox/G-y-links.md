@@ -19,3 +19,11 @@ TRL (_Technological Readiness Level_) and CRL (_Commercial Readiness Level_) are
 - [Original TRL by NASA](https://www.nasa.gov/directorates/heo/scan/engineering/technology/txt_accordion1.html)
 - [TRL by CERTI](https://certi.org.br/blog/trl-desenvolvimento-projetos/)
 - [TRL/CRL by Petrobras](../_media/files/trl-crl-petrobras.png)
+
+## Virtual MIDI for online meetings
+
+- [BlackHole](https://github.com/ExistentialAudio/BlackHole)
+
+## Knowledge models
+
+- [Cmap Tools](https://cmap.ihmc.us/cmaptools/)

@@ -81,3 +81,6 @@ See further discussion [here](https://github.com/jupyterlab/debugger) and [here]
 	- Secondly, [PyPDF2](https://pypi.org/project/PyPDF2/) might be a Python alternative. There is a tutorial [here](https://realpython.com/creating-modifying-pdf/#setting-font-properties), but font color changes seems to be a hard stuff.
 	- Why I wanted that? Modify color of latexized PDF text from black to CMY-balanced (after K=0) color to fill out CMY printer cartridges.
 	- Let us leave that for future... 
+
+- [Python "gotchas"](https://mrfuxi.github.io/blog/python-gotchas/)
+	- Weird things that may happen with Python coding.

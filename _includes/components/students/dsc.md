@@ -14,6 +14,6 @@
 - *Directional Oilwell Drilling based on Hydraulic Flow Units*, 2020. (Co-advisor)
 - Funding: UFPB (partial)
 
-#### Rafael Marrocos Magalhães, Mech. Engg. <span style="color:rgb(200,200,0);"> &#10144; </span>
+#### Rafael Marrocos Magalhães, Mech. Engg. <span style="color:green;"> &#10004; </span> 
 - *Deep Learning Algorithms as Proxy Models for Hydrocarbon Reservoir Simulation*, 2018. (Co-advisor)
-- Funding: Petrobras
+- Funding: Petrobras (partial)
