@@ -18,7 +18,7 @@ Find here information and materials about current(past) courses that I teach(hav
 
 {% include components/courses/grad/calcnum.md %}
 {% include components/courses/grad/matdisc.md %}
-{% include components/courses/grad/analnum.md %}
+{% include components/courses/grad/metscomps.md %}
 
 ## Short courses
 
