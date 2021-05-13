@@ -100,3 +100,8 @@ opt + shift + v --> ◊
 {% highlight shell %} 
 say -f file.txt -o output_file.aiff -r <rate_in_words_per_minute> -v [alex, bruce, luciana, etc]
 {% endhighlight %} 
+
+## Adding preferences to .zshrc file
+
+- macOS is now using [Z Shell](http://zsh.sourceforge.net) as default shell.
+- Add preferences to `~/.zshrc;`. Then update with `source ~/.zshrc`.
