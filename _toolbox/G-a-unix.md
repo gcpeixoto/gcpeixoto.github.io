@@ -101,7 +101,8 @@ opt + shift + v --> ◊
 say -f file.txt -o output_file.aiff -r <rate_in_words_per_minute> -v [alex, bruce, luciana, etc]
 {% endhighlight %} 
 
-## Adding preferences to .zshrc file
+## .zshrc and .zshenv
 
 - macOS is now using [Z Shell](http://zsh.sourceforge.net) as default shell.
 - Add preferences to `~/.zshrc;`. Then update with `source ~/.zshrc`.
+- If a `.bash_profile` exists, the quick way to get things working as before is to create a `.zshenv` and pull back current settings with `echo source ~/.bash_profile > ~/.zshenv && source ~/.zshenv`; see [here](https://stackoverflow.com/questions/23090390/is-there-anything-in-zsh-like-bash-profile).
