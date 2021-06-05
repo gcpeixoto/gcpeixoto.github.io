@@ -13,7 +13,7 @@ title: G-ς - Law
 
 - Redação oficial
 
-	- [Manual PR](../_media/_files/leis/manual-redacao-presidencia.pdf): Manual de Redação da Presidência da República.
+	- [Manual PR](../_media/files/leis/manual-redacao-presidencia.pdf): Manual de Redação da Presidência da República.
 
 ## Magistério Federal
 
@@ -31,17 +31,17 @@ title: G-ς - Law
 
 Âmbito UFPB:
 
-- [Estatuto UFPB](../_media/_files/leis/estatuto-ufpb.pdf). Nota: acompanhar avanços da [Estatuinte 2020](https://www.ufpb.br/estatuinte/)
+- [Estatuto UFPB](../_media/files/leis/estatuto-ufpb.pdf). Nota: acompanhar avanços da [Estatuinte 2020](https://www.ufpb.br/estatuinte/)
 
 - Estágio probatório e progressões
-	- [Res. CONSUNI/UFPB 05/1999](../_media/_files/leis/resolucao-consuni-05-1999-normas-estagio-probatorio.pdf): Normas para avaliação de desempenho de docentes em estágio probatório.
-	- [Res. CONSEPE/UFPB 37/1999](../_media/_files/leis/resolucao-consepe-37-1999-progressao.pdf): Sistema de avaliação. Ver 06/2001.
-	- [Res. CONSEPE/UFPB 06/2001](../_media/_files/leis/resolucao-consepe-06-2001-progressao.pdf): Altera 37/1999.
-	- [Res. CONSEPE/UFPB 27/2001](../_media/_files/leis/resolucao-consepe-27-2001-progressao-tabela.pdf): Tabela de pontos (produção).
-	- [Res. CONSUNI/UFPB 20/2020](../_media/_files/leis/resolucao-consuni-20-2020-estrutura-cppd.pdf): Estrutura CPPD. Ver 12772/2012, Capítulo VII.
+	- [Res. CONSUNI/UFPB 05/1999](../_media/files/leis/resolucao-consuni-05-1999-normas-estagio-probatorio.pdf): Normas para avaliação de desempenho de docentes em estágio probatório.
+	- [Res. CONSEPE/UFPB 37/1999](../_media/files/leis/resolucao-consepe-37-1999-progressao.pdf): Sistema de avaliação. Ver 06/2001.
+	- [Res. CONSEPE/UFPB 06/2001](../_media/files/leis/resolucao-consepe-06-2001-progressao.pdf): Altera 37/1999.
+	- [Res. CONSEPE/UFPB 27/2001](../_media/files/leis/resolucao-consepe-27-2001-progressao-tabela.pdf): Tabela de pontos (produção).
+	- [Res. CONSUNI/UFPB 20/2020](../_media/files/leis/resolucao-consuni-20-2020-estrutura-cppd.pdf): Estrutura CPPD. Ver 12772/2012, Capítulo VII.
 
 - Afastamentos
-	- [Res. CONSEPE/UFPB 07/2004](../_media/_files/leis/resolucao-consepe-07-2004-afastamento-docente.pdf): Afatamento de docentes.
+	- [Res. CONSEPE/UFPB 07/2004](../_media/files/leis/resolucao-consepe-07-2004-afastamento-docente.pdf): Afatamento de docentes.
 
 ## Inovação
 
@@ -82,34 +82,34 @@ PD&I, Termo de Outorga, Convênio para PD&I);
 
 Âmbito UFPB:
 
-- [Res. CONSUNI/UFPB 18/2017](../_media/_files/leis/resolucao-consuni-18-2017-inovacao.pdf): Política de PI e Inovação.
-- [Res. CONSUNI/UFPB 04/2018](../_media/_files/leis/resolucao-conuni-04-2018-empresa-junior.pdf): Criação, reconhecimento e funcionamento de Empresas Juniores.
+- [Res. CONSUNI/UFPB 18/2017](../_media/files/leis/resolucao-consuni-18-2017-inovacao.pdf): Política de PI e Inovação.
+- [Res. CONSUNI/UFPB 04/2018](../_media/files/leis/resolucao-conuni-04-2018-empresa-junior.pdf): Criação, reconhecimento e funcionamento de Empresas Juniores.
 
 ## Regimentos e estruturação - UFPB
 
-- [RG](../_media/_files/leis/regimento-geral-ufpb.pdf): Regimento Geral.
-- [Res. CONSUNI 22/2011](../_media/_files/leis/resolucao-consuni-22-2011-criacao-ci.pdf): Criação do CI.
-- [Res. CONSEPE 22/2014](../_media/_files/leis/resolucao-consepe-22-2014-regimento-ci.pdf): Regimento do CI.
-- [Res. CONSEPE 29/2020](../_media/_files/leis/resolucao-consepe-29-2020-regimento-graduacao.pdf): Regimento da graduação.
+- [RG](../_media/files/leis/regimento-geral-ufpb.pdf): Regimento Geral.
+- [Res. CONSUNI 22/2011](../_media/files/leis/resolucao-consuni-22-2011-criacao-ci.pdf): Criação do CI.
+- [Res. CONSEPE 22/2014](../_media/files/leis/resolucao-consepe-22-2014-regimento-ci.pdf): Regimento do CI.
+- [Res. CONSEPE 29/2020](../_media/files/leis/resolucao-consepe-29-2020-regimento-graduacao.pdf): Regimento da graduação.
  
 ## Internacionalização - UFPB
 
-- [Res. CONSUNI 06/2018](../_media/_files/leis/resolucao-consuni-06-2018-internacionalizacao.pdf): Política de internacionalização.
+- [Res. CONSUNI 06/2018](../_media/files/leis/resolucao-consuni-06-2018-internacionalizacao.pdf): Política de internacionalização.
 
 
 ## Pós-graduação - UFPB
 
-- [Res. CONSEPE 79/2013](../_media/_files/leis/resolucao-consepe-79-2013-regulamento-geral-pos.pdf): Regulamento geral da pós-graduação. Ver 34/2014.
-- [Res. CONSEPE 34/2014](../_media/_files/leis/resolucao-consepe-79-2013-regulamento-geral-pos-alteracoes.pdf): Altera 79/2013.
-- [Res. CONSEPE 58/2016](../_media/_files/leis/resolucao-consepe-58-2016-acoes-afirmativas-pos.pdf): Ações afirmativas.
-- [Res. CONSEPE 65/2016](../_media/_files/leis/resolucao-consepe-65-2016-fluxo-continuo-pos.pdf): Fluxo contínuo.
+- [Res. CONSEPE 79/2013](../_media/files/leis/resolucao-consepe-79-2013-regulamento-geral-pos.pdf): Regulamento geral da pós-graduação. Ver 34/2014.
+- [Res. CONSEPE 34/2014](../_media/files/leis/resolucao-consepe-79-2013-regulamento-geral-pos-alteracoes.pdf): Altera 79/2013.
+- [Res. CONSEPE 58/2016](../_media/files/leis/resolucao-consepe-58-2016-acoes-afirmativas-pos.pdf): Ações afirmativas.
+- [Res. CONSEPE 65/2016](../_media/files/leis/resolucao-consepe-65-2016-fluxo-continuo-pos.pdf): Fluxo contínuo.
 
 ## PPGEM - UFPB
 
-- [Res. CONSEPE 66/2015](../_media/_files/leis/resolucao-consepe-66-2015-regulamento-ppgem-novo.pdf): Regulamento do PPGEM.
-- [Res. PPGEM 01/2018](../_media/_files/leis/resolucao-ppgem-01-2018-credenciamento-docentes.pdf): Credenciamento de docentes no PPGEM.
-- [Res. PPGEM 02/2018](../_media/_files/leis/resolucao-ppgem-02-2018-credenciamento-docentes-alteracao.pdf): Altera 01/2018.
-- [Res. CONSEPE 13/2019](../_media/_files/leis/resolucao-consepe-13-2019-estrutura-ppgem.pdf): Altera estrutura do PPGEM.
+- [Res. CONSEPE 66/2015](../_media/files/leis/resolucao-consepe-66-2015-regulamento-ppgem-novo.pdf): Regulamento do PPGEM.
+- [Res. PPGEM 01/2018](../_media/files/leis/resolucao-ppgem-01-2018-credenciamento-docentes.pdf): Credenciamento de docentes no PPGEM.
+- [Res. PPGEM 02/2018](../_media/files/leis/resolucao-ppgem-02-2018-credenciamento-docentes-alteracao.pdf): Altera 01/2018.
+- [Res. CONSEPE 13/2019](../_media/files/leis/resolucao-consepe-13-2019-estrutura-ppgem.pdf): Altera estrutura do PPGEM.
 
 
 	
