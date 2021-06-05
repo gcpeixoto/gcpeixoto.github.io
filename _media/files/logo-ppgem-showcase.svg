@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4190"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="841mm"
+   height="594mm"
+   viewBox="0 0 2979.9212 2104.7244"
+   sodipodi:docname="logo-ppgem.svg">
+  <metadata
+     id="metadata4196">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4194">
+    <linearGradient
+       id="linearGradient4743"
+       inkscape:collect="always">
+      <stop
+         id="stop4745"
+         offset="0"
+         style="stop-color:#3691c3;stop-opacity:1" />
+      <stop
+         id="stop4747"
+         offset="1"
+         style="stop-color:#2e62ad;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4727">
+      <stop
+         style="stop-color:#ceffff;stop-opacity:1"
+         offset="0"
+         id="stop4729" />
+      <stop
+         style="stop-color:#65b5f6;stop-opacity:1"
+         offset="1"
+         id="stop4731" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4727"
+       id="linearGradient4733"
+       x1="99.386147"
+       y1="73.86367"
+       x2="114.15966"
+       y2="73.061745"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4743"
+       id="linearGradient4741"
+       x1="120.313"
+       y1="73.898567"
+       x2="143.55197"
+       y2="86.232239"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4727"
+       id="linearGradient4759"
+       gradientUnits="userSpaceOnUse"
+       x1="99.386147"
+       y1="73.86367"
+       x2="114.15966"
+       y2="73.061745" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4743"
+       id="linearGradient4761"
+       gradientUnits="userSpaceOnUse"
+       x1="120.313"
+       y1="73.898567"
+       x2="143.55197"
+       y2="86.232239" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4727"
+       id="linearGradient4769"
+       gradientUnits="userSpaceOnUse"
+       x1="99.386147"
+       y1="73.86367"
+       x2="114.15966"
+       y2="73.061745"
+       gradientTransform="matrix(-0.5,-0.8660254,0.8660254,-0.5,100.47372,215.78452)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4743"
+       id="linearGradient4771"
+       gradientUnits="userSpaceOnUse"
+       x1="120.313"
+       y1="73.898567"
+       x2="143.55197"
+       y2="86.232239"
+       gradientTransform="matrix(-0.5,-0.8660254,0.8660254,-0.5,100.47372,215.78452)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4743"
+       id="linearGradient4804"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.5,-0.8660254,0.8660254,-0.5,100.47372,215.78452)"
+       x1="120.313"
+       y1="73.898567"
+       x2="143.55197"
+       y2="86.232239" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4743"
+       id="linearGradient4970"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.5,-0.8660254,0.8660254,-0.5,100.47372,215.78452)"
+       x1="120.313"
+       y1="73.898567"
+       x2="143.55197"
+       y2="86.232239" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4743"
+       id="linearGradient5720"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.5,-0.8660254,0.8660254,-0.5,100.47372,215.78452)"
+       x1="120.313"
+       y1="73.898567"
+       x2="143.55197"
+       y2="86.232239" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4743"
+       id="linearGradient5846"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.5,-0.8660254,0.8660254,-0.5,100.47372,215.78452)"
+       x1="120.313"
+       y1="73.898567"
+       x2="143.55197"
+       y2="86.232239" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="712"
+     id="namedview4192"
+     showgrid="false"
+     showguides="true"
+     inkscape:object-paths="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.35473802"
+     inkscape:cx="768.78807"
+     inkscape:cy="920.49774"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4190"
+     units="mm">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4200" />
+  </sodipodi:namedview>
+  <g
+     id="g4834"
+     transform="matrix(7.644119,0,0,7.644119,1770.2248,-353.71116)"
+     style="fill:#3691c3;fill-opacity:1">
+    <g
+       id="g4836"
+       style="fill:#3691c3;fill-opacity:1" />
+    <g
+       id="g4838"
+       transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,237.03263,20.858983)"
+       style="fill:#3691c3;fill-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 89.396783,74.859934 7.352559,-13.190224 19.629078,0.0783 2.39823,4.414377 -19.517866,-0.146607 -9.573786,17.072124 z m 7.440385,20.625894 -6.747516,-11.696241 9.632124,-17.078624 19.522444,0.130341 2.52521,4.373792 -19.40304,0.07647 -7.358899,12.904214 8.598629,15.019017 z m 23.689662,5.428352 -15.09935,0.22761 -9.746729,-17.038427 2.623845,-4.284121 9.631974,16.976275 19.57178,-0.24492 z m 14.14235,-16.756505 -6.75548,11.691641 -19.60659,0.197648 -9.648337,-16.972101 2.525207,-4.373792 9.76774,16.765294 14.85483,-0.07912 8.70754,-14.956137 z M 127.58274,60.869385 135.32953,73.832 125.44718,90.792128 120.4251,90.661872 130.311,73.832204 120.313,57.005 Z M 106,57 l 13.503,0.0046 9.97446,16.880976 -9.8741,16.84176 -5.05042,0 9.6353,-16.84176 -7.49593,-12.825097 -17.306163,-0.06288 z"
+       style="fill:#3691c3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4840" />
+  </g>
+  <g
+     id="g5489"
+     transform="translate(57.028488,388.65007)">
+    <g
+       style="fill:#000000;fill-opacity:1"
+       transform="matrix(5.76,0,0,5.76,-287.71014,526.86956)"
+       id="g4874">
+      <g
+         style="fill:#000000;fill-opacity:1"
+         id="g4876" />
+      <g
+         style="fill:#000000;fill-opacity:1"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,237.03263,20.858983)"
+         id="g4878" />
+      <path
+         id="path4880"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 89.396783,74.859934 7.352559,-13.190224 19.629078,0.0783 2.39823,4.414377 -19.517866,-0.146607 -9.573786,17.072124 z m 7.440385,20.625894 -6.747516,-11.696241 9.632124,-17.078624 19.522444,0.130341 2.52521,4.373792 -19.40304,0.07647 -7.358899,12.904214 8.598629,15.019017 z m 23.689662,5.428352 -15.09935,0.22761 -9.746729,-17.038427 2.623845,-4.284121 9.631974,16.976275 19.57178,-0.24492 z m 14.14235,-16.756505 -6.75548,11.691641 -19.60659,0.197648 -9.648337,-16.972101 2.525207,-4.373792 9.76774,16.765294 14.85483,-0.07912 8.70754,-14.956137 z M 127.58274,60.869385 135.32953,73.832 125.44718,90.792128 120.4251,90.661872 130.311,73.832204 120.313,57.005 Z M 106,57 l 13.503,0.0046 9.97446,16.880976 -9.8741,16.84176 -5.05042,0 9.6353,-16.84176 -7.49593,-12.825097 -17.306163,-0.06288 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4882"
+       y="1190.5098"
+       x="209.31412"
+       style="font-style:normal;font-weight:normal;font-size:115.19999695px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:86.40000153px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1"
+         y="1190.5098"
+         x="209.31412"
+         id="tspan4884"
+         sodipodi:role="line">PPGEM</tspan><tspan
+         id="tspan4886"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:86.40000153px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#2568ae;fill-opacity:1"
+         y="1298.5098"
+         x="209.31412"
+         sodipodi:role="line" /></text>
+    <g
+       id="g4897"
+       transform="matrix(5.76,0,0,5.76,52.289851,526.86956)"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+      <g
+         id="g4899"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+      <g
+         id="g4901"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,237.03263,20.858983)"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 89.396783,74.859934 7.352559,-13.190224 19.629078,0.0783 2.39823,4.414377 -19.517866,-0.146607 -9.573786,17.072124 z m 7.440385,20.625894 -6.747516,-11.696241 9.632124,-17.078624 19.522444,0.130341 2.52521,4.373792 -19.40304,0.07647 -7.358899,12.904214 8.598629,15.019017 z m 23.689662,5.428352 -15.09935,0.22761 -9.746729,-17.038427 2.623845,-4.284121 9.631974,16.976275 19.57178,-0.24492 z m 14.14235,-16.756505 -6.75548,11.691641 -19.60659,0.197648 -9.648337,-16.972101 2.525207,-4.373792 9.76774,16.765294 14.85483,-0.07912 8.70754,-14.956137 z M 127.58274,60.869385 135.32953,73.832 125.44718,90.792128 120.4251,90.661872 130.311,73.832204 120.313,57.005 Z M 106,57 l 13.503,0.0046 9.97446,16.880976 -9.8741,16.84176 -5.05042,0 9.6353,-16.84176 -7.49593,-12.825097 -17.306163,-0.06288 z"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.3125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4903" />
+    </g>
+    <g
+       transform="translate(167.92263,415.14906)"
+       id="text4905"
+       style="font-style:normal;font-weight:normal;font-size:115.19999695px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4912"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:86.40000153px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         d="m 398.39307,719.37784 0,23.66719 10.71563,0 q 5.94844,0 9.19687,-3.07969 3.24844,-3.07968 3.24844,-8.775 0,-5.65312 -3.24844,-8.73281 -3.24843,-3.07969 -9.19687,-3.07969 l -10.71563,0 z m -8.52187,-7.00312 19.2375,0 q 10.58906,0 15.98906,4.80937 5.44219,4.76719 5.44219,14.00625 0,9.32344 -5.44219,14.09063 -5.4,4.76719 -15.98906,4.76719 l -10.71563,0 0,25.3125 -8.52187,0 0,-62.98594 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4914"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:86.40000153px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         d="m 450.53682,719.37784 0,23.66719 10.71563,0 q 5.94843,0 9.19687,-3.07969 3.24844,-3.07968 3.24844,-8.775 0,-5.65312 -3.24844,-8.73281 -3.24844,-3.07969 -9.19687,-3.07969 l -10.71563,0 z m -8.52187,-7.00312 19.2375,0 q 10.58906,0 15.98906,4.80937 5.44219,4.76719 5.44219,14.00625 0,9.32344 -5.44219,14.09063 -5.4,4.76719 -15.98906,4.76719 l -10.71563,0 0,25.3125 -8.52187,0 0,-62.98594 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4916"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:86.40000153px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         d="m 537.10557,766.37472 0,-16.91719 -13.92187,0 0,-7.00312 22.35937,0 0,27.04218 q -4.93594,3.50157 -10.88437,5.31563 -5.94844,1.77187 -12.69844,1.77187 -14.76563,0 -23.11875,-8.60625 -8.31094,-8.64843 -8.31094,-24.04687 0,-15.44063 8.31094,-24.04688 8.35312,-8.64843 23.11875,-8.64843 6.15937,0 11.68594,1.51875 5.56875,1.51875 10.25156,4.47187 l 0,9.07031 q -4.725,-4.00781 -10.04063,-6.03281 -5.31562,-2.025 -11.17968,-2.025 -11.55938,0 -17.38125,6.45469 -5.77969,6.45469 -5.77969,19.2375 0,12.74062 5.77969,19.19531 5.82187,6.45469 17.38125,6.45469 4.51406,0 8.05781,-0.75938 3.54375,-0.80156 6.37031,-2.44687 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4918"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:86.40000153px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         d="m 561.15245,712.37472 39.825,0 0,7.17187 -31.30313,0 0,18.64688 29.99532,0 0,7.17187 -29.99532,0 0,22.82344 32.0625,0 0,7.17188 -40.58437,0 0,-62.98594 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4920"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:86.40000153px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         d="m 615.6587,712.37472 12.69844,0 16.07344,42.8625 16.15781,-42.8625 12.69844,0 0,62.98594 -8.31094,0 0,-55.30782 -16.24219,43.2 -8.56406,0 -16.24219,-43.2 0,55.30782 -8.26875,0 0,-62.98594 z" />
+    </g>
+  </g>
+  <g
+     id="g5508"
+     transform="translate(15.218236,2.5464918)">
+    <g
+       transform="matrix(2.88,0,0,2.88,240.68304,315.01999)"
+       id="g4811">
+      <g
+         id="g4301"
+         transform="matrix(2,0,0,2,-112.03057,-78.990586)">
+        <g
+           id="g4749">
+          <path
+             sodipodi:nodetypes="ccccccccc"
+             inkscape:connector-curvature="0"
+             d="m 106,57 13.503,0.0046 9.97446,16.880976 -9.8741,16.84176 -5.05042,0 9.6353,-16.84176 -7.49593,-12.825097 -17.306163,-0.06288 z"
+             style="opacity:0.70099996;fill:url(#linearGradient4733);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path4307" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             inkscape:connector-curvature="0"
+             id="path4309"
+             style="fill:url(#linearGradient4741);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 127.58274,60.869385 135.32953,73.832 125.44718,90.792128 120.4251,90.661872 130.311,73.832204 120.313,57.005 Z" />
+        </g>
+        <g
+           id="g4753"
+           transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,237.03263,20.858983)">
+          <path
+             id="path4755"
+             style="opacity:0.70099996;fill:url(#linearGradient4759);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 106,57 13.503,0.0046 9.97446,16.880976 -9.8741,16.84176 -5.05042,0 9.6353,-16.84176 -7.49593,-12.825097 -17.306163,-0.06288 z"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccccccc" />
+          <path
+             d="M 127.58274,60.869385 135.32953,73.832 125.44718,90.792128 120.4251,90.661872 130.311,73.832204 120.313,57.005 Z"
+             style="fill:url(#linearGradient4761);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path4757"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccccc" />
+        </g>
+        <path
+           id="path4765"
+           style="opacity:0.70099996;fill:url(#linearGradient4769);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 96.837168,95.485828 -6.747516,-11.696241 9.632124,-17.078624 19.522444,0.130341 2.52521,4.373792 -19.40304,0.07647 -7.358899,12.904214 8.598629,15.019017 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc" />
+        <path
+           d="m 89.396783,74.859934 7.352559,-13.190224 19.629078,0.0783 2.39823,4.414377 -19.517866,-0.146607 -9.573786,17.072124 z"
+           style="fill:url(#linearGradient4771);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4767"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccc" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="60.547306"
+         y="151.08765"
+         id="text4361"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4363"
+           x="60.547306"
+           y="151.08765"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#2568ae;fill-opacity:1">PPGEM</tspan></text>
+    </g>
+    <g
+       transform="matrix(2.88,0,0,2.88,188.84304,315.01999)"
+       id="g4824">
+      <g
+         transform="matrix(2,0,0,2,-212.03057,-78.990586)"
+         id="g4776">
+        <g
+           id="g4778" />
+        <g
+           transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,237.03263,20.858983)"
+           id="g4784" />
+        <path
+           id="path4792"
+           style="fill:url(#linearGradient4804);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 89.396783,74.859934 7.352559,-13.190224 19.629078,0.0783 2.39823,4.414377 -19.517866,-0.146607 -9.573786,17.072124 z m 7.440385,20.625894 -6.747516,-11.696241 9.632124,-17.078624 19.522444,0.130341 2.52521,4.373792 -19.40304,0.07647 -7.358899,12.904214 8.598629,15.019017 z m 23.689662,5.428352 -15.09935,0.22761 -9.746729,-17.038427 2.623845,-4.284121 9.631974,16.976275 19.57178,-0.24492 z m 14.14235,-16.756505 -6.75548,11.691641 -19.60659,0.197648 -9.648337,-16.972101 2.525207,-4.373792 9.76774,16.765294 14.85483,-0.07912 8.70754,-14.956137 z M 127.58274,60.869385 135.32953,73.832 125.44718,90.792128 120.4251,90.661872 130.311,73.832204 120.313,57.005 Z M 106,57 l 13.503,0.0046 9.97446,16.880976 -9.8741,16.84176 -5.05042,0 9.6353,-16.84176 -7.49593,-12.825097 -17.306163,-0.06288 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4807"
+         y="151.44002"
+         x="-39.452694"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#2568ae;fill-opacity:1"
+           y="151.44002"
+           x="-39.452694"
+           id="tspan4809"
+           sodipodi:role="line">PPGEM</tspan><tspan
+           id="tspan4858"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#2568ae;fill-opacity:1"
+           y="188.94002"
+           x="-39.452694"
+           sodipodi:role="line" /></text>
+    </g>
+    <g
+       style="fill:none;fill-opacity:1;stroke:#2568ae;stroke-opacity:1"
+       transform="matrix(5.76,0,0,5.76,269.93681,87.231686)"
+       id="g4922">
+      <g
+         style="fill:none;fill-opacity:1;stroke:#2568ae;stroke-opacity:1"
+         id="g4924" />
+      <g
+         style="fill:none;fill-opacity:1;stroke:#2568ae;stroke-opacity:1"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,237.03263,20.858983)"
+         id="g4926" />
+      <path
+         id="path4928"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#2568ae;stroke-width:0.3125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 89.396783,74.859934 7.352559,-13.190224 19.629078,0.0783 2.39823,4.414377 -19.517866,-0.146607 -9.573786,17.072124 z m 7.440385,20.625894 -6.747516,-11.696241 9.632124,-17.078624 19.522444,0.130341 2.52521,4.373792 -19.40304,0.07647 -7.358899,12.904214 8.598629,15.019017 z m 23.689662,5.428352 -15.09935,0.22761 -9.746729,-17.038427 2.623845,-4.284121 9.631974,16.976275 19.57178,-0.24492 z m 14.14235,-16.756505 -6.75548,11.691641 -19.60659,0.197648 -9.648337,-16.972101 2.525207,-4.373792 9.76774,16.765294 14.85483,-0.07912 8.70754,-14.956137 z M 127.58274,60.869385 135.32953,73.832 125.44718,90.792128 120.4251,90.661872 130.311,73.832204 120.313,57.005 Z M 106,57 l 13.503,0.0046 9.97446,16.880976 -9.8741,16.84176 -5.05042,0 9.6353,-16.84176 -7.49593,-12.825097 -17.306163,-0.06288 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(385.63797,-24.488814)"
+       style="font-style:normal;font-weight:normal;font-size:115.19999695px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#2568ae;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="g4930">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 398.39307,719.37784 0,23.66719 10.71563,0 q 5.94844,0 9.19687,-3.07969 3.24844,-3.07968 3.24844,-8.775 0,-5.65312 -3.24844,-8.73281 -3.24843,-3.07969 -9.19687,-3.07969 l -10.71563,0 z m -8.52187,-7.00312 19.2375,0 q 10.58906,0 15.98906,4.80937 5.44219,4.76719 5.44219,14.00625 0,9.32344 -5.44219,14.09063 -5.4,4.76719 -15.98906,4.76719 l -10.71563,0 0,25.3125 -8.52187,0 0,-62.98594 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:86.40000153px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:none;fill-opacity:1;stroke:#2568ae;stroke-opacity:1"
+         id="path4932" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 450.53682,719.37784 0,23.66719 10.71563,0 q 5.94843,0 9.19687,-3.07969 3.24844,-3.07968 3.24844,-8.775 0,-5.65312 -3.24844,-8.73281 -3.24844,-3.07969 -9.19687,-3.07969 l -10.71563,0 z m -8.52187,-7.00312 19.2375,0 q 10.58906,0 15.98906,4.80937 5.44219,4.76719 5.44219,14.00625 0,9.32344 -5.44219,14.09063 -5.4,4.76719 -15.98906,4.76719 l -10.71563,0 0,25.3125 -8.52187,0 0,-62.98594 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:86.40000153px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:none;fill-opacity:1;stroke:#2568ae;stroke-opacity:1"
+         id="path4934" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 537.10557,766.37472 0,-16.91719 -13.92187,0 0,-7.00312 22.35937,0 0,27.04218 q -4.93594,3.50157 -10.88437,5.31563 -5.94844,1.77187 -12.69844,1.77187 -14.76563,0 -23.11875,-8.60625 -8.31094,-8.64843 -8.31094,-24.04687 0,-15.44063 8.31094,-24.04688 8.35312,-8.64843 23.11875,-8.64843 6.15937,0 11.68594,1.51875 5.56875,1.51875 10.25156,4.47187 l 0,9.07031 q -4.725,-4.00781 -10.04063,-6.03281 -5.31562,-2.025 -11.17968,-2.025 -11.55938,0 -17.38125,6.45469 -5.77969,6.45469 -5.77969,19.2375 0,12.74062 5.77969,19.19531 5.82187,6.45469 17.38125,6.45469 4.51406,0 8.05781,-0.75938 3.54375,-0.80156 6.37031,-2.44687 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:86.40000153px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:none;fill-opacity:1;stroke:#2568ae;stroke-opacity:1"
+         id="path4936" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 561.15245,712.37472 39.825,0 0,7.17187 -31.30313,0 0,18.64688 29.99532,0 0,7.17187 -29.99532,0 0,22.82344 32.0625,0 0,7.17188 -40.58437,0 0,-62.98594 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:86.40000153px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:none;fill-opacity:1;stroke:#2568ae;stroke-opacity:1"
+         id="path4938" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 615.6587,712.37472 12.69844,0 16.07344,42.8625 16.15781,-42.8625 12.69844,0 0,62.98594 -8.31094,0 0,-55.30782 -16.24219,43.2 -8.56406,0 -16.24219,-43.2 0,55.30782 -8.26875,0 0,-62.98594 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:86.40000153px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:none;fill-opacity:1;stroke:#2568ae;stroke-opacity:1"
+         id="path4940" />
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="360.82965"
+     y="148.35106"
+     id="text4942"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4944"
+       x="360.82965"
+       y="148.35106"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#3691c3;fill-opacity:1">Rebranding - PPGEM / UFPB</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text4946"
+     y="342.37711"
+     x="330.50876"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:62.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#3691c3;fill-opacity:1"
+       y="342.37711"
+       x="330.50876"
+       id="tspan4948"
+       sodipodi:role="line">pt - cor - curto</tspan></text>
+  <g
+     id="g5439"
+     transform="translate(51.658245,52.3364)">
+    <text
+       sodipodi:linespacing="125%"
+       id="text4842"
+       y="914.66541"
+       x="310.53976"
+       style="font-style:normal;font-weight:normal;font-size:115.2035141px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4854"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#2568ae;fill-opacity:1"
+         y="914.66541"
+         x="310.53976"
+         sodipodi:role="line">Programa de Pós-Graduação </tspan><tspan
+         id="tspan4870"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#2568ae;fill-opacity:1"
+         y="961.54181"
+         x="310.53976"
+         sodipodi:role="line">em Engenharia Mecânica</tspan><tspan
+         id="tspan4856"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#2568ae;fill-opacity:1"
+         y="1008.4183"
+         x="310.53976"
+         sodipodi:role="line"><tspan
+   id="tspan4864"
+   style="text-align:start;text-anchor:start">Universidade Federal da Paraíb</tspan>a</tspan></text>
+    <g
+       transform="matrix(2.782024,0,0,2.782024,-92.259395,726.89752)"
+       id="g4956">
+      <g
+         id="g4958" />
+      <g
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,237.03263,20.858983)"
+         id="g4960" />
+      <path
+         id="path4962"
+         style="fill:url(#linearGradient4970);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 89.396783,74.859934 7.352559,-13.190224 19.629078,0.0783 2.39823,4.414377 -19.517866,-0.146607 -9.573786,17.072124 z m 7.440385,20.625894 -6.747516,-11.696241 9.632124,-17.078624 19.522444,0.130341 2.52521,4.373792 -19.40304,0.07647 -7.358899,12.904214 8.598629,15.019017 z m 23.689662,5.428352 -15.09935,0.22761 -9.746729,-17.038427 2.623845,-4.284121 9.631974,16.976275 19.57178,-0.24492 z m 14.14235,-16.756505 -6.75548,11.691641 -19.60659,0.197648 -9.648337,-16.972101 2.525207,-4.373792 9.76774,16.765294 14.85483,-0.07912 8.70754,-14.956137 z M 127.58274,60.869385 135.32953,73.832 125.44718,90.792128 120.4251,90.661872 130.311,73.832204 120.313,57.005 Z M 106,57 l 13.503,0.0046 9.97446,16.880976 -9.8741,16.84176 -5.05042,0 9.6353,-16.84176 -7.49593,-12.825097 -17.306163,-0.06288 z"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     id="g5450"
+     transform="translate(58.7057,483.42049)">
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g4979"
+       transform="matrix(2.782024,0,0,2.782024,-92.259395,1124.3739)">
+      <g
+         style="fill:#000000;fill-opacity:1"
+         id="g4981" />
+      <g
+         style="fill:#000000;fill-opacity:1"
+         id="g4983"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,237.03263,20.858983)" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 89.396783,74.859934 7.352559,-13.190224 19.629078,0.0783 2.39823,4.414377 -19.517866,-0.146607 -9.573786,17.072124 z m 7.440385,20.625894 -6.747516,-11.696241 9.632124,-17.078624 19.522444,0.130341 2.52521,4.373792 -19.40304,0.07647 -7.358899,12.904214 8.598629,15.019017 z m 23.689662,5.428352 -15.09935,0.22761 -9.746729,-17.038427 2.623845,-4.284121 9.631974,16.976275 19.57178,-0.24492 z m 14.14235,-16.756505 -6.75548,11.691641 -19.60659,0.197648 -9.648337,-16.972101 2.525207,-4.373792 9.76774,16.765294 14.85483,-0.07912 8.70754,-14.956137 z M 127.58274,60.869385 135.32953,73.832 125.44718,90.792128 120.4251,90.661872 130.311,73.832204 120.313,57.005 Z M 106,57 l 13.503,0.0046 9.97446,16.880976 -9.8741,16.84176 -5.05042,0 9.6353,-16.84176 -7.49593,-12.825097 -17.306163,-0.06288 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4985" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:115.2035141px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="296.44485"
+       y="1309.3229"
+       id="text5429"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="296.44485"
+         y="1309.3229"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         id="tspan5431">Programa de Pós-Graduação </tspan><tspan
+         sodipodi:role="line"
+         x="296.44485"
+         y="1356.1993"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         id="tspan5433">em Engenharia Mecânica</tspan><tspan
+         sodipodi:role="line"
+         x="296.44485"
+         y="1403.0757"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+         id="tspan5435"><tspan
+   style="text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+   id="tspan5437">Universidade Federal da Paraíb</tspan>a</tspan></text>
+  </g>
+  <g
+     transform="translate(58.925033,670.29019)"
+     id="g5461">
+    <g
+       transform="matrix(2.782024,0,0,2.782024,-92.259395,1124.3739)"
+       id="g5463"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         id="g5465"
+         style="fill:#000000;fill-opacity:1" />
+      <g
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,237.03263,20.858983)"
+         id="g5467"
+         style="fill:#000000;fill-opacity:1" />
+      <path
+         id="path5469"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.3125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 89.396783,74.859934 7.352559,-13.190224 19.629078,0.0783 2.39823,4.414377 -19.517866,-0.146607 -9.573786,17.072124 z m 7.440385,20.625894 -6.747516,-11.696241 9.632124,-17.078624 19.522444,0.130341 2.52521,4.373792 -19.40304,0.07647 -7.358899,12.904214 8.598629,15.019017 z m 23.689662,5.428352 -15.09935,0.22761 -9.746729,-17.038427 2.623845,-4.284121 9.631974,16.976275 19.57178,-0.24492 z m 14.14235,-16.756505 -6.75548,11.691641 -19.60659,0.197648 -9.648337,-16.972101 2.525207,-4.373792 9.76774,16.765294 14.85483,-0.07912 8.70754,-14.956137 z M 127.58274,60.869385 135.32953,73.832 125.44718,90.792128 120.4251,90.661872 130.311,73.832204 120.313,57.005 Z M 106,57 l 13.503,0.0046 9.97446,16.880976 -9.8741,16.84176 -5.05042,0 9.6353,-16.84176 -7.49593,-12.825097 -17.306163,-0.06288 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5471"
+       y="1309.3229"
+       x="296.44485"
+       style="font-style:normal;font-weight:normal;font-size:115.2035141px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5473"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="1309.3229"
+         x="296.44485"
+         sodipodi:role="line">Programa de Pós-Graduação </tspan><tspan
+         id="tspan5475"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="1356.1993"
+         x="296.44485"
+         sodipodi:role="line">em Engenharia Mecânica</tspan><tspan
+         id="tspan5477"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+         y="1403.0757"
+         x="296.44485"
+         sodipodi:role="line"><tspan
+   id="tspan5479"
+   style="text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Universidade Federal da Paraíb</tspan>a</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="306.33884"
+     y="1688.8148"
+     id="text5554"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5556"
+       x="306.33884"
+       y="1688.8148"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:62.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#3691c3;fill-opacity:1">pt - P&amp;B - longo</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text5558"
+     y="1168.1185"
+     x="312.01511"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:62.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#3691c3;fill-opacity:1"
+       y="1168.1185"
+       x="312.01511"
+       id="tspan5560"
+       sodipodi:role="line">pt - P&amp;B - curto</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="324.83249"
+     y="863.0733"
+     id="text5562"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5564"
+       x="324.83249"
+       y="863.0733"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:62.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#3691c3;fill-opacity:1">pt - cor - longo</tspan></text>
+  <g
+     transform="translate(931.65824,572.3364)"
+     id="g5648">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:115.2035141px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="310.53976"
+       y="914.66541"
+       id="text5650"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="310.53976"
+         y="914.66541"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#2568ae;fill-opacity:1"
+         id="tspan5652">Postgraduate Program</tspan><tspan
+         sodipodi:role="line"
+         x="310.53976"
+         y="961.54181"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#2568ae;fill-opacity:1"
+         id="tspan5654">Mechanical Engineering</tspan><tspan
+         sodipodi:role="line"
+         x="310.53976"
+         y="1008.4183"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#2568ae;fill-opacity:1"
+         id="tspan5726">Federal University of Paraíba </tspan><tspan
+         sodipodi:role="line"
+         x="310.53976"
+         y="1055.2947"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#2568ae;fill-opacity:1"
+         id="tspan5656" /></text>
+    <g
+       id="g5660"
+       transform="matrix(2.782024,0,0,2.782024,-92.259395,726.89752)">
+      <g
+         id="g5662" />
+      <g
+         id="g5664"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,237.03263,20.858983)" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 89.396783,74.859934 7.352559,-13.190224 19.629078,0.0783 2.39823,4.414377 -19.517866,-0.146607 -9.573786,17.072124 z m 7.440385,20.625894 -6.747516,-11.696241 9.632124,-17.078624 19.522444,0.130341 2.52521,4.373792 -19.40304,0.07647 -7.358899,12.904214 8.598629,15.019017 z m 23.689662,5.428352 -15.09935,0.22761 -9.746729,-17.038427 2.623845,-4.284121 9.631974,16.976275 19.57178,-0.24492 z m 14.14235,-16.756505 -6.75548,11.691641 -19.60659,0.197648 -9.648337,-16.972101 2.525207,-4.373792 9.76774,16.765294 14.85483,-0.07912 8.70754,-14.956137 z M 127.58274,60.869385 135.32953,73.832 125.44718,90.792128 120.4251,90.661872 130.311,73.832204 120.313,57.005 Z M 106,57 l 13.503,0.0046 9.97446,16.880976 -9.8741,16.84176 -5.05042,0 9.6353,-16.84176 -7.49593,-12.825097 -17.306163,-0.06288 z"
+         style="fill:url(#linearGradient5720);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path5666" />
+    </g>
+  </g>
+  <g
+     style="fill:#000000;fill-opacity:1"
+     id="g5670"
+     transform="matrix(2.782024,0,0,2.782024,846.4463,1607.7944)">
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g5672" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g5674"
+       transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,237.03263,20.858983)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 89.396783,74.859934 7.352559,-13.190224 19.629078,0.0783 2.39823,4.414377 -19.517866,-0.146607 -9.573786,17.072124 z m 7.440385,20.625894 -6.747516,-11.696241 9.632124,-17.078624 19.522444,0.130341 2.52521,4.373792 -19.40304,0.07647 -7.358899,12.904214 8.598629,15.019017 z m 23.689662,5.428352 -15.09935,0.22761 -9.746729,-17.038427 2.623845,-4.284121 9.631974,16.976275 19.57178,-0.24492 z m 14.14235,-16.756505 -6.75548,11.691641 -19.60659,0.197648 -9.648337,-16.972101 2.525207,-4.373792 9.76774,16.765294 14.85483,-0.07912 8.70754,-14.956137 z M 127.58274,60.869385 135.32953,73.832 125.44718,90.792128 120.4251,90.661872 130.311,73.832204 120.313,57.005 Z M 106,57 l 13.503,0.0046 9.97446,16.880976 -9.8741,16.84176 -5.05042,0 9.6353,-16.84176 -7.49593,-12.825097 -17.306163,-0.06288 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5676" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:115.2035141px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="1235.1505"
+     y="1792.7434"
+     id="text5678"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       x="1235.1505"
+       y="1792.7434"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+       id="tspan5756"><tspan
+         dx="0"
+         id="tspan5751"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Postgraduate Program</tspan></tspan><tspan
+       sodipodi:role="line"
+       x="1235.1505"
+       y="1839.6199"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+       id="tspan5765">Mechanical Engineering</tspan><tspan
+       sodipodi:role="line"
+       x="1235.1505"
+       y="1886.4962"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+       id="tspan5767">Federal University of Paraíba</tspan></text>
+  <g
+     id="g5688"
+     transform="translate(938.92503,670.29019)">
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g5690"
+       transform="matrix(2.782024,0,0,2.782024,-92.259395,1124.3739)">
+      <g
+         style="fill:#000000;fill-opacity:1"
+         id="g5692" />
+      <g
+         style="fill:#000000;fill-opacity:1"
+         id="g5694"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,237.03263,20.858983)" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 89.396783,74.859934 7.352559,-13.190224 19.629078,0.0783 2.39823,4.414377 -19.517866,-0.146607 -9.573786,17.072124 z m 7.440385,20.625894 -6.747516,-11.696241 9.632124,-17.078624 19.522444,0.130341 2.52521,4.373792 -19.40304,0.07647 -7.358899,12.904214 8.598629,15.019017 z m 23.689662,5.428352 -15.09935,0.22761 -9.746729,-17.038427 2.623845,-4.284121 9.631974,16.976275 19.57178,-0.24492 z m 14.14235,-16.756505 -6.75548,11.691641 -19.60659,0.197648 -9.648337,-16.972101 2.525207,-4.373792 9.76774,16.765294 14.85483,-0.07912 8.70754,-14.956137 z M 127.58274,60.869385 135.32953,73.832 125.44718,90.792128 120.4251,90.661872 130.311,73.832204 120.313,57.005 Z M 106,57 l 13.503,0.0046 9.97446,16.880976 -9.8741,16.84176 -5.05042,0 9.6353,-16.84176 -7.49593,-12.825097 -17.306163,-0.06288 z"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.3125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path5696" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:115.2035141px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="296.22443"
+       y="1309.3229"
+       id="text5698"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="296.22443"
+         y="1309.3229"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         id="tspan5704">Postgraduate Program</tspan><tspan
+         sodipodi:role="line"
+         x="296.22443"
+         y="1356.1993"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         id="tspan5774">Mechanical Engineering</tspan><tspan
+         sodipodi:role="line"
+         x="296.22443"
+         y="1403.0757"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+         id="tspan5776"><tspan
+   style="text-align:start;text-anchor:start"
+   id="tspan5778">Federal University of Paraíb</tspan>a</tspan></text>
+  </g>
+  <text
+     sodipodi:linespacing="125%"
+     id="text5708"
+     y="1688.8148"
+     x="1186.3389"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:62.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#3691c3;fill-opacity:1"
+       y="1688.8148"
+       x="1186.3389"
+       id="tspan5710"
+       sodipodi:role="line">en - P&amp;B - longo</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text5716"
+     y="1383.0732"
+     x="1204.8325"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:62.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#3691c3;fill-opacity:1"
+       y="1383.0732"
+       x="1204.8325"
+       id="tspan5718"
+       sodipodi:role="line">en - cor - longo</tspan></text>
+  <g
+     id="g5780"
+     transform="translate(1811.6582,572.3364)">
+    <text
+       sodipodi:linespacing="125%"
+       id="text5782"
+       y="914.66541"
+       x="310.53976"
+       style="font-style:normal;font-weight:normal;font-size:115.2035141px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5784"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#2568ae;fill-opacity:1"
+         y="914.66541"
+         x="310.53976"
+         sodipodi:role="line">Posgrado </tspan><tspan
+         id="tspan5786"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#2568ae;fill-opacity:1"
+         y="961.54181"
+         x="310.53976"
+         sodipodi:role="line">Ingeniería Mecánica</tspan><tspan
+         id="tspan5788"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#2568ae;fill-opacity:1"
+         y="1008.4183"
+         x="310.53976"
+         sodipodi:role="line">Universidad Federal de Paraíba </tspan><tspan
+         id="tspan5790"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#2568ae;fill-opacity:1"
+         y="1055.2947"
+         x="310.53976"
+         sodipodi:role="line" /></text>
+    <g
+       transform="matrix(2.782024,0,0,2.782024,-92.259395,726.89752)"
+       id="g5792">
+      <g
+         id="g5794" />
+      <g
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,237.03263,20.858983)"
+         id="g5796" />
+      <path
+         id="path5798"
+         style="fill:url(#linearGradient5846);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 89.396783,74.859934 7.352559,-13.190224 19.629078,0.0783 2.39823,4.414377 -19.517866,-0.146607 -9.573786,17.072124 z m 7.440385,20.625894 -6.747516,-11.696241 9.632124,-17.078624 19.522444,0.130341 2.52521,4.373792 -19.40304,0.07647 -7.358899,12.904214 8.598629,15.019017 z m 23.689662,5.428352 -15.09935,0.22761 -9.746729,-17.038427 2.623845,-4.284121 9.631974,16.976275 19.57178,-0.24492 z m 14.14235,-16.756505 -6.75548,11.691641 -19.60659,0.197648 -9.648337,-16.972101 2.525207,-4.373792 9.76774,16.765294 14.85483,-0.07912 8.70754,-14.956137 z M 127.58274,60.869385 135.32953,73.832 125.44718,90.792128 120.4251,90.661872 130.311,73.832204 120.313,57.005 Z M 106,57 l 13.503,0.0046 9.97446,16.880976 -9.8741,16.84176 -5.05042,0 9.6353,-16.84176 -7.49593,-12.825097 -17.306163,-0.06288 z"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     transform="matrix(2.782024,0,0,2.782024,1726.4463,1607.7944)"
+     id="g5800"
+     style="fill:#000000;fill-opacity:1">
+    <g
+       id="g5802"
+       style="fill:#000000;fill-opacity:1" />
+    <g
+       transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,237.03263,20.858983)"
+       id="g5804"
+       style="fill:#000000;fill-opacity:1" />
+    <path
+       id="path5806"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 89.396783,74.859934 7.352559,-13.190224 19.629078,0.0783 2.39823,4.414377 -19.517866,-0.146607 -9.573786,17.072124 z m 7.440385,20.625894 -6.747516,-11.696241 9.632124,-17.078624 19.522444,0.130341 2.52521,4.373792 -19.40304,0.07647 -7.358899,12.904214 8.598629,15.019017 z m 23.689662,5.428352 -15.09935,0.22761 -9.746729,-17.038427 2.623845,-4.284121 9.631974,16.976275 19.57178,-0.24492 z m 14.14235,-16.756505 -6.75548,11.691641 -19.60659,0.197648 -9.648337,-16.972101 2.525207,-4.373792 9.76774,16.765294 14.85483,-0.07912 8.70754,-14.956137 z M 127.58274,60.869385 135.32953,73.832 125.44718,90.792128 120.4251,90.661872 130.311,73.832204 120.313,57.005 Z M 106,57 l 13.503,0.0046 9.97446,16.880976 -9.8741,16.84176 -5.05042,0 9.6353,-16.84176 -7.49593,-12.825097 -17.306163,-0.06288 z"
+       inkscape:connector-curvature="0" />
+  </g>
+  <text
+     sodipodi:linespacing="125%"
+     id="text5808"
+     y="1792.7434"
+     x="2115.1504"
+     style="font-style:normal;font-weight:normal;font-size:115.2035141px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan5814"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+       y="1792.7434"
+       x="2115.1504"
+       sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+   id="tspan5812"
+   dx="0">Posgrado</tspan></tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+       y="1839.6199"
+       x="2115.1504"
+       sodipodi:role="line"
+       id="tspan5852">Ingeniería Mecánica</tspan><tspan
+       id="tspan5816"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+       y="1886.4962"
+       x="2115.1504"
+       sodipodi:role="line">Universidad Federal de Paraíba</tspan></text>
+  <g
+     transform="translate(1818.925,670.29019)"
+     id="g5818">
+    <g
+       transform="matrix(2.782024,0,0,2.782024,-92.259395,1124.3739)"
+       id="g5820"
+       style="fill:#000000;fill-opacity:1">
+      <g
+         id="g5822"
+         style="fill:#000000;fill-opacity:1" />
+      <g
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,237.03263,20.858983)"
+         id="g5824"
+         style="fill:#000000;fill-opacity:1" />
+      <path
+         id="path5826"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.3125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 89.396783,74.859934 7.352559,-13.190224 19.629078,0.0783 2.39823,4.414377 -19.517866,-0.146607 -9.573786,17.072124 z m 7.440385,20.625894 -6.747516,-11.696241 9.632124,-17.078624 19.522444,0.130341 2.52521,4.373792 -19.40304,0.07647 -7.358899,12.904214 8.598629,15.019017 z m 23.689662,5.428352 -15.09935,0.22761 -9.746729,-17.038427 2.623845,-4.284121 9.631974,16.976275 19.57178,-0.24492 z m 14.14235,-16.756505 -6.75548,11.691641 -19.60659,0.197648 -9.648337,-16.972101 2.525207,-4.373792 9.76774,16.765294 14.85483,-0.07912 8.70754,-14.956137 z M 127.58274,60.869385 135.32953,73.832 125.44718,90.792128 120.4251,90.661872 130.311,73.832204 120.313,57.005 Z M 106,57 l 13.503,0.0046 9.97446,16.880976 -9.8741,16.84176 -5.05042,0 9.6353,-16.84176 -7.49593,-12.825097 -17.306163,-0.06288 z"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="2066.3389"
+     y="1688.8148"
+     id="text5838"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5840"
+       x="2066.3389"
+       y="1688.8148"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:62.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#3691c3;fill-opacity:1">es - P&amp;B - longo</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="2084.8325"
+     y="1383.0732"
+     id="text5842"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5844"
+       x="2084.8325"
+       y="1383.0732"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:62.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#3691c3;fill-opacity:1">es - cor - longo</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:115.2035141px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="2115.1504"
+     y="1978.7434"
+     id="text5863"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       x="2115.1504"
+       y="1978.7434"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+       id="tspan5865"><tspan
+   dx="0"
+   id="tspan5867"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Posgrado</tspan></tspan><tspan
+       id="tspan5869"
+       sodipodi:role="line"
+       x="2115.1504"
+       y="2025.6199"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Ingeniería Mecánica</tspan><tspan
+       sodipodi:role="line"
+       x="2115.1504"
+       y="2072.4963"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50114441px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+       id="tspan5871">Universidad Federal de Paraíba</tspan></text>
+</svg>
