@@ -13,9 +13,7 @@ title: G-ς - Law
 
 - Redação oficial
 
-- [Manual PR](../_media/_files/leis/manual-redacao-presidencia.pdf): Manual de Redação da Presidência da República.
-
-
+	- [Manual PR](../_media/_files/leis/manual-redacao-presidencia.pdf): Manual de Redação da Presidência da República.
 
 ## Magistério Federal
 
