@@ -84,3 +84,10 @@ See further discussion [here](https://github.com/jupyterlab/debugger) and [here]
 
 - [Python "gotchas"](https://mrfuxi.github.io/blog/python-gotchas/)
 	- Weird things that may happen with Python coding.
+
+
+## DataViz Tools
+
+- [PyViz](https://pyviz.org/tools.html): overview of data visualization Python ecosystem.
+- [Holoviz](https://holoviz.org/index.html): modern project that integrates many tools.
+- [From Data to Viz](https://www.data-to-viz.com): where design meets data science. Amazing holistic view.
