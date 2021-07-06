@@ -64,15 +64,12 @@ Booklets resulting from the last internal scientific writing seminars.
 
 #### New QUALIS strata
 
-- We should consider the highest source percentile between Scopus and WOS bases and classify the paper according to the following table: 
-
-|percentile range|stratum|
-|---|---|
-| [87.5,100]|A1|
-| [75.0,87.5)|A2|
-| [62.5,75.0)|A3|
-| [50.0,62.5)|A4|
-| [37.5,50.0)|B1|
-| [25.0,37.5)|B2|
-| [12.5,25.0)|B3|
-| [0.0,12.5)|B4|
+- We should consider the highest source percentile between Scopus and WOS bases and classify the paper according to the following _percentile|stratum_ scale: 
+	- [87.5,100]  | A1
+	- [75.0,87.5) | A2
+	- [62.5,75.0) | A3
+	- [50.0,62.5) | A4
+	- [37.5,50.0) | B1
+	- [25.0,37.5) | B2
+	- [12.5,25.0) | B3
+	- [0.0,12.5)  | B4
