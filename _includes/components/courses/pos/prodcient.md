@@ -53,6 +53,7 @@ Additional contents for brainstorming, discussion and in-class debates:
 - [Lecture:](https://github.com/gcpeixoto/SCIPROD/raw/main/misc/guide.pdf) Conhecendo o LaTeX: usos, dicas e práticas
 - [Post:](https://mauriciotuffani.blogfolha.uol.com.br/2015/04/01/o-qualis-e-o-silencio-dos-pesquisadores-brasileiros/) _O Qualis e o silêncio dos pesquisadores brasileiros_, by M. Tuffani
 - [Post:](https://www.plagiarismtoday.com/stopping-internet-plagiarism/) _Stop Internet Plagiarism_, by Plagiarism Today
+- [Site:](https://writingcenter.unc.edu/tips-and-tools/) _The Writing Center_, UNC at Chapel Hill
 
 #### Booklets
 
@@ -72,3 +73,6 @@ Booklets resulting from the last internal scientific writing seminars.
 	- [25.0,37.5) : B2
 	- [12.5,25.0) : B3
 	- [0.0,12.5)  : B4
+
+
+	
