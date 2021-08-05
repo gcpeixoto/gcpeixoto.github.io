@@ -11,8 +11,8 @@ Find below Inkscape SVG and PNG files for Federal University of Paraíba's brand
 	- [PDF overview](../_media/files/logo-ufpb-showcase.pdf)
 
 - Color version
-	- [SVG](../_media/files/logo-ufpb.svg)
-	- [PNG](../_media/files/logo-ufpb.png)
+	- [SVG](../_media/files/logo-ufpb-color.svg)
+	- [PNG](../_media/files/logo-ufpb-color.png)
 
 - Gray version
 	- [SVG](../_media/files/logo-ufpb-gray.svg)
