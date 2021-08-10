@@ -59,6 +59,7 @@ Here you will find full details on my scientific production in the **TROIM** dim
 --- 
 ## Recommended links
 
+- [Americo Cunha's website](http://www.americocunha.org)
 - [Gustavo Anjos's website](https://gustavorabello.github.io)
 - [Eduardo Freigedo's website](https://evitral.github.io)
 - [GESAR Lab @UERJ Brazil](https://www.gesar.uerj.br)
