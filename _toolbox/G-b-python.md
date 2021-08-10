@@ -57,7 +57,8 @@ See further discussion [here](https://github.com/jupyterlab/debugger) and [here]
 - Then, launching Jupyter on Safari, the `Cell Toolbar > Slideshow` could be visible, but the button to launch RISE Slideshow was not showing up.
 	- Current solution: use Chrome.		
 
-- How to customize RISE's chalkboard
+- How to customize RISE's chalkboard and themes
+	- List of available themes [here](https://revealjs.com/themes/).
 	- From version 5.7.1, colors are customizable for chalkboard.
 	- Options can be found in the [reveal.js-plugins/chalkboard README](https://github.com/rajgoel/reveal.js-plugins/tree/master/chalkboard)
 	- Here is an example on how to change chalkboard options:	
