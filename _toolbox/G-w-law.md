@@ -31,13 +31,12 @@ title: G-ς - Law
 
 Âmbito UFPB:
 
-- [Estatuto UFPB](../_media/files/leis/estatuto-ufpb.pdf). Nota: acompanhar avanços da [Estatuinte 2020](https://www.ufpb.br/estatuinte/)
-
 - Estágio probatório e progressões
 	- [Res. CONSUNI/UFPB 05/1999](../_media/files/leis/resolucao-consuni-05-1999-normas-estagio-probatorio.pdf): Normas para avaliação de desempenho de docentes em estágio probatório.
 	- [Res. CONSEPE/UFPB 37/1999](../_media/files/leis/resolucao-consepe-37-1999-progressao.pdf): Sistema de avaliação. Ver 06/2001.
 	- [Res. CONSEPE/UFPB 06/2001](../_media/files/leis/resolucao-consepe-06-2001-progressao.pdf): Altera 37/1999.
-	- [Res. CONSEPE/UFPB 27/2001](../_media/files/leis/resolucao-consepe-27-2001-progressao-tabela.pdf): Tabela de pontos (produção).
+	- [Res. CONSEPE/UFPB 27/2001](../_media/files/leis/resolucao-consepe-27-2001-progressao-tabela.pdf): Documentação para concessão de progressão (a rigor, não aplicável para aceleração da promoção, visto que esta é instituída apenas com a Lei 12772/2012).
+	- [Res. CONSEPE/UFPB 05/2002](../_media/files/leis/resolucao-consepe-05-2002-documentos.pdf): Tabela de pontos (produção).
 	- [Res. CONSUNI/UFPB 20/2020](../_media/files/leis/resolucao-consuni-20-2020-estrutura-cppd.pdf): Estrutura CPPD. Ver 12772/2012, Capítulo VII.
 
 - Afastamentos
@@ -87,6 +86,7 @@ PD&I, Termo de Outorga, Convênio para PD&I);
 
 ## Regimentos e estruturação - UFPB
 
+- [Estatuto](../_media/files/leis/estatuto-ufpb.pdf). Nota: acompanhar avanços da [Estatuinte 2020](https://www.ufpb.br/estatuinte/)
 - [RG](../_media/files/leis/regimento-geral-ufpb.pdf): Regimento Geral.
 - [Res. CONSUNI 22/2011](../_media/files/leis/resolucao-consuni-22-2011-criacao-ci.pdf): Criação do CI.
 - [Res. CONSEPE 22/2014](../_media/files/leis/resolucao-consepe-22-2014-regimento-ci.pdf): Regimento do CI.
@@ -111,5 +111,8 @@ PD&I, Termo de Outorga, Convênio para PD&I);
 - [Res. PPGEM 02/2018](../_media/files/leis/resolucao-ppgem-02-2018-credenciamento-docentes-alteracao.pdf): Altera 01/2018.
 - [Res. CONSEPE 13/2019](../_media/files/leis/resolucao-consepe-13-2019-estrutura-ppgem.pdf): Altera estrutura do PPGEM.
 
+## Grupos de pesquisa
 
+- [Res. CI 01/2017](../_media/files/leis/resolucao-ci-01-2017-criacao-lamep.pdf): Criação do LaMEP.
+- [Despacho ANP 295/2018](http://lamep.ci.ufpb.br/wp-content/uploads/2018/03/dou-anp-lamep.pdf?x72015): Credenciamento do LaMEP na ANP.
 	
