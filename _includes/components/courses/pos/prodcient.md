@@ -54,6 +54,8 @@ Additional contents for brainstorming, discussion and in-class debates:
 - [Post:](https://mauriciotuffani.blogfolha.uol.com.br/2015/04/01/o-qualis-e-o-silencio-dos-pesquisadores-brasileiros/) _O Qualis e o silêncio dos pesquisadores brasileiros_, by M. Tuffani
 - [Post:](https://www.plagiarismtoday.com/stopping-internet-plagiarism/) _Stop Internet Plagiarism_, by Plagiarism Today
 - [Site:](https://writingcenter.unc.edu/tips-and-tools/) _The Writing Center_, UNC at Chapel Hill
+- [Site:](https://researcheracademy.elsevier.com) _Elsevier Researcher Academy_, by Elsevier
+- [Site:](https://www.bestwriting.com.br/redacao-cientifica---kits-prontos.html) Redação Científica - Kits, by _Best Writing Publisher House_ <img src="../../../../_includes/icons/brazil.svg" width="13"> </span>
 
 #### Booklets
 
