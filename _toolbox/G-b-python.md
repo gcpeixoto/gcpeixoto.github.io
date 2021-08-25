@@ -86,6 +86,10 @@ See further discussion [here](https://github.com/jupyterlab/debugger) and [here]
 - [Python "gotchas"](https://mrfuxi.github.io/blog/python-gotchas/)
 	- Weird things that may happen with Python coding.
 
+- Encoding/decoding characters
+	- To print symbols for musical notes it is necessary to have a font in the computer capable to represent the Unicode. See [here](https://stackoverflow.com/questions/48055887/python-how-to-specify-and-view-high-numbered-unicode-characters).
+	- The Unicode table for music is [here](https://unicode.org/charts/PDF/U1D100.pdf).
+	- So, to print the G clef, we'd use `print('\U0001D120')`, with Unicode `\U` escape. Seemingly, there are few font types that handle music symbols. One available is [Bravura](https://github.com/steinbergmedia/bravura).
 
 ## DataViz Tools
 
