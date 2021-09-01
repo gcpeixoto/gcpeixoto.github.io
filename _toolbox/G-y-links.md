@@ -24,6 +24,24 @@ TRL (_Technological Readiness Level_) and CRL (_Commercial Readiness Level_) are
 
 - [BlackHole](https://github.com/ExistentialAudio/BlackHole)
 
-## Knowledge models
+## Teaching-learning resources
 
-- [Cmap Tools](https://cmap.ihmc.us/cmaptools/)
+- [Cmap Tools](https://cmap.ihmc.us/cmaptools/), for knowledge modeling.
+- [OER Commons](https://www.oercommons.org), a public digital library of open educational resources.
+- [Internet Archives](https://archive.org//), a lot of stuff
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page), media file repository making available public domain and freely licensed educational media content (images, sound and video clips).
+- [Europeana](https://www.europeana.eu/en), European archives, libraries and museums to share cultural heritage for enjoyment, education and research.
+- [MERLOT](https://www.merlot.org/merlot/index.htm), curated online learning and support materials.
+
+## Platforms
+
+- [Bandcamp](bandcamp.com), all about music.
+	- [The Music of 3Blue1Brwon](https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown), free to download; attribution for usage.
+- [Sketchfab]([https://sketchfab.com), AR and 3D models.
+- [Free Music Archive](https://freemusicarchive.org), filmaking songs and soundtracks.
+- [SkillsCommons](https://www.skillscommons.org), commons for workforce and team training.
+- [Jamendo](https://www.jamendo.com/start), free music to download (for personal use). For public stream/professional, checking out.
+- [Unsplash](https://unsplash.com), freely-usable images.
+- [Pixabay](https://pixabay.com/pt/), pics, vecs, vids, and more free to use.
+- [Pexels](https://www.pexels.com), free stock photos and vids.
+- [Stocksnap](https://stocksnap.io), pics.
