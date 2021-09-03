@@ -44,3 +44,5 @@ I hope these examples help students to understand the good and band nuances of p
 	- Comment: short and "cute".
 
 -  "_From the provided list of potential Reviewers, five are not cited in the reference list, while one is cited with an old publication._"
+
+-  "_Although your manuscript falls within the aim and scope of this journal, it is being declined due to lack of sufficient novelty. We receive a much larger number of papers than we are able to accept._"  
