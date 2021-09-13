@@ -21,6 +21,7 @@ Remark: resources for this course can be forked from GDCOC0072.
 - [Introduction to the Finite Element Method](https://www.amazon.com/Introduction-Finite-Element-Method-4E/dp/1259861902/ref=sr_1_1?dchild=1&keywords=finite+element+reddy&qid=1631499999&sr=8-1), by J. Reddy <span>&#128077;</span>
 - Introduction to Numerical Methods for Variational Problems, by H.P. Langtangen and K-A. Mardal <span>&#128077;</span>
 - Numerical Linear Algebra, by L. Trefethen and D. Bau III
+- [The Finite Element Method: Theory, Implementation, and Applications](https://www.amazon.com/gp/product/B00BLREC4Q?ref_=dbs_m_mng_rwt_calw_tkin_7&storeType=ebooks&qid=1631496281&sr=8-7), by M. G. Larson and F. Bengzon
 - [Theory and Practice of Finite Elements](https://www.springer.com/gp/book/9780387205748), by A. Ern and J-L Guermond <span>&#128077;</span>
 
 ##### Booklets 

@@ -10,6 +10,7 @@ Find here information and materials about current(past) courses that I teach(hav
 ## Graduate courses
 
 {% include components/courses/pos/mecflu.md %}
+{% include components/courses/pos/num-methods.md %}
 {% include components/courses/pos/prodcient.md %}
 {% include components/courses/pos/modres.md %}
 

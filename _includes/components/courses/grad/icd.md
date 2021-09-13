@@ -6,7 +6,7 @@
 
 #### Resources
 
-- [The Turing Way](https://the-turing-way.netlify.app/reproducible-research/overview.html) @Turing - Reproducible research guidelines. <span>&#128077;</span>
+- [The Turing Way](https://the-turing-way.netlify.app/reproducible-research/overview.html) @Turing - Reproducible research guidelines <span>&#128077;</span>
 - [Basics on character encoding](https://www.slideshare.net/fischertrav/character-encoding-unicode-how-to-with-dignity-33352863)
 
 ##### Misc 
