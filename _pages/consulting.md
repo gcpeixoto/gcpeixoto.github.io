@@ -5,7 +5,7 @@ narrow: true
 title: Consulting
 ---
 
-Do you think I can help you with something? Let me know! Apart from technical opinions, I can give you a hand with the following subjects:
+Do you think I can help you with something? Let me know! Apart from technical opinions on subject matters related to my background, I can give you a hand with the following subjects:
 
 (*Acha que eu posso ajudar você em algo técnico ou com os temas abaixo? Entre em contato!*)
 

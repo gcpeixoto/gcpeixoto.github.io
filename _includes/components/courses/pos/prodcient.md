@@ -37,7 +37,7 @@ Additional contents for brainstorming, discussion and in-class debates:
 
 #### Resources
 
-- [Book:](https://www.amazon.com.br/dp/B096Q27VM2) _Elementos da Escrita Científica para o Pesquisador Iniciante_, by Moritz and Almeida <img src="../../../../_includes/icons/brazil.svg" width="13"> </span>
+- [Book:](https://www.amazon.com.br/dp/B096Q27VM2) _Elementos da Escrita Científica para o Pesquisador Iniciante_, by Moritz and Almeida <span><img src="../../../../_includes/icons/brazil.svg" width="13"> </span>
 - [Book:](https://www.springer.com/us/book/9783319260921) _English for Writing Research Papers_, by A. Wallwork
 - [Book:](https://link.springer.com/book/10.1007/978-3-319-31650-5) _Writing for Publication_, by Jalongo and Saracho
 - [Book:](https://link.springer.com/book/10.1007/978-3-319-47831-9) _LaTeX in 24 hours_, by D. Datta
@@ -55,7 +55,7 @@ Additional contents for brainstorming, discussion and in-class debates:
 - [Post:](https://www.plagiarismtoday.com/stopping-internet-plagiarism/) _Stop Internet Plagiarism_, by Plagiarism Today
 - [Site:](https://writingcenter.unc.edu/tips-and-tools/) _The Writing Center_, UNC at Chapel Hill
 - [Site:](https://researcheracademy.elsevier.com) _Elsevier Researcher Academy_, by Elsevier
-- [Site:](https://www.bestwriting.com.br/redacao-cientifica---kits-prontos.html) Redação Científica - Kits, by _Best Writing Publisher House_ <img src="../../../../_includes/icons/brazil.svg" width="13"> </span>
+- [Site:](https://www.bestwriting.com.br/redacao-cientifica---kits-prontos.html) Redação Científica - Kits, by _Best Writing Publisher House_ <span><img src="../../../../_includes/icons/brazil.svg" width="13"> </span>
 
 #### Booklets
 
