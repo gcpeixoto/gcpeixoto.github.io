@@ -45,3 +45,29 @@ TRL (_Technological Readiness Level_) and CRL (_Commercial Readiness Level_) are
 - [Pixabay](https://pixabay.com/pt/), pics, vecs, vids, and more free to use.
 - [Pexels](https://www.pexels.com), free stock photos and vids.
 - [Stocksnap](https://stocksnap.io), pics.
+
+
+## Scientific societies and related events
+
+### Brazil
+
+- [ABCM - Brazilian Society of Mechanical Sciences and Engineering](https://abcm.org.br)
+	- COBEM - International Congress of Mechanical Engineering (biannually)
+	- CONEM - National Congress of Mechanical Engineering (biannually)
+	- CREEM - National Congress of Mechanical Engineering Students (annually)
+	- ENCIT - Brazilian Congress of Thermal Sciences and Engineering (biannually)
+
+- [ABMEC - Brazilian Association of Computational Methods in Engineering](http://www.abmec.org.br)
+	- CILAMCE - Ibero-Latin-American Congress on Computational Methods in Engineering (annually)
+	- PANACM - Pan American Congress on Computational Mechanics
+- [SBMAC - Brazilian Society of Computational and Applied Mathematics](https://www.sbmac.org.br)
+	- CMAC - Congress of Applied and Computational Mathematics (regional)
+	- CNMAC - National Congress of Applied and Computational Mathematics
+	- ERMAC - Regional Meeting of Applied and Computational Mathematics
+
+### International
+
+- [IACM - International Association on Computational Mechanics](https://iacm.info/#)
+	- WCCM - World Congress on Computational Mechanics
+- [USACM - U.S. Association on Computational Mechanics](https://www.usacm.org)
+	- USNCCN - U.S. National Congress on Computational Mechanics
