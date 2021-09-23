@@ -47,7 +47,7 @@ TRL (_Technological Readiness Level_) and CRL (_Commercial Readiness Level_) are
 - [Stocksnap](https://stocksnap.io), pics.
 
 
-## Scientific societies and related events
+## Scientific societies, agencies, and related events
 
 ### Brazil
 
@@ -57,9 +57,15 @@ TRL (_Technological Readiness Level_) and CRL (_Commercial Readiness Level_) are
 	- CREEM - National Congress of Mechanical Engineering Students (annually)
 	- ENCIT - Brazilian Congress of Thermal Sciences and Engineering (biannually)
 
+- [ABEAMA - Brazilian Association of Alternative Energies and Environment](https://abeama.org.br)
 - [ABMEC - Brazilian Association of Computational Methods in Engineering](http://www.abmec.org.br)
 	- CILAMCE - Ibero-Latin-American Congress on Computational Methods in Engineering (annually)
 	- PANACM - Pan American Congress on Computational Mechanics
+- [ABSOLAR - Brazilian Solar Photovoltaic Energy Association](https://www.absolar.org.br)
+- [CGEE - Centro de Gestão e Estudos Estratégicos](https://www.cgee.org.br)
+- [CGI - Comitê Gestor da Internet no Brasil](https://www.cgi.br)
+- [IBP - Brazilian Petroleum, Gas and Biofuels Institute](https://www.ibp.org.br)
+	- RIO Oil & Gas
 - [SBMAC - Brazilian Society of Computational and Applied Mathematics](https://www.sbmac.org.br)
 	- CMAC - Congress of Applied and Computational Mathematics (regional)
 	- CNMAC - National Congress of Applied and Computational Mathematics
@@ -69,6 +75,16 @@ TRL (_Technological Readiness Level_) and CRL (_Commercial Readiness Level_) are
 
 - [IACM - International Association on Computational Mechanics](https://iacm.info/#)
 	- WCCM - World Congress on Computational Mechanics
+- [NIST - U.S. National Institute of Standards and Technology](https://www.nist.gov)
+- [OSTI - U.S. Dept. of Energy Office of Scientific and Technical Information](https://www.osti.gov)
 - [USACM - U.S. Association on Computational Mechanics](https://www.usacm.org)
 	- USNCCN - U.S. National Congress on Computational Mechanics
 	- MMLDT-CSET (2021) - Mechanistic Machine Learning and Digital Twins for Computational Science, Engineering & Technology
+
+
+## Interesting companies, startups, spin-offs
+
+- [Axonal](https://www.axonal.com.br) - Patent and intellectual property consulting.
+- [Centre for Net Zero](https://www.centrefornetzero.org) - Pioneering research that gets us to net zero quickly, fairly and affordably.
+- [equadratures](https://equadratures.org) - First and foremost a scientific organisation with a global footprint. We are proud to make freely available the various modules and codes we develop, and see their use across a range of data science problems.
+- [Green Domus](https://www.greendomus.com.br) - Specialized in the sustainability sector, Green Domus provides consulting, auditing and verification services. 
