@@ -88,3 +88,8 @@ TRL (_Technological Readiness Level_) and CRL (_Commercial Readiness Level_) are
 - [Centre for Net Zero](https://www.centrefornetzero.org) - Pioneering research that gets us to net zero quickly, fairly and affordably.
 - [equadratures](https://equadratures.org) - First and foremost a scientific organisation with a global footprint. We are proud to make freely available the various modules and codes we develop, and see their use across a range of data science problems.
 - [Green Domus](https://www.greendomus.com.br) - Specialized in the sustainability sector, Green Domus provides consulting, auditing and verification services. 
+
+
+## Journal watchlist
+
+- [Data Centric Engineering](https://www.cambridge.org/core/journals/data-centric-engineering)
