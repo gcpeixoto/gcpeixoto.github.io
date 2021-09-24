@@ -70,6 +70,8 @@ TRL (_Technological Readiness Level_) and CRL (_Commercial Readiness Level_) are
 	- CMAC - Congress of Applied and Computational Mathematics (regional)
 	- CNMAC - National Congress of Applied and Computational Mathematics
 	- ERMAC - Regional Meeting of Applied and Computational Mathematics
+- [SPE - Society of Petroleum Engineers](https://www.spe.org/en/)
+	- OTC - Offshore Technology Conference
 
 ### International
 
@@ -86,10 +88,13 @@ TRL (_Technological Readiness Level_) and CRL (_Commercial Readiness Level_) are
 
 - [Axonal](https://www.axonal.com.br) - Patent and intellectual property consulting.
 - [Centre for Net Zero](https://www.centrefornetzero.org) - Pioneering research that gets us to net zero quickly, fairly and affordably.
+- [DWL USA](http://dwl-usa.com/aidatasolutions/) - AI for Measurement While Drilling.
 - [equadratures](https://equadratures.org) - First and foremost a scientific organisation with a global footprint. We are proud to make freely available the various modules and codes we develop, and see their use across a range of data science problems.
 - [Green Domus](https://www.greendomus.com.br) - Specialized in the sustainability sector, Green Domus provides consulting, auditing and verification services. 
-
+- [Intelie](https://www.intelie.com/#oilgas) - Research on event correlation in real-time and anomaly detection, along with experience in management and agile development of IT projects
+- [Wood Mackenzie](https://www.woodmac.com/short-term-analytics/) - Short-term analytics for energy market.
 
 ## Journal watchlist
 
 - [Data Centric Engineering](https://www.cambridge.org/core/journals/data-centric-engineering)
+- [Journal of Petroleum Technology](https://jpt.spe.org)
