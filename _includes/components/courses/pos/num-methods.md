@@ -48,7 +48,13 @@ Remark: resources for this course can be forked from GDCOC0072.
 - [Prof. Gustavo Rabello's FEM notes](https://gustavorabello.github.io/teaching/) @UFRJ/Brazil
 - [The Fenics X Tutorial](https://jorgensd.github.io/dolfinx-tutorial/index.html) by J. Dokken <span>&#128077;</span>
 
+##### Papers
 
+- [Physics-informed machine learning](https://www.nature.com/articles/s42254-021-00314-5), Karniadakis et al., Nature Reviews, 2021
+	- See: i) Table 1, for a list of PINN libraries; ii) subsection "Connection to classical numerical methods"; 
+- [Hybrid FEM-NN models: Combining artificial neural networks with the finite element method](https://www.sciencedirect.com/science/article/pii/S0021999121005465), Mitusch et al., JCP, 2021
+	- _Takeaways_: i) may improve convergence speed; ii) fewer optimization steps; iii) generalization for spatial variability.
+	- _Gaps:_ non-linearity solvable through training; PDE solvers not optimized for large batch training on GPU; iii) FEM weak form requires efficient quadrature integration over the NN, whose rules are unknown for now.
 
 
 	

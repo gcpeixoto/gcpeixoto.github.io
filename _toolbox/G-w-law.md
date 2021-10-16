@@ -115,4 +115,8 @@ PD&I, Termo de Outorga, Convênio para PD&I);
 
 - [Res. CI 01/2017](../_media/files/leis/resolucao-ci-01-2017-criacao-lamep.pdf): Criação do LaMEP.
 - [Despacho ANP 295/2018](http://lamep.ci.ufpb.br/wp-content/uploads/2018/03/dou-anp-lamep.pdf?x72015): Credenciamento do LaMEP na ANP.
-	
+
+## Palavras e expressões latinas usuais
+
+- Veja este [link](http://www.aultimaarcadenoe.com.br/palavras-e-expressoes/).
+- Consultar _Dicionário Jurídico da Academia Brasileira de Letras Jurídicas. 7 ed. São Paulo: Forense Universitária. 2001._	
