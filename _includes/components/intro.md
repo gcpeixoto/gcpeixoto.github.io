@@ -29,7 +29,7 @@ G.P.O.
 
 - Adjunct Professor at the Scientific Computing Department - [Center of Informatics](http://www.ci.ufpb.br)
 - Member and advisor at the [Graduate Program in Mechanical Engineering](https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?id=1870) - Technology Center 
-- Researcher and co-manager at the [Petroleum Engineering Modeling Laboratory](http://www.lamep.ci.ufpb.br)
+- Researcher and co-manager at the [TRIL Lab](https://tril.ci.ufpb.br)
 - Leader of the [Numbiosis Project](http://www.numbiosis.ci.ufpb.br)
 - Member of the [Brazilian Society of Mechanical Sciences and Engineering](http://www.abcm.org.br) 
 
@@ -37,7 +37,7 @@ G.P.O.
 ### Education
 
 - Post-doc in Mechanical Engineering, State University of Rio de Janeiro, Brazil (Coordinator: Norberto Mangiavacchi)
-- Post-doc in Computational and Mathematical Modelling, Federal University of Paraíba, Brazil. (Coordinator: Waldir Leite Roque)
+- Post-doc in Computational and Mathematical Modelling, Federal University of Paraíba, Brazil. (Coordinator: Waldir L. Roque)
 - D.Sc. in Mechanical Engineering, State University of Rio de Janeiro, Brazil. (Advisors: Norberto Mangiavacchi & Leonardo S. B. Alves)
 - Research Assistant Internship, École Polytechnique Fédérale de Lausanne, Switzerland (Advisor: John R. Thome)
 - M.Sc. in Metallurgical and Materials Engineering, PEMM-COPPE, Federal University of Rio de Janeiro, Brazil. (Advisors: José R. M. Pontes & Norberto Mangiavacchi)
@@ -63,6 +63,7 @@ Here you will find full details on my scientific production in the **TROIM** dim
 - [Gustavo Anjos's website](https://gustavorabello.github.io)
 - [Eduardo Freigedo's website](https://evitral.github.io)
 - [GESAR Lab @UERJ Brazil](https://www.gesar.uerj.br)
+- [LaSER Lab @UFPB Brazil](https://laser.ci.ufpb.br)
 - [MRST Project @Sintef Norway](https://www.sintef.no/projectweb/mrst/)
 - [Gibbon Code @NUIG Ireland](https://www.gibboncode.org)
 - [Snap @Stanford USA ](https://snap.stanford.edu)
