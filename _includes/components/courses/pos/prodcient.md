@@ -76,5 +76,7 @@ Booklets resulting from the last internal scientific writing seminars.
 	- [12.5,25.0) : B3
 	- [0.0,12.5)  : B4
 
-
+#### Idioms and phrases
+- "Duas cabeças pensam melhor do que uma" - _Two heads are better than one_. 
+- "Comunicação é uma via de mão dupla" - _Communication is a two-way street_. 
 	
