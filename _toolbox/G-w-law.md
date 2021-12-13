@@ -35,8 +35,8 @@ title: G-ς - Law
 	- [Res. CONSUNI/UFPB 05/1999](../_media/files/leis/resolucao-consuni-05-1999-normas-estagio-probatorio.pdf): Normas para avaliação de desempenho de docentes em estágio probatório.
 	- [Res. CONSEPE/UFPB 37/1999](../_media/files/leis/resolucao-consepe-37-1999-progressao.pdf): Sistema de avaliação. Ver 06/2001.
 	- [Res. CONSEPE/UFPB 06/2001](../_media/files/leis/resolucao-consepe-06-2001-progressao.pdf): Altera 37/1999.
-	- [Res. CONSEPE/UFPB 27/2001](../_media/files/leis/resolucao-consepe-27-2001-progressao-tabela.pdf): Documentação para concessão de progressão (a rigor, não aplicável para aceleração da promoção, visto que esta é instituída apenas com a Lei 12772/2012).
-	- [Res. CONSEPE/UFPB 05/2002](../_media/files/leis/resolucao-consepe-05-2002-documentos.pdf): Tabela de pontos (produção).
+	- [Res. CONSEPE/UFPB 27/2001](../_media/files/leis/resolucao-consepe-27-2001-progressao-tabela.pdf): Tabela de pontos (produção).
+	- [Res. CONSEPE/UFPB 05/2002](../_media/files/leis/resolucao-consepe-05-2002-documentos.pdf): Documentação para concessão de progressão (a rigor, não aplicável para aceleração da promoção, visto que esta é instituída apenas com a Lei 12772/2012).
 	- [Res. CONSUNI/UFPB 20/2020](../_media/files/leis/resolucao-consuni-20-2020-estrutura-cppd.pdf): Estrutura CPPD. Ver 12772/2012, Capítulo VII.
 
 - Afastamentos
