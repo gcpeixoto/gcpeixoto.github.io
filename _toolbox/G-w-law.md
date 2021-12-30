@@ -95,7 +95,7 @@ PD&I, Termo de Outorga, Convênio para PD&I);
 ## Internacionalização - UFPB
 
 - [Res. CONSUNI 06/2018](../_media/files/leis/resolucao-consuni-06-2018-internacionalizacao.pdf): Política de internacionalização.
-- [Res. CONSUNI 44/2018](../_media/files/leis/resolucao-consuni-44-2018-criaca-da-aci.pdf): Estrutura da Agência de Cooperação Internacional.
+- [Res. CONSUNI 44/2018](../_media/files/leis/resolucao-consuni-44-2018-criacao-da-aci.pdf): Estrutura da Agência de Cooperação Internacional.
 
 
 ## Pós-graduação - UFPB
