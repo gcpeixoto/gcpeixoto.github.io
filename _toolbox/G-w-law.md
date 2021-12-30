@@ -95,6 +95,7 @@ PD&I, Termo de Outorga, Convênio para PD&I);
 ## Internacionalização - UFPB
 
 - [Res. CONSUNI 06/2018](../_media/files/leis/resolucao-consuni-06-2018-internacionalizacao.pdf): Política de internacionalização.
+- [Res. CONSUNI 44/2018](../_media/files/leis/resolucao-consuni-44-2018-criaca-da-aci.pdf): Estrutura da Agência de Cooperação Internacional.
 
 
 ## Pós-graduação - UFPB
@@ -115,6 +116,7 @@ PD&I, Termo de Outorga, Convênio para PD&I);
 
 - [Res. CI 01/2017](../_media/files/leis/resolucao-ci-01-2017-criacao-lamep.pdf): Criação do LaMEP.
 - [Despacho ANP 295/2018](http://lamep.ci.ufpb.br/wp-content/uploads/2018/03/dou-anp-lamep.pdf?x72015): Credenciamento do LaMEP na ANP.
+- [Res. CI 01/2021](../_media/files/leis/resolucao-ci-01-2021-criacao-tril.pdf): Criação do TRIL Lab.
 
 ## Palavras e expressões latinas usuais
 
