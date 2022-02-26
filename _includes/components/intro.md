@@ -27,6 +27,7 @@ G.P.O.
 
 ### Roles
 
+- Director of Promotion and Academic-Scientific Actions - [International Cooperation Office](http://ufpb.br/acieng)
 - Adjunct Professor at the Scientific Computing Department - [Center of Informatics](http://www.ci.ufpb.br)
 - Member and advisor at the [Graduate Program in Mechanical Engineering](https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?id=1870) - Technology Center 
 - Researcher and co-manager at the [TRIL Lab](https://tril.ci.ufpb.br)
