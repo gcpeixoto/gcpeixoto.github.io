@@ -33,3 +33,17 @@ title: G-η - Scientific computing
 ```
 >> help X
 ```
+
+## Python utility snippets
+
+- Write data to file directly from `print`.
+
+{% highlight python %} 
+with open('t.txt',mode='w') as f:
+  for i in ['a','b','c']:
+    for j in range(3):
+      print(i,j,sep=':',end='\t',file=f) # stream to file
+
+cat t.txt
+a:0  a:1  a:2  b:0  b:1  b:2  c:0  c:1  c:2
+{% endhighlight %} 
