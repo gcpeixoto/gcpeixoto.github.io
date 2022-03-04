@@ -1,8 +1,12 @@
 ## B.Sc. Research Initiation Programs
 ---
 
+#### Rafael Magno Evaristo Ferraz, Electrical Engineering <span style="color:rgb(200,200,0);"> &#10144; </span>
+- APyCE Project: A Python-based CMG Builder®/Schlumberger Eclipse® wrapper for 3D visualization of reservoir grids (continued), 2021.
+- Funding: UFPB
 
-#### Mateus Metzker Tosta, Computer Science <span style="color:rgb(200,200,0);"> &#10144; </span>
+
+#### Mateus Metzker Tosta, Computer Science <span style="color:green;"> &#10004; </span>
 - *[APyCE Project: A Python-based CMG Builder®/Schlumberger Eclipse® wrapper for 3D visualization of reservoir grids](https://github.com/mateustosta/apyce-repo)*, 2020.
 - Funding: CNPq
 
