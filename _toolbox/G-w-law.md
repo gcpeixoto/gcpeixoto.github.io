@@ -15,6 +15,19 @@ title: G-ς - Law
 
 	- [Manual PR](../_media/files/leis/manual-redacao-presidencia.pdf): Manual de Redação da Presidência da República.
 
+	
+## Arquivo Nacional
+
+O MEC disciplina a obrigatoriedade de uso do Código de Classificação e Tabela de Temporalidade e Destinação de Documentos de Arquivo relativos às Atividades-Fim pelas Instituições de Educação Superior. Consulte na lista: tempo de guarda de documentos, o que pode ser eliminado, quanto tempo... 
+
+- [gov.br](https://www.gov.br/arquivonacional/pt-br/servicos/gestao-de-documentos/orientacao-tecnica-1/codigo-de-classificacao-e-tabela-de-temporalidade-e-destinacao-de-documentos-de-arquivo)
+- [Portaria MJ-Arquivo Nacional 92/2011](http://antigo.arquivonacional.gov.br/images/conteudo/servicos_ao_governo/Codigos_tabelas/portaria_an_n92_23_09_2011.pdf)
+- [Portaria MEC 1224/2013](https://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/12/2013&jornal=1&pagina=105&totalArquivos=384)
+- [Tabela de códigos de classificação de documentos](http://antigo.arquivonacional.gov.br/images/conteudo/servicos_ao_governo/Codigos_tabelas/portaria_n0922011_codigo_de_classificacao_de_documentos_.pdf)
+- [Tabela de temporalidade e destinação de documentos](http://antigo.arquivonacional.gov.br/images/conteudo/servicos_ao_governo/Codigos_tabelas/portaria_n0922011_tabela_de_temporalidade_e_destinao.pdf) :: _Código de interesse: 125 - Vida acadêmica dos alunos dos cursos de graduação._
+- [Bibliografia](http://antigo.arquivonacional.gov.br/images/conteudo/servicos_ao_governo/Codigos_tabelas/portaria_n0922011_bibliografia_e_referencias.pdf)
+
+
 ## Magistério Federal
 
 - Estruturação
