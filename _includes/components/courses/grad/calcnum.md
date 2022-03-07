@@ -30,4 +30,16 @@ Numerical methods for undergrads in STEM courses (usually Engineering, Statistic
 - [Numerical Programming](https://www.python-course.eu) @Python Course
 - [Portal REAMAT - Cálculo Numérico](https://www.ufrgs.br/reamat/CalculoNumerico/index.html) @UFRGS <span><img src="../../../../_includes/icons/brazil.svg" width="13"> </span>
 
+##### Movies
 
+List of movies talking about mathematics, computing, theorems, geniuses. Contents directly related to numerical methods are made explicit below.   
+
+- ["Hidden Figures" (2016)](https://www.imdb.com/title/tt4846340/) (_Estrelas Além do Tempo_). In this movie, Taraji Hanson performs [Katherine Johnson](https://abcnews.go.com/US/katherine-johnson-mathematician-real-life-subject-hidden-figures/story?id=69176001), a former NASA's human computer, that uses the **Euler's Method** to compute the John Glenn capsule's back-to-Earth trajectory. 
+
+- ["The Man Who Knew Infinity" (2015)](https://www.imdb.com/title/tt0787524/) (_O Homem que Via o Infinito_).
+
+- ["The Imitation Game" (2014)](https://www.imdb.com/title/tt2084970/) (_O Jogo da Imitação_).
+
+- ["A Beautiful Mind" (2001)](https://www.imdb.com/title/tt0268978/?ref_=nv_sr_srsg_0) (_Uma Mente Brilhante_). In this movie, Russell Crowe performs John Nash, Nobel in Economics during his Ph.D. trail at Princeton. Nash's thesis was related to Game Theory, where **fixed-point** theorems are applied.
+
+- ["Good Will Hunting" (1997)](https://www.imdb.com/title/tt0119217/?ref_=tt_sims_tt_i_1) (_Gênio Indomável_).
