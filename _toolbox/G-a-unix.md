@@ -128,3 +128,25 @@ brew install imagemagick; magick convert A.jpg A.png
 {% highlight shell %} 
 zip -er file.zip folder_to_zip/
 {% endhighlight %} 
+
+
+### Jekyll installation workaround on Apple M1 chips
+
+Jekyll is a good backend for building static sites. However, in the new Apple's M1 chips, some problems with architecture are [alleged](https://www.moncefbelyamani.com/how-to-install-jekyll-on-a-mac-the-easy-way/?utm_source=jekyll-8784
+).
+
+A workaround to have Jekyll working on these machines is:
+
+- Not using macOS's embedded _ruby_, but install it from `homebrew`. Follow these [steps](https://jekyllrb.com/docs/installation/macos/)
+- Since this new ruby is keg-only and not symbolically linked, add it to `.zshenv` (the .gem executable is required) to have:
+{% highlight shell %} 
+export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
+export PATH="$HOME/.gem/ruby/3.1.0/bin:$PATH"
+{% endhighlight %} 
+- Restart the `shell` and check if `ruby -v` points to the ruby version installed from `brew`.
+- Install `jekyll`, `bundler` and `webrick` (necessário) localmente:
+{% highlight shell %} 
+gem install --user-install bundler, jekyll, webrick
+{% endhighlight %} 
+
+ 

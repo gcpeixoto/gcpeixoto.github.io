@@ -90,7 +90,8 @@ PD&I, Termo de Outorga, Convênio para PD&I);
 9. Subvenção com bens de capital;
 10. Atuação de ICTs públicas no exterior;
 11. Dispensa parcial de certidões;
-12. Dispensa de licitação em serviços de até R$300mil 13. Política Institucional de Inovação.
+12. Dispensa de licitação em serviços de até R$ 300 mil;
+13. Política Institucional de Inovação.
 
 Âmbito UFPB:
 
