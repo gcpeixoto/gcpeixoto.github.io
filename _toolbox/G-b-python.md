@@ -104,7 +104,7 @@ See further discussion [here](https://github.com/jupyterlab/debugger) and [here]
 
 ### Set browser for Jupyter-Lab
 
-- To choose a different browser from the computer's default where to run Jupyter-Lab: edit the option `c.ServerApp.browser` in  `$HOME/.jupyter/jupyter_server_config.py`
+- To choose a different browser from the computer's default where to run Jupyter-Lab, run `jupyter server --generate-config` and edit the option `c.ServerApp.browser` in  `$HOME/.jupyter/jupyter_server_config.py`
 {% highlight python %} 
  #  Default: ''
 import webbrowser
@@ -112,6 +112,7 @@ c.ServerApp.browser = 'chrome'
 {% endhighlight %} 		
 - The module `webbrowser` allows us to choose among many known browsers. See table [here](https://docs.python.org/3/library/webbrowser.html#webbrowser.get).
 - For further detail, see this [discussion](https://github.com/jupyterlab/jupyterlab/issues/9565).
+
 
 ## DataViz Tools
 
