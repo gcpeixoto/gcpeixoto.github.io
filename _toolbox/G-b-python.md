@@ -113,8 +113,12 @@ c.ServerApp.browser = 'chrome'
 - The module `webbrowser` allows us to choose among many known browsers. See table [here](https://docs.python.org/3/library/webbrowser.html#webbrowser.get).
 - For further detail, see this [discussion](https://github.com/jupyterlab/jupyterlab/issues/9565).
 
+### PDF parsing
 
-## DataViz Tools
+- [pdfminer.six](https://github.com/pdfminer/pdfminer.six). Install with `pip install pdfminer.six` and run with `pdf2txt.py file.pdf` (install adds to PATH).
+
+
+### DataViz Tools
 
 - [PyViz](https://pyviz.org/tools.html): overview of data visualization Python ecosystem.
 - [Holoviz](https://holoviz.org/index.html): modern project that integrates many tools.
