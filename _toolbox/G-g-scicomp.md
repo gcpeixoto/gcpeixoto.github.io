@@ -47,3 +47,18 @@ with open('t.txt',mode='w') as f:
 cat t.txt
 a:0  a:1  a:2  b:0  b:1  b:2  c:0  c:1  c:2
 {% endhighlight %} 
+
+
+## Paraview workarounds
+
+- To make it work on new Apple M1 chips, switch off some vars and call it from the Terminal.
+- It worked fine to me on v. 5.10.1.
+
+{% highlight shell %} 
+
+export VTK_DISABLE_VISRTX=1
+export VTK_DISABLE_OSPRAY=1
+/Applications/ParaView-5.10.1.app/Contents/MacOS/paraview 
+{% endhighlight %} 
+
+Reference: see [here](https://discourse.paraview.org/t/paraview-on-new-macs-with-m1-chips/5909/18).
