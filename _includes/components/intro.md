@@ -22,14 +22,14 @@ G.P.O.
 ### Identification 
 
 - Nationality: Brazilian
-- Age: 34
+- Age: 35
 - Marital status: married to Viviane 
 
 ### Roles
 
 - Director of Promotion and Academic-Scientific Actions - [International Cooperation Office](http://ufpb.br/acieng)
+- Vice-Coordinator of the [Graduate Program in Mechanical Engineering](https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?id=1870) - Technology Center 
 - Adjunct Professor at the Scientific Computing Department - [Center of Informatics](http://www.ci.ufpb.br)
-- Member and advisor at the [Graduate Program in Mechanical Engineering](https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?id=1870) - Technology Center 
 - Researcher and co-manager at the [TRIL Lab](https://tril.ci.ufpb.br)
 - Leader of the [Numbiosis Project](http://www.numbiosis.ci.ufpb.br)
 - Member of the [Brazilian Society of Mechanical Sciences and Engineering](http://www.abcm.org.br) 
