@@ -97,4 +97,7 @@ TRL (_Technological Readiness Level_) and CRL (_Commercial Readiness Level_) are
 ## Journal watchlist
 
 - [Data Centric Engineering](https://www.cambridge.org/core/journals/data-centric-engineering)
+- [Journal of Natural Gas Science and Engineering](https://www.sciencedirect.com/journal/journal-of-natural-gas-science-and-engineering)
+- [Journal of Petroleum Science and Engineering](https://www.sciencedirect.com/journal/journal-of-petroleum-science-and-engineering/about/aims-and-scope)
 - [Journal of Petroleum Technology](https://jpt.spe.org)
+- [Science and Technology for Energy Transition](https://www.stet-review.org)
