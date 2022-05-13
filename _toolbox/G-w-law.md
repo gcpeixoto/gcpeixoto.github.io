@@ -134,5 +134,6 @@ PD&I, Termo de Outorga, Convênio para PD&I);
 
 ## Palavras e expressões latinas usuais
 
+- Veja este [link](https://www.soleis.adv.br/expressoeslatinas.htm).
 - Veja este [link](http://www.aultimaarcadenoe.com.br/palavras-e-expressoes/).
 - Consultar _Dicionário Jurídico da Academia Brasileira de Letras Jurídicas. 7 ed. São Paulo: Forense Universitária. 2001._	
