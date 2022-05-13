@@ -26,14 +26,15 @@ Below, you see an informal and non-optimally arranged tree of fields of expertis
 ---
 ## Reviewer for
 
-- Natural Resources Research
+- Advanced Theory and Simulations
 - Earth Science Informatics 
-- Trends in Computational and Applied Mathematics
-- Journal of Petroleum Science and Engineering
-- Journal of King Saud University - Science
 - International Journal of Multiphase Flow
-- Plos One
+- Journal of King Saud University - Science
+- Journal of Petroleum Science and Engineering
 - Journal of the Brazilian Society of Mechanical Sciences and Engineering
+- Natural Resources Research
+- Plos One
+- Trends in Computational and Applied Mathematics
 
 ---
 ## Portfolio
