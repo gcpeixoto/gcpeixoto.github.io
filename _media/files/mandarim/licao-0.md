@@ -44,3 +44,9 @@
 
 
 - Nota: com _keyboard input_ **Brazilian** todos podem ser reproduzdos diretamente, exceto o sinal do 3o. tom.
+
+## Encoding
+
+- Para Pinyin e Unicode, veja [aqui](http://www.pinyin.info/tools/index.html).
+- Pinyin "ǚ": (u + umlaut + caron/háček) :: `chr(474)`
+- [Cantoneseplus](https://cantoneseplus.com): conversão (pinyin <-> hanzi) :: inputs devem ser nome + tom indicado por número (exemplo: hěn = hen3)

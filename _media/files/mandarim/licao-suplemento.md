@@ -74,3 +74,9 @@
 - Perfil Medium de [Jon Wong](https://jhannwong.medium.com)
 	- Sequência de 4 artigos sobre escrita chinesa começando [aqui](https://medium.com/@jhannwong/learning-chinese-writing-made-easy-f352be930be7).
 	- Referência para [3500 caracteres](https://jhannwong.medium.com/learn-3500-chinese-characters-in-one-week-f1fc00067450). 
+
+## Websites
+
+- [Pinyin Info](http://www.pinyin.info)
+	- [Pinyin-to-Chinese Character Computer Conversion Systems and the Realization of Digraphia in China](http://www.pinyin.info/readings/yin_binyong/computer_conversion.html)
+	- Grammar [stuff](http://www.pinyin.info/readings/yin_binyong/).
