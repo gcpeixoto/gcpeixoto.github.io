@@ -123,3 +123,12 @@ c.ServerApp.browser = 'chrome'
 - [PyViz](https://pyviz.org/tools.html): overview of data visualization Python ecosystem.
 - [Holoviz](https://holoviz.org/index.html): modern project that integrates many tools.
 - [From Data to Viz](https://www.data-to-viz.com): where design meets data science. Amazing holistic view.
+
+
+### CSV to MD conversion 
+
+- Use [MDTable](https://github.com/mzjp2/mdtable): very cool options
+- {% highlight python %} 
+from mdtable import MDTable 
+MDTable('input.csv').save_table('output.csv')
+{% endhighlight %} 
