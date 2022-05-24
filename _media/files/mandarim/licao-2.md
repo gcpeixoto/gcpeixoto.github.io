@@ -62,7 +62,6 @@
  
 ## Vocabulário 词语 [cí yǔ] ::  básico + suplementar + nomes próprios) 
 
-FAZER!
 
 | ID |  hànzì | pinyin  | classe  | significado                 |
 | ----- | ---------- | --------------- | ---------- | ------------------------- |
@@ -119,7 +118,6 @@ FAZER!
 
 ### Vocabulário de referência
 
-FAZER!
 
 | ID   |  hànzì | pinyin    | classe | significado |
 | ----- | ---- | ---------- | --- | ----------------- |
