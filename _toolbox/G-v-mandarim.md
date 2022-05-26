@@ -14,4 +14,6 @@ Find below a series of study notes based on the online Mandarim classes offered 
 
 - [Lição 3](../_media/files/mandarim/licao-3.pdf): Família e seus membros. Espaço e localização. Numerais e quantidades.
 
+- [Lição 4](../_media/files/mandarim/licao-4.pdf): Obtendo informações. Viagem. Turismo. Localização.
+
 - [Suplemento](../_media/files/mandarim/licao-suplemento.pdf): Miscelânea (traços, dicionários, artigos, links etc.)
