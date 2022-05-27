@@ -56,5 +56,3 @@ Remark: resources for this course can be forked from GDCOC0072.
 	- _Takeaways_: i) may improve convergence speed; ii) fewer optimization steps; iii) generalization for spatial variability.
 	- _Gaps:_ non-linearity solvable through training; PDE solvers not optimized for large batch training on GPU; iii) FEM weak form requires efficient quadrature integration over the NN, whose rules are unknown for now.
 
-
-	

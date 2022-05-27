@@ -43,3 +43,4 @@ List of movies talking about mathematics, computing, theorems, geniuses. Content
 - ["A Beautiful Mind" (2001)](https://www.imdb.com/title/tt0268978/?ref_=nv_sr_srsg_0) (_Uma Mente Brilhante_). In this movie, Russell Crowe performs John Nash, Nobel in Economics during his Ph.D. trail at Princeton. Nash's thesis was related to Game Theory, where **fixed-point** theorems are applied.
 
 - ["Good Will Hunting" (1997)](https://www.imdb.com/title/tt0119217/?ref_=tt_sims_tt_i_1) (_Gênio Indomável_).
+

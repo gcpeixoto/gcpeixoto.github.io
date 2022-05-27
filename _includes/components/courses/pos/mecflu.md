@@ -26,3 +26,4 @@
 
 - [Translation of Leonhard Euler’s general principles of the motion of fluids](../../../../_media/files/paper-euler-translation.pdf)
 - [Machine learning for fluid mechanics](https://doi.org/10.1146/annurev-fluid-010719-060214)
+

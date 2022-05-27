@@ -14,6 +14,8 @@ title: Students
 
 {% include components/students/ic.md %}
 
+{% include components/students/internships.md %}
+
 
 
 

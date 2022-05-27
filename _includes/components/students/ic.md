@@ -1,8 +1,12 @@
 ## B.Sc. Research Initiation Programs
 ---
 
-#### Rafael Magno Evaristo Ferraz, Electrical Engineering <span style="color:rgb(200,200,0);"> &#10144; </span>
-- APyCE Project: A Python-based CMG Builder®/Schlumberger Eclipse® wrapper for 3D visualization of reservoir grids (continued), 2021.
+#### Guilherme Iram Silva Araujo, Data Science and Artificial Intelligence <span style="color:rgb(200,200,0);"> &#10144; </span>
+- *Data science applied to reservoir qualification for CO2 storage*
+- Funding: CNPq
+
+#### Rafael Magno Evaristo Ferraz, Electrical Engineering <span style="color:rgb(200,0,0);"> &#10006; </span>
+- *APyCE Project: A Python-based CMG Builder®/Schlumberger Eclipse® wrapper for 3D visualization of reservoir grids (continued)*, 2021.
 - Funding: UFPB
 
 

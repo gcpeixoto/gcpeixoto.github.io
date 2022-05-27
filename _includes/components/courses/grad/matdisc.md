@@ -2,3 +2,4 @@
 ---
 
 - My virtual lab of Discrete Math contains something [here](https://github.com/gcpeixoto/ipynb-lab-matematica-discreta).
+

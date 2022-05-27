@@ -79,4 +79,3 @@ Booklets resulting from the last internal scientific writing seminars.
 #### Idioms and phrases
 - "Duas cabeças pensam melhor do que uma" - _Two heads are better than one_. 
 - "Comunicação é uma via de mão dupla" - _Communication is a two-way street_. 
-	

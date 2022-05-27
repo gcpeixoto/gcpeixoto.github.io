@@ -9,9 +9,13 @@ Do you think I can help you with something? Let me know! Apart from technical op
 
 (*Acha que eu posso ajudar você em algo técnico ou com os temas abaixo? Entre em contato!*)
 
-- Text Review & Translation (especially PT-BR <> EN)
-- *Revisão de Textos & Tradução (especialmente PT-BR <> EN)*   
+- Software engineering supported by high-level numerical methods 
 
-- Scientific Writing & LaTex Typesetting (for papers and publications)
-- *Escrita Científica & Formatação em LaTex (para artigos e publicações)*
+- Holistic solutions for industry and/or applications based on computational engineering
+
+- Ad-hoc technical review & translation (especially PT-BR <--> EN)
+
+- Scientific writing, LaTex typesetting (for papers and publications) / *Escrita científica & formatação em LaTex (para artigos e publicações)*
+
+See our [TRIL Lab](https://tril.ci.ufpb.br/en) website for more information. 
 
