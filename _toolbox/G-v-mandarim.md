@@ -16,4 +16,6 @@ Find below a series of study notes based on the online Mandarim classes offered 
 
 - [Lição 4](../_media/files/mandarim/licao-4.pdf): Obtendo informações. Viagem. Turismo. Localização.
 
+- [Lição 5](../_media/files/mandarim/licao-5.pdf): Fazendo compras. Comendo em restaurantes.
+
 - [Suplemento](../_media/files/mandarim/licao-suplemento.pdf): Miscelânea (traços, dicionários, artigos, links etc.)
