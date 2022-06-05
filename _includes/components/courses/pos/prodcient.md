@@ -34,6 +34,7 @@ Additional contents for brainstorming, discussion and in-class debates:
 - [Paper](https://github.com/gcpeixoto/SCIPROD/raw/main/refs/Volpato_O_metodo_logico_para_redacao_cientifica.pdf): _The logical method for scienfic writing_, by G. L. Volpato
 - [PPGEM Scientific Writing channel on Youtube](https://www.youtube.com/channel/UCdbsMbH8Fws_jcK3ACxIDQg/featured), with past video lectures by guest speakers. 
 - [Report:](https://github.com/gcpeixoto/SCIPROD/raw/main/refs/Relatório%20-%20Avaliação%20da%20Capacitação%20em%20L%C3%ADnguas%20na%20Pós-Graduação%20-%20UFPB.pdf) _Avaliação da Capacitação em Línguas na Pós-Graduação - UFPB_.
+- [How to write a thesis and how a thesis is evalutated](https://kent-and.github.io/OnWriting.pdf), by Kent-Andre Mardal.
 
 #### Resources
 

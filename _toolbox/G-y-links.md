@@ -75,6 +75,8 @@ TRL (_Technological Readiness Level_) and CRL (_Commercial Readiness Level_) are
 
 ### International
 
+- [ECCOMAS - European Community on Computational Methods in Applied Sciences](https://www.eccomas.org)
+	- European Congress on Computational Methods in Applied Sciences and Engineering
 - [IACM - International Association on Computational Mechanics](https://iacm.info/#)
 	- WCCM - World Congress on Computational Mechanics
 - [NIST - U.S. National Institute of Standards and Technology](https://www.nist.gov)

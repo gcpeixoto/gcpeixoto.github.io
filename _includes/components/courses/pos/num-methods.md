@@ -23,6 +23,7 @@ Remark: resources for this course can be forked from GDCOC0072.
 - Numerical Linear Algebra, by L. Trefethen and D. Bau III
 - [The Finite Element Method: Theory, Implementation, and Applications](https://www.amazon.com/gp/product/B00BLREC4Q?ref_=dbs_m_mng_rwt_calw_tkin_7&storeType=ebooks&qid=1631496281&sr=8-7), by M. G. Larson and F. Bengzon
 - [Theory and Practice of Finite Elements](https://www.springer.com/gp/book/9780387205748), by A. Ern and J-L Guermond <span>&#128077;</span>
+- [Research Software Engineering with Python](https://www.amazon.com/Research-Software-Engineering-Python-Building/dp/036769834X) By D. Irving et al.
 
 ##### Booklets 
 
@@ -37,8 +38,7 @@ Remark: resources for this course can be forked from GDCOC0072.
 - [Finite Elements: numerical analysis and implementation](https://finite-element.github.io) @ICL <span>&#128077;</span>
 - [Practical Numerical Methods with Python](https://github.com/numerical-mooc/numerical-mooc/wiki), by L. Barba's group.
 - [Python Programming Primer](http://www.southampton.ac.uk/~fangohr/training/python/) @Southampton 
-- [Research Software Engineering with Python](https://alan-turing-institute.github.io/rsd-engineeringcourse/html/index.html) @Turing <span>&#128077;</span>
-
+ 
 ##### Misc
 
 - [A History of the FEM](https://edisciplinas.usp.br/pluginfile.php/5583679/mod_resource/content/1/Historia_MEF_Babuska.pdf), by Prof. Ivo Babuska
@@ -47,6 +47,7 @@ Remark: resources for this course can be forked from GDCOC0072.
 - [FENICS Project website](https://fenicsproject.org)
 - [Prof. Gustavo Rabello's FEM notes](https://gustavorabello.github.io/teaching/) @UFRJ/Brazil
 - [The Fenics X Tutorial](https://jorgensd.github.io/dolfinx-tutorial/index.html) by J. Dokken <span>&#128077;</span>
+- [Tutorials on bash scripting, regular expressions etc.](https://ryanstutorials.net) by Ryan Chadwick
 
 ##### Papers
 

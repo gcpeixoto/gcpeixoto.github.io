@@ -29,6 +29,7 @@ Numerical methods for undergrads in STEM courses (usually Engineering, Statistic
 - [SciPython](http://scipython.com) <span>&#128077;</span>
 - [Numerical Programming](https://www.python-course.eu) @Python Course
 - [Portal REAMAT - Cálculo Numérico](https://www.ufrgs.br/reamat/CalculoNumerico/index.html) @UFRGS <span><img src="../../../../_includes/icons/brazil.svg" width="13"> </span>
+- Hans Petter Langtangen's (_in memoriam_) [various writings](http://hplgit.github.io) @Simula
 
 ##### Movies
 
