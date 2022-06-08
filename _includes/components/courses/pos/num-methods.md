@@ -43,6 +43,7 @@ Remark: resources for this course can be forked from GDCOC0072.
 
 - [A History of the FEM](https://edisciplinas.usp.br/pluginfile.php/5583679/mod_resource/content/1/Historia_MEF_Babuska.pdf), by Prof. Ivo Babuska
 - [Def Element: An Encyclopedia of FEM](https://defelement.com)
+- [SYMFEM: symbolic finite element definition library](https://github.com/mscroggs/symfem), by Matthew Scroggs
 - [Engineering Statistics Handbook](https://www.itl.nist.gov/div898/handbook/index.htm) @NIST/SEMATECH
 - [FENICS Project website](https://fenicsproject.org)
 - [Prof. Gustavo Rabello's FEM notes](https://gustavorabello.github.io/teaching/) @UFRJ/Brazil
