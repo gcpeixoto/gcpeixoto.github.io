@@ -149,4 +149,7 @@ export PATH="$HOME/.gem/ruby/3.1.0/bin:$PATH"
 gem install --user-install bundler, jekyll, webrick
 {% endhighlight %} 
 
+ ### Convert .m4a to .mp3
  
+ - Install `ffmpeg` with `brew install ffmpeg`
+ - Use `ffmpeg -i in.m4a -codec:a libmp3lame -qscale:a 1 out.mp3`
