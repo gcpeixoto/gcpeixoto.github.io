@@ -153,3 +153,8 @@ gem install --user-install bundler, jekyll, webrick
  
  - Install `ffmpeg` with `brew install ffmpeg`
  - Use `ffmpeg -i in.m4a -codec:a libmp3lame -qscale:a 1 out.mp3`
+
+ ### Remove printing restrictions on PDF
+ 
+ - Install `qpdf` with `brew install qpdf`
+ - Use `qpdf --decrypt in.pdf out.pdf`
