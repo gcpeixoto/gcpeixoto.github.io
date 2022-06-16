@@ -2,6 +2,28 @@
 title: G-ψ - Useful links
 ---
 
+## CO2 Storage Atlases Worldwide
+
+- Brazil
+	- [Brazilian Atlas of CO2 CGS](https://www.globalccsinstitute.com/archive/hub/publications/202033/atlas-brasileiro.pdf)
+
+- Ireland
+	- [SEI](https://www.seai.ie/publications/Assessment-of-the-Potential-for-Geological-Storage-of-CO2-for-the-Island-of-Ireland.pdf)
+
+- Norway
+	- [Norwegian Petroleum Directorate's Atlases](https://www.npd.no/en/facts/publications/co2-atlases/)
+	- [Norwegian North Sea](https://www.npd.no/globalassets/1-npd/publikasjoner/atlas-eng/co2-atlas-north-sea.pdf)
+	- [Norwegian Sea 2012](https://www.npd.no/globalassets/1-npd/publikasjoner/atlas-eng/co2-atlas-norwegian-sea-2012.pdf)
+- United Kingdom
+	- [CO2 Stored](https://www.co2stored.co.uk/home/index)
+		- [Introductory paper](https://www.sciencedirect.com/science/article/pii/S1876610214023558)
+- North America
+	- [MECCS Mexico](https://meccs.org.mx/en/ccs_in_mexico.html)
+	- [NACSA 2012](https://meccs.org.mx/static/atlas/nacsa.pdf)
+		- [Introductory paper](https://www.sciencedirect.com/science/article/pii/S1876610213006887)
+	- [Atlas Mexicano de Almacenamiento de CO2](https://meccs.org.mx/static/atlas/atlas_almac_geo_mex.pdf)
+	- [NETL's US Carbon Storage Atlas 2015](https://www.netl.doe.gov/sites/default/files/2018-10/ATLAS-V-2015.pdf)
+
 ## Geology glossary
 
 - [Illustrated Geologic Glossary by CPRM Brazil (PT only)](http://sigep.cprm.gov.br/glossario/index.html)
