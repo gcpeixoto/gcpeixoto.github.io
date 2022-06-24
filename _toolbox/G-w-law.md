@@ -8,8 +8,11 @@ title: G-ς - Law
 
 - [Lei 8112/1990](http://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm): Regime jurídico dos servidores federais.
 - [Lei 9784/1999](https://www.planalto.gov.br/ccivil_03/LEIS/L9784.htm): Processo administrativo no âmbito da Administração Pública Federal.
-- [Lei 8666/1993](http://www.planalto.gov.br/ccivil_03/Leis/L8666cons.htm): Licitações
+- [Lei 8666/1993](http://www.planalto.gov.br/ccivil_03/Leis/L8666cons.htm): Licitações.
 - [Lei 14133/2021](http://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2021/Lei/L14133.htm#art193): Licitações e contratos. Altera 8666/1993.
+- [Decreto 1171/1994](https://www.gov.br/inpi/pt-br/governanca/integridade-publica/etica/arquivos/documentos/cdigodeeticadoservidorpublicofederal1.pdf): Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal.
+- [CEP/Planalto](https://www.gov.br/planalto/pt-br/assuntos/etica-publica/cep): Sistema de Gestão da Ética do Poder Executivo Federal.
+- [CCAAF](http://www.planalto.gov.br/ccivil_03/codigos/codi_conduta/cod_conduta.htm#:~:text=Este%20Código%2C%20antes%20de%20tudo,na%20condução%20da%20coisa%20pública.): Código de Conduta da Alta Administração Federal.
 
 - Redação oficial
 
@@ -54,6 +57,8 @@ O MEC disciplina a obrigatoriedade de uso do Código de Classificação e Tabela
 
 - Afastamentos
 	- [Res. CONSEPE/UFPB 07/2004](../_media/files/leis/resolucao-consepe-07-2004-afastamento-docente.pdf): Afatamento de docentes.
+
+- [Comissão de Ética Pública](https://www.ufpb.br/eticapublica): CEP/UFPB.
 
 ## Inovação
 
@@ -104,20 +109,22 @@ PD&I, Termo de Outorga, Convênio para PD&I);
 - [RG](../_media/files/leis/regimento-geral-ufpb.pdf): Regimento Geral.
 - [Res. CONSUNI 22/2011](../_media/files/leis/resolucao-consuni-22-2011-criacao-ci.pdf): Criação do CI.
 - [Res. CONSEPE 22/2014](../_media/files/leis/resolucao-consepe-22-2014-regimento-ci.pdf): Regimento do CI.
+
+## Graduação - UFPB
+
 - [Res. CONSEPE 29/2020](../_media/files/leis/resolucao-consepe-29-2020-regimento-graduacao.pdf): Regimento da graduação.
  
-## Internacionalização - UFPB
-
-- [Res. CONSUNI 06/2018](../_media/files/leis/resolucao-consuni-06-2018-internacionalizacao.pdf): Política de internacionalização.
-- [Res. CONSUNI 44/2018](../_media/files/leis/resolucao-consuni-44-2018-criacao-da-aci.pdf): Estrutura da Agência de Cooperação Internacional.
-
-
 ## Pós-graduação - UFPB
 
 - [Res. CONSEPE 79/2013](../_media/files/leis/resolucao-consepe-79-2013-regulamento-geral-pos.pdf): Regulamento geral da pós-graduação. Ver 34/2014.
 - [Res. CONSEPE 34/2014](../_media/files/leis/resolucao-consepe-79-2013-regulamento-geral-pos-alteracoes.pdf): Altera 79/2013.
 - [Res. CONSEPE 58/2016](../_media/files/leis/resolucao-consepe-58-2016-acoes-afirmativas-pos.pdf): Ações afirmativas.
 - [Res. CONSEPE 65/2016](../_media/files/leis/resolucao-consepe-65-2016-fluxo-continuo-pos.pdf): Fluxo contínuo.
+
+## Internacionalização - UFPB
+
+- [Res. CONSUNI 06/2018](../_media/files/leis/resolucao-consuni-06-2018-internacionalizacao.pdf): Política de internacionalização.
+- [Res. CONSUNI 44/2018](../_media/files/leis/resolucao-consuni-44-2018-criacao-da-aci.pdf): Estrutura da Agência de Cooperação Internacional.
 
 ## PPGEM - UFPB
 
