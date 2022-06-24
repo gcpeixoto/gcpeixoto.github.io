@@ -11,6 +11,7 @@ title: G-ς - Law
 - [Lei 8666/1993](http://www.planalto.gov.br/ccivil_03/Leis/L8666cons.htm): Licitações.
 - [Lei 14133/2021](http://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2021/Lei/L14133.htm#art193): Licitações e contratos. Altera 8666/1993.
 - [Decreto 1171/1994](https://www.gov.br/inpi/pt-br/governanca/integridade-publica/etica/arquivos/documentos/cdigodeeticadoservidorpublicofederal1.pdf): Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal.
+- [Decreto 200/1967](https://www.planalto.gov.br/ccivil_03/decreto-lei/Del0200.htm): Organização da Administração Federal (autarquias). Ver [Lei 7596/1987](https://www.planalto.gov.br/ccivil_03/LEIS/L7596.htm#art1), Art. 3o.
 - [CEP/Planalto](https://www.gov.br/planalto/pt-br/assuntos/etica-publica/cep): Sistema de Gestão da Ética do Poder Executivo Federal.
 - [CCAAF](http://www.planalto.gov.br/ccivil_03/codigos/codi_conduta/cod_conduta.htm#:~:text=Este%20Código%2C%20antes%20de%20tudo,na%20condução%20da%20coisa%20pública.): Código de Conduta da Alta Administração Federal.
 
