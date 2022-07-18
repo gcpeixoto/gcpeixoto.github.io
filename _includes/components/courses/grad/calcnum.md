@@ -35,6 +35,8 @@ Numerical methods for undergrads in STEM courses (usually Engineering, Statistic
 
 List of movies talking about mathematics, computing, theorems, geniuses. Contents directly related to numerical methods are made explicit below.   
 
+- ["Adventures of a Mathematician" (2020)](https://www.imdb.com/title/tt6875374/) (_O Matemático_). This movie is an account of how the mathematician [Stanislaw Ulam](https://en.wikipedia.org/wiki/Stanislaw_Ulam), the physicist [Edward Teller](https://en.wikipedia.org/wiki/Edward_Teller), and other scientists began to develop the hydrogen bomb at Los Alamos, USA, in the post-war 1950s. Ulam is the inventor of the [Monte-Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_method) numerical method and a pioneer with John Von Neumann to the advent of the computer. In a few scenes, Ulam teaches random variables and probability distributions. A summary about "The Super" (the hydrogen bomb) can be read [here](https://www.atomicheritage.org/history/hydrogen-bomb-1950).
+
 - ["Hidden Figures" (2016)](https://www.imdb.com/title/tt4846340/) (_Estrelas Além do Tempo_). In this movie, Taraji Hanson performs [Katherine Johnson](https://abcnews.go.com/US/katherine-johnson-mathematician-real-life-subject-hidden-figures/story?id=69176001), a former NASA's human computer, that uses the **Euler's Method** to compute the John Glenn capsule's back-to-Earth trajectory. 
 
 - ["The Man Who Knew Infinity" (2015)](https://www.imdb.com/title/tt0787524/) (_O Homem que Via o Infinito_).
