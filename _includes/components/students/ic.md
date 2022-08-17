@@ -1,8 +1,16 @@
-## B.Sc. Research Initiation Programs
+## B.Sc. Research and Outreach Programs
 ---
 
-#### Guilherme Iram Silva Araujo, Data Science and Artificial Intelligence <span style="color:rgb(200,200,0);"> &#10144; </span>
-- *Data science applied to reservoir qualification for CO2 storage*
+#### Guilherme Huther Baldo, Computer Science <span style="color:rgb(200,200,0);"> &#10144; </span>
+- *Internationalization Data Observatory*, 2022
+- Funding: UFPB
+
+#### Yhasmim de Souza Tigre, Data Science and Artificial Intelligence <span style="color:rgb(200,200,0);"> &#10144; </span>
+- *Data science applied to reservoir qualification for CO2 storage (continued)*, 2022
+- Funding: CNPq
+
+#### Guilherme Iram Silva Araujo, Data Science and Artificial Intelligence <span style="color:rgb(200,0,0);"> &#10006; </span>
+- *Data science applied to reservoir qualification for CO2 storage*, 2022
 - Funding: CNPq
 
 #### Rafael Magno Evaristo Ferraz, Electrical Engineering <span style="color:rgb(200,0,0);"> &#10006; </span>
