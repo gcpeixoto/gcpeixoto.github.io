@@ -149,12 +149,18 @@ export PATH="$HOME/.gem/ruby/3.1.0/bin:$PATH"
 gem install --user-install bundler, jekyll, webrick
 {% endhighlight %} 
 
- ### Convert .m4a to .mp3
+### Convert .m4a to .mp3
  
- - Install `ffmpeg` with `brew install ffmpeg`
- - Use `ffmpeg -i in.m4a -codec:a libmp3lame -qscale:a 1 out.mp3`
+- Install `ffmpeg` with `brew install ffmpeg`
+- Use `ffmpeg -i in.m4a -codec:a libmp3lame -qscale:a 1 out.mp3`
 
- ### Remove printing restrictions on PDF
+### Remove printing restrictions on PDF
  
- - Install `qpdf` with `brew install qpdf`
- - Use `qpdf --decrypt in.pdf out.pdf`
+- Install `qpdf` with `brew install qpdf`
+- Use `qpdf --decrypt in.pdf out.pdf`
+
+
+### Command line PDF to TXT conversion
+
+- Install: `brew install xpdf`
+- Usage: `pdftotext in.pdf out.txt`
