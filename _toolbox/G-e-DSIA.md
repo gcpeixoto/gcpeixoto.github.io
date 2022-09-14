@@ -10,7 +10,9 @@ title: G-ε - Artificial intelligence and data science
 
 - [Deep learning lectures](https://deeplearning.mit.edu), by Lex Fridman
 
+## AI-based artwork tools
 
+- [DreamStudio](https://beta.dreamstudio.ai)
 
 
 
