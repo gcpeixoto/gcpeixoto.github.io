@@ -24,6 +24,26 @@ title: G-ψ - Useful links
 	- [Atlas Mexicano de Almacenamiento de CO2](https://meccs.org.mx/static/atlas/atlas_almac_geo_mex.pdf)
 	- [NETL's US Carbon Storage Atlas 2015](https://www.netl.doe.gov/sites/default/files/2018-10/ATLAS-V-2015.pdf)
 
+## Relevant CCS backbone
+
+- [CO2 Geonet - European Network](http://www.co2geonet.com/home/)
+- [CO2 Capture Project](https://www.co2captureproject.org)
+- [Global CCS Institute](https://www.globalccsinstitute.com)
+- [UK CCS](https://ukccsrc.ac.uk)
+
+### Brazil's cluster
+
+- [RCGI Poli/USP](https://www.rcgi.poli.usp.br)
+- [IEE/USP](http://www.iee.usp.br/?q=pt-br)
+- [NIPE/UNICAMP](https://www.nipe.unicamp.br/index.php/en/)
+- [CEPAC/PUC-RS](https://www.pucrs.br/cepac/)
+- [PPE/UFRJ](http://www.ppe.ufrj.br/index.php/pt/)
+
+### Reports
+
+- [ICC Brasil - Oportunidades para o Brasil em Mercados de Carbono - 2021](https://www.iccbrasil.org/media/uploads/2021/09/27/oportunidades-para-o-brasil-em-mercados-de-carbono_icc-br-e-waycarbon_29_09_2021.pdf)
+ 
+
 ## Geology glossary
 
 - [Illustrated Geologic Glossary by CPRM Brazil (PT only)](http://sigep.cprm.gov.br/glossario/index.html)
