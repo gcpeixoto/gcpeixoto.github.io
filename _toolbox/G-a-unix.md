@@ -164,3 +164,8 @@ gem install --user-install bundler, jekyll, webrick
 
 - Install: `brew install xpdf`
 - Usage: `pdftotext in.pdf out.txt`
+
+
+### Command line PDF merger
+
+- See [pdfunite](https://github.com/mtgrosser/pdfunite). Perhaps, it conflicts with `xpdf` because of `poppler`.
