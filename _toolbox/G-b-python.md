@@ -123,6 +123,8 @@ c.ServerApp.browser = 'chrome'
 - [PyViz](https://pyviz.org/tools.html): overview of data visualization Python ecosystem.
 - [Holoviz](https://holoviz.org/index.html): modern project that integrates many tools.
 - [From Data to Viz](https://www.data-to-viz.com): where design meets data science. Amazing holistic view.
+- [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/): book by Claus O. Wilke.
+- [Interactive Dashboards and Data Apps with Plotly and Dash](https://github.com/PacktPublishing/Interactive-Dashboards-and-Data-Apps-with-Plotly-and-Dash): book by Elias Dabbas
 
 
 ### CSV to MD conversion 
