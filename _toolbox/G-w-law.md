@@ -19,6 +19,23 @@ title: G-ς - Law
 
 	- [Manual PR](../_media/files/leis/manual-redacao-presidencia.pdf): Manual de Redação da Presidência da República.
 
+- Atos normativos
+
+	- [Decreto 10139/2019](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D10139.htm): revisão e consolidação de atos inferiores a decreto.
+	- [Decreto 9191/2017](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9191.htm): normas e diretrizes para elaboração, redação e formatação de atos normativos.
+
+- Estrutura organizacional da República
+
+	- [SIORG](https://siorg.gov.br/siorg-cidadao-webapp/resources/app/organograma.html)
+	
+- UFPB no SIORG:
+	- República Federativa do Brasil
+		- União
+			- PE - Poder Executivo
+				- PR - Presidência da República - 26
+					- MEC - 244
+						- UFPB - 419
+	
 	
 ## Arquivo Nacional
 
