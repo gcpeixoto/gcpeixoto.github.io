@@ -23,6 +23,7 @@ title: G-ς - Law
 
 	- [Decreto 10139/2019](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D10139.htm): revisão e consolidação de atos inferiores a decreto.
 	- [Decreto 9191/2017](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9191.htm): normas e diretrizes para elaboração, redação e formatação de atos normativos.
+	- [IN GR/FURG 1/2021](https://conselhos.furg.br/arquivos/Documentos/Instrucao_Normativa_1_2021.pdf): Excelente referência no âmbito das IFES.
 
 - Estrutura organizacional da República
 
@@ -36,6 +37,7 @@ title: G-ς - Law
 					- MEC - 244
 						- UFPB - 419
 	
+
 	
 ## Arquivo Nacional
 
