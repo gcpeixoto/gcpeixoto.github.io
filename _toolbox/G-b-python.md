@@ -113,9 +113,15 @@ c.ServerApp.browser = 'chrome'
 - The module `webbrowser` allows us to choose among many known browsers. See table [here](https://docs.python.org/3/library/webbrowser.html#webbrowser.get).
 - For further detail, see this [discussion](https://github.com/jupyterlab/jupyterlab/issues/9565).
 
-### PDF parsing
+### PDF parsing end editing
 
 - [pdfminer.six](https://github.com/pdfminer/pdfminer.six). Install with `pip install pdfminer.six` and run with `pdf2txt.py file.pdf` (install adds to PATH).
+- [PyPDF2](https://pypdf2.readthedocs.io/en/latest/index.html): good option.
+- [WeasyPrint](https://doc.courtbouillon.org/weasyprint/stable/): conversion from HTML/CSS to PDF. 
+- [ReportLab](https://www.reportlab.com)
+- [pyFPDF](https://pyfpdf.readthedocs.io/en/latest/): ported from PHP.
+- [Pyppeteer](https://miyakogi.github.io/pyppeteer/): JavaScript chrome/chromium browser automation library.
+- [PDFKit](https://pdfkit.org): Javascript for Node and browser.
 
 
 ### DataViz Tools
@@ -130,7 +136,7 @@ c.ServerApp.browser = 'chrome'
 ### CSV to MD conversion 
 
 - Use [MDTable](https://github.com/mzjp2/mdtable): very cool options
-- {% highlight python %} 
+{% highlight python %} 
 from mdtable import MDTable 
 MDTable('input.csv').save_table('output.csv')
 {% endhighlight %}
