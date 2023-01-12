@@ -145,3 +145,9 @@ TRL (_Technological Readiness Level_) and CRL (_Commercial Readiness Level_) are
 - [Journal of Petroleum Science and Engineering](https://www.sciencedirect.com/journal/journal-of-petroleum-science-and-engineering/about/aims-and-scope)
 - [Journal of Petroleum Technology](https://jpt.spe.org)
 - [Science and Technology for Energy Transition](https://www.stet-review.org)
+
+## Interesting researchers and subjects
+
+- Numerical methods
+	- [Prof. Nick Higham, at Manchester/UK](https://nhigham.com)
+	- [Prof. Autar Kaw, at Univ. of South Florida](https://autarkaw.com)
