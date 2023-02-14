@@ -63,7 +63,8 @@ See further discussion [here](https://github.com/jupyterlab/debugger) and [here]
 - With `conda update jedi; conda list jedi`, the version was not being upgraded to 0.18 (available on PyPi);
 - Worked only with `conda update -c conda-forge jedi=0.17.2` after a long wait on "frozen/flexible solve... solving environment...";
 - Then, launching Jupyter on Safari, the `Cell Toolbar > Slideshow` could be visible, but the button to launch RISE Slideshow was not showing up.
-	- Current solution: use Chrome.		
+	- Current solution: use Chrome (see info in this page on how to set browser on Jupyter config file).
+	- Persisting, try `jupyter-nbextension install rise --py --sys-prefix` and button should (luckly) appear!		
 
 - How to customize RISE's chalkboard and themes
 	- List of available themes [here](https://revealjs.com/themes/).
