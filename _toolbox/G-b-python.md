@@ -102,13 +102,13 @@ See further discussion [here](https://github.com/jupyterlab/debugger) and [here]
 - The Unicode table for music is [here](https://unicode.org/charts/PDF/U1D100.pdf).
 - So, to print the G clef, we'd use `print('\U0001D120')`, with Unicode `\U` escape. Seemingly, there are few font types that handle music symbols. One available is [Bravura](https://github.com/steinbergmedia/bravura).
 
-### Set browser for Jupyter-Lab
+### Set browser for Jupyter Notebook or Jupyter-Lab
 
-- To choose a different browser from the computer's default where to run Jupyter-Lab, run `jupyter server --generate-config` and edit the option `c.ServerApp.browser` in  `$HOME/.jupyter/jupyter_server_config.py`
+- To choose a different browser from the computer's default where to run Jupyter-Lab, run `jupyter server --generate-config (or jupyter-notebook --generate-config)` and edit the option `c.ServerApp.browser` in  `$HOME/.jupyter/jupyter_server_config.py`
 {% highlight python %} 
  #  Default: ''
 import webbrowser
-c.ServerApp.browser = 'chrome'
+c.ServerApp.browser = u'/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome %s'
 {% endhighlight %} 		
 - The module `webbrowser` allows us to choose among many known browsers. See table [here](https://docs.python.org/3/library/webbrowser.html#webbrowser.get).
 - For further detail, see this [discussion](https://github.com/jupyterlab/jupyterlab/issues/9565).
