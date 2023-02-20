@@ -38,6 +38,7 @@ Remark: resources for this course can be forked from GDCOC0072.
 - [Finite Elements: numerical analysis and implementation](https://finite-element.github.io) @ICL <span>&#128077;</span>
 - [Practical Numerical Methods with Python](https://github.com/numerical-mooc/numerical-mooc/wiki), by L. Barba's group.
 - [Python Programming Primer](http://www.southampton.ac.uk/~fangohr/training/python/) @Southampton 
+- [Research Software Engineering with Python](https://alan-turing-institute.github.io/rse-course/html/index.html) @Turing
  
 ##### Misc
 

@@ -17,3 +17,4 @@
 #### Rafael Marrocos Magalhães, Mech. Engg. <span style="color:green;"> &#10004; </span> 
 - *Deep Learning Algorithms as Proxy Models for Hydrocarbon Reservoir Simulation*, 2018. (Co-advisor)
 - Funding: Petrobras (partial)
+- [LinkedIn](https://www.linkedin.com/in/rafaelmagalhaes/)

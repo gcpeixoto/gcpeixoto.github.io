@@ -27,13 +27,15 @@ G.P.O.
 
 ### Roles
 
-- Director of Promotion and Academic-Scientific Actions - [International Cooperation Office](http://ufpb.br/acieng)
 - Vice-Coordinator of the [Graduate Program in Mechanical Engineering](https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?id=1870) - Technology Center 
 - Adjunct Professor at the Scientific Computing Department - [Center of Informatics](http://www.ci.ufpb.br)
 - Researcher and co-manager at the [TRIL Lab](https://tril.ci.ufpb.br)
 - Leader of the [Numbiosis Project](http://www.numbiosis.ci.ufpb.br)
 - Member of the [Brazilian Society of Mechanical Sciences and Engineering](http://www.abcm.org.br) 
 
+#### Previous roles
+
+- Director of Promotion and Academic-Scientific Actions - [International Cooperation Office](http://ufpb.br/acieng) (Feb 2022 - Dec 2022)
 
 ### Education
 
@@ -60,6 +62,7 @@ Here you will find full details on my scientific production in the **TROIM** dim
 --- 
 ## Recommended links
 
+- [H-CFD Brazil](https://sites.google.com/view/h-cfdbrazil)
 - [Americo Cunha's website](http://www.americocunha.org)
 - [Gustavo Anjos's website](https://gustavorabello.github.io)
 - [Eduardo Freigedo's website](https://evitral.github.io)
