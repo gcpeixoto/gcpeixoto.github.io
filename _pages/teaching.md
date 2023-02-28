@@ -18,6 +18,7 @@ Find here information and materials about current(past) courses that I teach(hav
 ## Undergraduate courses
 
 {% include components/courses/grad/calcnum.md %}
+{% include components/courses/grad/dataviz.md %}
 {% include components/courses/grad/icd.md %}
 {% include components/courses/grad/matdisc.md %}
 {% include components/courses/grad/metscomps.md %}
