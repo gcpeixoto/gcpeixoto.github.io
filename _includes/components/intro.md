@@ -2,11 +2,10 @@
 
 Hello!
 
-Currently, I'm an adjunct professor at the Federal University of Paraíba, located in the beautiful seashore João Pessoa city, where  lies the Brazil's far east point. My predominant research areas cover numerical methods, fluid mechanics, and scientific computing. In particular, I sail amidst finite elements, multiphase flows, numerical analysis, computer programming, porous media, reservoir modeling, and artificial intelligence applications. 
+Currently, I'm an adjunct professor at the Federal University of Paraíba, located in the beautiful seashore João Pessoa city, where  lies the Brazil's far east point. My predominant research areas cover numerical methods, fluid mechanics, and scientific computing. In a recent past, I sailed amidst finite elements, multiphase flows, numerical analysis, porous media, and reservoir modeling.
+More recently, I have been focused on data science applications for energy and healthcare sectors.
 
-Although I've held a bit of math in my innermost roots, I've tasted several mechanics' syrups over the years and now I have a passionate vision of certain disciplines, such as transport phenomena and fluid mechanics. Well, I'd say that it's a small lily in a large garden, wherein I'm used to plow. In short words, my field of study is [Computational Science and Engineering](https://en.wikipedia.org/wiki/Computational_engineering).
-
-After receiving my undergraduate diploma in Mathematics, I've escaped towards Metallurgical and Materials Engineering for a while. My master's degree was on top of hydrodynamic stability, rotating disk, von Kármán and all that. In the mids of my doctoral journey, I moved to Lausanne, Switzerland, for an internship time, where I stayed diving into the seas of multiphase flows and their numerical modeling. Back in Brazil, I've received my doctoral degree in Mechanical Engineering with a thesis talking about the motion of a drop jet subject to crossflow. Later on, I began a post-doc in hemodynamics and another in mathematical modeling to collect some expertise. A few years later... here I am. 
+Although I've held a bit of math in my innermost roots, I've tasted several mechanics' syrups over the years, so that I acquired a passionate vision of certain disciplines, such as transport phenomena and fluid mechanics. Today, after many waves, river wakes, and mixtures revolve the life, I'd say that my field of study is [Computational Science and Engineering](https://en.wikipedia.org/wiki/Computational_engineering), where I conserve an interdisciplinary and breadth-like scientific profile.
 
 This webpage was developed to show my career portfolio, gather useful technical information in my toolbox pages and provide links to third-party stuff, such as profiles of coworkers and interesting people. I hope you like to be here! :) 
 
@@ -22,15 +21,15 @@ G.P.O.
 ### Identification 
 
 - Nationality: Brazilian
-- Age: 35
-- Marital status: married to Viviane 
+- Age: 36
+- Family status: married to Viviane and Theo's father.
 
 ### Roles
 
-- Vice-Coordinator of the [Graduate Program in Mechanical Engineering](https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?id=1870) - Technology Center 
+- Vice-Coordinator of the [Graduate Program in Mechanical Engineering](https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?id=1870)
+- Collaborating Professor of the [Graduate Program in Informatics](https://ppgi.ci.ufpb.br)
 - Adjunct Professor at the Scientific Computing Department - [Center of Informatics](http://www.ci.ufpb.br)
 - Researcher and co-manager at the [TRIL Lab](https://tril.ci.ufpb.br)
-- Leader of the [Numbiosis Project](http://www.numbiosis.ci.ufpb.br)
 - Member of the [Brazilian Society of Mechanical Sciences and Engineering](http://www.abcm.org.br) 
 
 #### Previous roles
@@ -53,11 +52,14 @@ G.P.O.
 - French: limited professional skills
 - Spanish: limited professional skills
 
-### Brazilian scientific resume
+### Profiles 
 
-Here you will find full details on my scientific production in the **TROIM** dimensions: *Teaching*, *Research*, *Outreach*, *Innovation*, and *Management*.
+Find full details on my scientific production in the **TROIM** dimensions (*Teaching*, *Research*, *Outreach*, *Innovation*, and *Management*) on the Brazilian Lattes database:
 
 - [CNPq Lattes Platform](http://lattes.cnpq.br/2612838955804083)
+
+- [Sciprofiles](https://sciprofiles.com/profile/2812210)
+
 
 --- 
 ## Recommended links

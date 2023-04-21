@@ -42,6 +42,10 @@ title: G-ψ - Useful links
 ### Reports
 
 - [ICC Brasil - Oportunidades para o Brasil em Mercados de Carbono - 2021](https://www.iccbrasil.org/media/uploads/2021/09/27/oportunidades-para-o-brasil-em-mercados-de-carbono_icc-br-e-waycarbon_29_09_2021.pdf)
+
+### Carbon credits and others
+
+- [Real World Visuals](https://www.realworldvisuals.com/climate-projects): How can you visualize 1 ton CO2 (or 1 carbon credit)?   
  
 
 ## Geology glossary
