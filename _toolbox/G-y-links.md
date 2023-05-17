@@ -130,6 +130,7 @@ TRL (_Technological Readiness Level_) and CRL (_Commercial Readiness Level_) are
 - [USACM - U.S. Association on Computational Mechanics](https://www.usacm.org)
 	- USNCCN - U.S. National Congress on Computational Mechanics
 	- MMLDT-CSET (2021) - Mechanistic Machine Learning and Digital Twins for Computational Science, Engineering & Technology
+- [RSE - Society of Research Software Engineering](https://society-rse.org/)
 
 
 ## Interesting companies, startups, spin-offs
@@ -150,8 +151,15 @@ TRL (_Technological Readiness Level_) and CRL (_Commercial Readiness Level_) are
 - [Journal of Petroleum Technology](https://jpt.spe.org)
 - [Science and Technology for Energy Transition](https://www.stet-review.org)
 
-## Interesting researchers and subjects
+## Interesting researchers, series, lectures
 
 - Numerical methods
 	- [Prof. Nick Higham, at Manchester/UK](https://nhigham.com)
 	- [Prof. Autar Kaw, at Univ. of South Florida](https://autarkaw.com)
+
+- Computer arithmetics / architecture
+	- [Prof. Harry Porter III's YT series, at Portland State Univ.](https://youtube.com/playlist?list=PLbtzT1TYeoMgzLyE9n-pJrTFZX18EUKw_)
+	- [Prof. Onur Mutlu's YT Channel, at ETH](https://www.youtube.com/@OnurMutluLectures/playlists)
+
+- Linear algebra
+	- [Gilbert Strang's last lecture at MIT: 66 out of 88 years at the house!](https://www.youtube.com/watch?v=lUUte2o2Sn8)

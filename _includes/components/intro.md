@@ -2,7 +2,7 @@
 
 Hello!
 
-Currently, I'm an adjunct professor at the Federal University of Paraíba, located in the beautiful seashore João Pessoa city, where  lies the Brazil's far east point. My predominant research areas cover numerical methods, fluid mechanics, and scientific computing. In a recent past, I sailed amidst finite elements, multiphase flows, numerical analysis, porous media, and reservoir modeling.
+Currently, I'm an adjunct professor at the Federal University of Paraíba (UFPB), located in the beautiful seashore João Pessoa city, where  lies the Brazil's far east point. My predominant research areas cover numerical methods, fluid mechanics, and scientific computing. In a recent past, I sailed amidst finite elements, multiphase flows, numerical analysis, porous media, and reservoir modeling.
 More recently, I have been focused on data science applications for energy and healthcare sectors.
 
 Although I've held a bit of math in my innermost roots, I've tasted several mechanics' syrups over the years, so that I acquired a passionate vision of certain disciplines, such as transport phenomena and fluid mechanics. Today, after many waves, river wakes, and mixtures revolve the life, I'd say that my field of study is [Computational Science and Engineering](https://en.wikipedia.org/wiki/Computational_engineering), where I conserve an interdisciplinary and breadth-like scientific profile.
@@ -31,10 +31,11 @@ G.P.O.
 - Adjunct Professor at the Scientific Computing Department - [Center of Informatics](http://www.ci.ufpb.br)
 - Researcher and co-manager at the [TRIL Lab](https://tril.ci.ufpb.br)
 - Member of the [Brazilian Society of Mechanical Sciences and Engineering](http://www.abcm.org.br) 
+- Member of the Structuring Teaching Nucleus of the Undergraduate Program in Data Science and Artificial Intelligence (CI/UFPB)
 
 #### Previous roles
 
-- Director of Promotion and Academic-Scientific Actions - [International Cooperation Office](http://ufpb.br/acieng) (Feb 2022 - Dec 2022)
+- Director of Promotion and Academic-Scientific Actions at the UFPB's [International Cooperation Office](http://ufpb.br/acieng) (Feb 2022 - Dec 2022)
 
 ### Education
 
@@ -43,7 +44,7 @@ G.P.O.
 - D.Sc. in Mechanical Engineering, State University of Rio de Janeiro, Brazil. (Advisors: Norberto Mangiavacchi & Leonardo S. B. Alves)
 - Research Assistant Internship, École Polytechnique Fédérale de Lausanne, Switzerland (Advisor: John R. Thome)
 - M.Sc. in Metallurgical and Materials Engineering, PEMM-COPPE, Federal University of Rio de Janeiro, Brazil. (Advisors: José R. M. Pontes & Norberto Mangiavacchi)
-- Licentiate in Mathematics, Federal Fluminense University/CECIERJ, Rio de Janeiro, Brazil
+- Lic. in Mathematics, Federal Fluminense University/CECIERJ, Rio de Janeiro, Brazil
 
 ### Languages
 
@@ -83,4 +84,8 @@ Find full details on my scientific production in the **TROIM** dimensions (*Teac
 
 > *"Let my teaching drop as the rain, my speech distill as the dew, as the droplets on the fresh grass and as the showers on the herb."* (The Song of Moses), The Holy Bible, Deuteronomy 32:2, apud: "Drop Jet in Crossflow: ALE/Finite Element Simulations and Interfacial Effects. GPO's thesis.
 
-> *"God has hidden all the treasures of wisdom and knowledge in Christ. I say this so that no one will mislead you with arguments that merely sound good."*  (Letter to Colossians 2:2-4)
+> *"God has hidden all the treasures of wisdom and knowledge in Christ. I say this so that no one will mislead you with arguments that merely sound good."* (Letter to Colossians 2:2-4)
+
+> *"In the beginning was the [Λόγος], and the [Λόγος] was with God, and the [Λόγος] was God."* (Book of John 1:1)
+
+>*"I have observed something else under the sun. The fastest runner doesn’t always win the race, and the strongest warrior doesn’t always win the battle. The wise sometimes go hungry, and the skillful are not necessarily wealthy. And those who are educated don’t always lead successful lives. It is all decided by chance, by being in the right place at the right time."* (Ecclesiastes 9:11; NLT)

@@ -9,6 +9,7 @@ Here you will find a list of relevant publications authored or co-authored by me
 
 Would you like to read something further? Feel free to request it.
 
+{% include components/publications/2023.md %}
 {% include components/publications/2022.md %}
 {% include components/publications/2021.md %}
 {% include components/publications/2020.md %}

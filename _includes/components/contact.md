@@ -1,6 +1,8 @@
 ## Email 
 
-[gustavo.oliveira@ci.ufpb.br](mailto:gustavo.oliveira@ci.ufpb.br)
+(This is the best way to reach me.)
+
+[gustavo.oliveira@ci.ufpb.br](mailto:gustavo.oliveira@ci.ufpb.br) 
 
 
 ## Professional address

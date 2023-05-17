@@ -23,7 +23,7 @@ Remark: resources for this course can be forked from GDCOC0072.
 - Numerical Linear Algebra, by L. Trefethen and D. Bau III
 - [The Finite Element Method: Theory, Implementation, and Applications](https://www.amazon.com/gp/product/B00BLREC4Q?ref_=dbs_m_mng_rwt_calw_tkin_7&storeType=ebooks&qid=1631496281&sr=8-7), by M. G. Larson and F. Bengzon
 - [Theory and Practice of Finite Elements](https://www.springer.com/gp/book/9780387205748), by A. Ern and J-L Guermond <span>&#128077;</span>
-- [Research Software Engineering with Python](https://www.amazon.com/Research-Software-Engineering-Python-Building/dp/036769834X) By D. Irving et al.
+- [Research Software Engineering with Python](https://www.amazon.com/Research-Software-Engineering-Python-Building/dp/036769834X), by D. Irving et al.
 
 ##### Booklets 
 
@@ -39,6 +39,7 @@ Remark: resources for this course can be forked from GDCOC0072.
 - [Practical Numerical Methods with Python](https://github.com/numerical-mooc/numerical-mooc/wiki), by L. Barba's group.
 - [Python Programming Primer](http://www.southampton.ac.uk/~fangohr/training/python/) @Southampton 
 - [Research Software Engineering with Python](https://alan-turing-institute.github.io/rse-course/html/index.html) @Turing
+- [Essential Software Engineering for Researchers](https://imperialcollegelondon.github.io/grad_school_software_engineering_course/) @ICL
  
 ##### Misc
 

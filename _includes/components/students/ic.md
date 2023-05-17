@@ -6,7 +6,7 @@
 - Funding: CNPq
 
 #### Guilherme Huther Baldo, Computer Science <span style="color:rgb(200,200,0);"> &#10144; </span>
-- *Internationalization Data Observatory*, 2022.
+- *Paraíba State Foreign Trade BI Platform*, 2022.
 - Funding: UFPB
 - [LinkedIn](https://www.linkedin.com/in/guilherme-huther-baldo-a9b57821a/)
 
