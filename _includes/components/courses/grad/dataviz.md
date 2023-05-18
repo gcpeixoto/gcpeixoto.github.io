@@ -1,4 +1,4 @@
-### Data Visualization (GDCOC0096)
+### <span style="color:rgb(0,0,0);">&#9758;</span> Data Visualization (GDCOC0096)
 ---
 
 - This course is directed to undergraduate students in Data Science and Artificial Intelligence;
@@ -14,7 +14,7 @@
 - [Python for Designers](https://pythonfordesigners.com)
 
 ###### History
-- [DataVis.ca](https://www.datavis.ca), by Michael Friendly.
+- [DataVis.ca](https://www.datavis.ca), by Michael Friendly @YorkUniversity
 
 ###### Art & Design
 - [Data Visualisation Catalogue](https://datavizcatalogue.com)
@@ -25,6 +25,19 @@
 ###### Misc
 
 - [Guide to Great Graphs](https://oercommons.s3.amazonaws.com/media/editor/92375/Telling_Your_Story_with_Data_Visualization.pdf)
+
+###### Utilities
+
+- [ColorBrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3). Color advice for mapping and cartho data.
+- [coolors](https://coolors.co). Color palettes generation.
+- [DrawBot](https://github.com/typemytype/drawbot). Scripts to generate two-dimensional graphics (macOS). 
+- [WebAIM](https://webaim.org/resources/). Resources for web accessibility. Contrast checker.
+- [Colblindor](https://www.color-blindness.com). Color blindness stuff.
+- [EyeDropper](https://eyedropper.org). Pick colors from websites.
+
+##### Videos
+
+- [Foundations of Data Visualisation: Computerphile](https://www.youtube.com/watch?v=qQ9Wu1IxsYw). Quick lecture. Overview.
 
 ##### Books
 
@@ -53,4 +66,13 @@
 - _The Wall Street Journal Guide to Information Graphics_, by Dona Wong. W. W. Norton & Company.
 - _Visualize This_, by Nathan Yau. Wiley.
 - _Everyday Business Storytelling_, by Kurnoff and Lazarus. Wiley.
+
+##### Courses
+
+- [Principles of Data Visualization](https://ucdavisdatalab.github.io/workshop_data_viz_principles/), by Pamela Reynolds, @UCDavis/DataLab
+
+##### Papers
+
+- Crameri, F., Shephard, G.E. & Heron, P.J. The misuse of colour in science communication. Nat Commun 11, 5444 (2020). DOI: [10.1038/s41467-020-19160-7](https://www.nature.com/articles/s41467-020-19160-7)
+	- Keypoints: color-vision deficiency; [guide for scientific use of colors](https://www.nature.com/articles/s41467-020-19160-7/figures/6); color misuse prevention. 
 

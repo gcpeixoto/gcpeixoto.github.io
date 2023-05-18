@@ -65,6 +65,7 @@ Find full details on my scientific production in the **TROIM** dimensions (*Teac
 --- 
 ## Recommended links
 
+- [EQPStats](http://eqpstats.com/)
 - [H-CFD Brazil](https://sites.google.com/view/h-cfdbrazil)
 - [Americo Cunha's website](http://www.americocunha.org)
 - [Gustavo Anjos's website](https://gustavorabello.github.io)

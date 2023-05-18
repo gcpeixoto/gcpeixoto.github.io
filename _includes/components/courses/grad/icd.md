@@ -1,4 +1,4 @@
-### Introduction to Data Science (GDCOC0089)
+### <span style="color:rgb(0,0,0);">&#9758;</span> Introduction to Data Science (GDCOC0089)
 ---
 
 - This course is directed to 1st-year students of the B.Sc. course in Data Science and Artificial Intelligence at UFPB.

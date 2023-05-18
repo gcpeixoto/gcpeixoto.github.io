@@ -1,4 +1,4 @@
-### Scientific Production (SEMEC0167)
+### <span style="color:rgb(0,0,0);">&#9758;</span> Scientific Production (SEMEC0167)
 ---
 
 The purpose of this course is to present to graduate students the general aspects of scientific writing, paper preparation, IMRAD style, Latex writing, and submission process. It is taught once per year at the 2nd semester. The final term occurs during the annual Scientific Writing Seminar of the PPGEM/UFPB, in which the students are assessed by peers so as to simulate a real paper submission process.

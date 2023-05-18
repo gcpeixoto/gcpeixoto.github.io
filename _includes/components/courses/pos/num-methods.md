@@ -1,4 +1,4 @@
-### Numerical Methods (SEMEC0140)
+### <span style="color:rgb(0,0,0);">&#9758;</span> Numerical Methods (SEMEC0140)
 ---
 
 This course is fully based on variational methods as introductory topic for application of CFD with the finite element method. In the current version, it is a 3-part course divided as follows:

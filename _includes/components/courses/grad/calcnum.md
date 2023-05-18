@@ -1,4 +1,4 @@
-### Introductory Numerical Methods (GDCO0072)
+### <span style="color:rgb(0,0,0);">&#9758;</span> Introductory Numerical Methods (GDCO0072)
 ---
 
 Numerical methods for undergrads in STEM courses (usually Engineering, Statistics, Physics, and Mathematics).
