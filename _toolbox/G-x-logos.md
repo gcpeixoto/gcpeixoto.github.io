@@ -4,24 +4,7 @@ title: G-χ - Logos
 
 ## UFPB branding
 
-Find below Inkscape SVG and PNG files for Federal University of Paraíba's brand.
-
-- Showcase
-	- [SVG](../_media/files/logo-ufpb-showcase.svg)
-	- [PDF overview](../_media/files/logo-ufpb-showcase.pdf)
-
-- Color version
-	- [SVG](../_media/files/logo-ufpb-color.svg)
-	- [PNG](../_media/files/logo-ufpb-color.png)
-
-- Gray version
-	- [SVG](../_media/files/logo-ufpb-gray.svg)
-	- [PNG](../_media/files/logo-ufpb-gray.png)
-
-- B&W version
-	- [SVG](../_media/files/logo-ufpb-bw.svg)
-	- [PNG](../_media/files/logo-ufpb-bw.png)
-
+Veja este [manual](https://www.ufpb.br/ufpb/orientacoes-sobre-o-uso-do-brasao-oficial-da-ufpb.pdf).
 	
 ## PPGEM/UFPB branding
 
@@ -49,19 +32,5 @@ Find below Inkscape SVG and PNG files for Center of Informatics's brand.
 
 - CI original - PT
 	- [SVG](../_media/files/logo-ppgem-color-1.png)
-
-	
-## LaMEP branding
-
-Find below Inkscape SVG and PNG files for Petr. Engg. Mod. Lab.
-
-
-- Showcase
-	- [SVG](../_media/files/logo-lamep-showcase.svg)
-
-- Color version
-	- [PNG - no text](../_media/files/logo-lamep-color.png)
-	- [PNG - PT text](../_media/files/logo-lamep-text-color-pt.png)
-	- [PNG - EN text](../_media/files/logo-lamep-text-color-en.png)
 
 	
