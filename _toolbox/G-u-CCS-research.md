@@ -31,6 +31,7 @@ title: G-θ - CCS
 - [Global CCS Institute](https://www.globalccsinstitute.com)
 - [UK CCS](https://ukccsrc.ac.uk)
 - [OGCI - Oil and Gas Climate Initiative](https://www.ogci.com)
+- [Global Carbon Project](https://www.globalcarbonproject.org)
 
 ### Brazilian R&D cluster
 
