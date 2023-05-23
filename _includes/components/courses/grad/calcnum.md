@@ -21,21 +21,41 @@ Numerical methods for undergrads in STEM courses (usually Engineering, Statistic
 - [Portal REAMAT - Cálculo Numérico](https://www.ufrgs.br/reamat/CalculoNumerico/index.html) @UFRGS <span><img src="../../../../_includes/icons/brazil.svg" width="13"> </span>
 	- Notas: livro colaborativo aberto; interessante
 
+###### Classical
+
+- Numerical Methods for Scientists and Engineers, by R. W. Hamming
+- Numerical Mathematics and Computing, by W. Cheney and D. Kincaid
+- [Numerical Recipes](http://numerical.recipes)
+- Numerical Methods, by G. Dahlquist and A. Bjorck
 
 ###### Numerical Analysis
-- [Fundamentals of Engineering Numerical Analysis](https://www.amazon.com/Fundamentals-Engineering-Numerical-Analysis-Second/dp/0521711231), by Parviz Moin
+- Fundamentals of Engineering Numerical Analysis, by Parviz Moin
 - Numerical Analysis, by Timothy Sauer @George Mason Univ.
 - Numerical Analysis, by Burden and Faires.
+- An Introduction to Numerical Methods and Analysis, by James F. Epperson
+- Numerical Analysis: Mathematics of Scientific Computing, by D. Kincaid and W. Cheney
+- Elementary Numerical Analysis, by K. Atkinson and W. Han
+
+
+###### Numerical Linear Algebra
+- Applied Numerical Linear Algebra, by J. W. Demmel
+- Linear Algebra and its Applications, by G. Strang
+- Matrix Computationas, by G. H. Golub and C. F. Van Loan
+- Numerical Matrix Analysis: Linear Systems and Least Squares, by I. C. F. Ipsen
+
 
 ###### Engineering
-- Elementary Mechanics Using Python, by A.M-Sorenssen 
-- Numerical Methods for Engineers and Scientists, A. Gilat and V. Subramanian
+- Numerical Methods for Engineers, by R. P. Canale and S. C. Chapra
+- Numerical Methods for Engineers and Scientists, by A. Gilat and V. Subramanian
 - Numerical Methods in Engineering with Python 3, by J. Kiusalaas @PennState
-- Numerical Python: Sci. Comp. & Data Science Applications, by Robert Johansson
+- Elementary Mechanics Using Python, by A.M-Sorenssen 
+- Numerical Methods for Engineers, by D. V. Griffiths, ‎and I. M. Smith
+
 
 ###### Computing
 
 - Python ecosystem
+	- Numerical Python: Sci. Comp. & Data Science Applications, by Robert Johansson 	
 	- Learning Scientific Programming with Python, by Christian Hill
 	- matplotlib Plotting Cookbook, by A. Devert
 	- Python for Scientists, by J. M. Stewart @Cambridge
@@ -76,3 +96,17 @@ List of movies talking about mathematics, computing, theorems, geniuses. Content
 - Goldberg, David. [What every computer scientist should know about floating-point arithmetic](https://dl.acm.org/doi/pdf/10.1145/103162.103163). ACM computing surveys (CSUR) 23.1 (1991): 5-48.
 - Rajaraman, V. [IEEE Standard for Floating Point Numbers](https://www.ias.ac.in/article/fulltext/reso/021/01/0011-0030), IAS
 - Fanghor, H. [A Comparison of C, MATLAB, and Python as Teaching Languages in Engineering](https://link.springer.com/chapter/10.1007/978-3-540-25944-2_157). Part of the Lecture Notes in Computer Science book series (LNCS, volume 3039)
+
+##### Libraries
+
+- [Netlib](https://netlib.org): online repository for numerical libraries.
+- [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page): C++ template library for linear algebra (matrices, vectors, numerical solvers), and related algorithms.
+- [Boost](https://www.boost.org): multi-purpose C++-based libraries. Lots of math specializations.
+- [CGAL](https://www.cgal.org): efficient and reliable geometric algorithms in the form of a C++ library. It provides data structures and algorithms for triangulations, Voronoi diagrams, surface and volume mesh generation, and so on.
+- [meshio](https://github.com/nschloe/meshio): universal mesh in/out conversion tool.
+- [TetGen](https://wias-berlin.de/software/tetgen/): A Quality Tetrahedral Mesh Generator and a 3D Delaunay Triangulator.
+- [Triangle](https://www.cs.cmu.edu/~quake/triangle.html): A Two-Dimensional Quality Mesh Generator and Delaunay Triangulator.
+
+
+
+
