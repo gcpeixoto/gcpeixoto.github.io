@@ -16,7 +16,7 @@ Below, you see an informal and non-optimally arranged tree of fields of expertis
 	- Symbolic Computing
 	- Mathematical Modelling
 	- Reservoir Modelling
-	- Data Science and Visualization
+	- Data Science
 - Numerical Methods
 	- Finite Elements
 - Intelligent Systems
@@ -26,12 +26,13 @@ Below, you see an informal and non-optimally arranged tree of fields of expertis
 ---
 ## Reviewer for
 
+- International Communications in Heat and Mass Transfer
 - Advances in Geo-Energy Research
 - Advanced Theory and Simulations
 - Earth Science Informatics 
 - International Journal of Multiphase Flow
 - Journal of King Saud University - Science
-- Journal of Petroleum Science and Engineering
+- Geoenergy Science and Engineering (former Journal of Petroleum Science and Engineering)
 - Journal of the Brazilian Society of Mechanical Sciences and Engineering
 - Natural Resources Research
 - Plos One
