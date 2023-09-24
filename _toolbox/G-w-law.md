@@ -133,11 +133,14 @@ PD&I, Termo de Outorga, Convênio para PD&I);
 ## Graduação - UFPB
 
 - [Res. CONSEPE 29/2020](../_media/files/leis/resolucao-consepe-29-2020-regimento-graduacao.pdf): Regimento da graduação.
+
+## CDIA - UFPB
+- [Res. CONSEPE 01/2020](../_media/files/leis/resolucao-consepe-01-2020-ppc-cdia.pdf): PPC do curso de CDIA.
  
 ## Pós-graduação - UFPB
 
 - [Res. CONSEPE 79/2013](../_media/files/leis/resolucao-consepe-79-2013-regulamento-geral-pos.pdf): Regulamento geral da pós-graduação. Ver 34/2014.
-- [Res. CONSEPE 34/2014](../_media/files/leis/resolucao-consepe-79-2013-regulamento-geral-pos-alteracoes.pdf): Altera 79/2013.
+- [Res. CONSEPE 34/2014](../_media/files/leis/resolucao-consepe-34-2014-regulamento-geral-pos-alteracoes.pdf): Altera 79/2013.
 - [Res. CONSEPE 58/2016](../_media/files/leis/resolucao-consepe-58-2016-acoes-afirmativas-pos.pdf): Ações afirmativas.
 - [Res. CONSEPE 65/2016](../_media/files/leis/resolucao-consepe-65-2016-fluxo-continuo-pos.pdf): Fluxo contínuo.
 
@@ -148,10 +151,7 @@ PD&I, Termo de Outorga, Convênio para PD&I);
 
 ## PPGEM - UFPB
 
-- [Res. CONSEPE 66/2015](../_media/files/leis/resolucao-consepe-66-2015-regulamento-ppgem-novo.pdf): Regulamento do PPGEM.
-- [Res. PPGEM 01/2018](../_media/files/leis/resolucao-ppgem-01-2018-credenciamento-docentes.pdf): Credenciamento de docentes no PPGEM.
-- [Res. PPGEM 02/2018](../_media/files/leis/resolucao-ppgem-02-2018-credenciamento-docentes-alteracao.pdf): Altera 01/2018.
-- [Res. CONSEPE 13/2019](../_media/files/leis/resolucao-consepe-13-2019-estrutura-ppgem.pdf): Altera estrutura do PPGEM.
+- [Página de Resoluções do PPGEM](https://sigaa.ufpb.br/sigaa/public/programa/documentos.jsf?lc=pt_BR&id=1870&idTipo=5)
 
 ## Grupos de pesquisa
 
