@@ -135,7 +135,13 @@ PD&I, Termo de Outorga, Convênio para PD&I);
 - [Res. CONSEPE 29/2020](../_media/files/leis/resolucao-consepe-29-2020-regimento-graduacao.pdf): Regimento da graduação.
 
 ## CDIA - UFPB
-- [Res. CONSEPE 01/2020](../_media/files/leis/resolucao-consepe-01-2020-ppc-cdia.pdf): PPC do curso de CDIA.
+- [Res. CONSUNI 21/2019](../_media/files/leis/resolucao-consuni-21-2019-autoriza-criacao-cdia.pdf): Autoriza criação do curso de CDIA.
+- [Res. CONSEPE 52/2019](../_media/files/leis/resolucao-consepe-52-2019-criacao-curso-cdia.pdf): Cria curso de CDIA.
+- [Res. CONSEPE 01/2020](../_media/files/leis/resolucao-consepe-01-2020-ppc-cdia.pdf): Aprova PPC do curso de CDIA.
+- [Res. CCCDIA 01/2021](../_media/files/leis/resolucao-cccdia-01-2021-regimento-colegiado-curso.pdf): Regimento do Colegiado do Curso de CDIA.
+- [Res. CCCDIA 02/2022](../_media/files/leis/resolucao-cccdia-02-2022-estagio.pdf): Normas da disciplina _Estágio Supervisionado_.
+- [Res. CCCDIA 03/2022](../_media/files/leis/resolucao-cccdia-03-2022-tcc.pdf): Normas da disciplina _TCC_.
+- [Res. CCCDIA 02/2022](../_media/files/leis/resolucao-cccdia-02-2022-nde.pdf): Regulamenta o NDE.
  
 ## Pós-graduação - UFPB
 
