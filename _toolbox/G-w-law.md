@@ -125,6 +125,8 @@ PD&I, Termo de Outorga, Convênio para PD&I);
 
 ## Regimentos e estruturação - UFPB
 
+- [Lei Estadual 1366/1955](../_media/files/leis/lei-estadual-de-criacao-da-ufpb-1955.pdf): Cria Universidade da Paraíba.
+- [Lei 3835/1960](https://www.planalto.gov.br/ccivil_03/leis/l3835.htm): Federalização da Universidade da Paraíba.
 - [Estatuto](../_media/files/leis/estatuto-ufpb.pdf). Nota: acompanhar avanços da [Estatuinte 2020](https://www.ufpb.br/estatuinte/)
 - [RG](../_media/files/leis/regimento-geral-ufpb.pdf): Regimento Geral.
 - [Res. CONSUNI 22/2011](../_media/files/leis/resolucao-consuni-22-2011-criacao-ci.pdf): Criação do CI.
