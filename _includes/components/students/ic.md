@@ -1,12 +1,21 @@
 ## B.Sc. Research and Outreach Programs
 ---
 
+#### Adriel Ferreira Trajano, Data Science and Artificial Intelligence <span style="color:rgb(200,200,0);"> &#10144; </span>
+- *Machine learning applications for carbon merket projects*, 2023.
+- Funding: CNPq
+
+#### Davi Nasiasene Amorim, Data Science and Artificial Intelligence <span style="color:rgb(200,200,0);"> &#10144; </span>
+- *Machine learning applications for carbon merket projects*, 2023.
+- Funding: CNPq
+
+
 #### Jaislan dos Santos Silva, Materials Engg. <span style="color:rgb(200,200,0);"> &#10144; </span>
 - *CAD modeling and mesh generation for fluid flow problems in hospital environments*, 2022.
 - Funding: CNPq
 
-#### Guilherme Huther Baldo, Computer Science <span style="color:rgb(200,200,0);"> &#10144; </span>
-- *Paraíba State Foreign Trade BI Platform*, 2022.
+#### Guilherme Huther Baldo, Computer Science <span style="color:green;"> &#10004; </span>
+- *ODEX: Paraíba State Foreign Trade BI Platform*, 2022.
 - Funding: UFPB
 - [LinkedIn](https://www.linkedin.com/in/guilherme-huther-baldo-a9b57821a/)
 
