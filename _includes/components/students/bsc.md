@@ -1,4 +1,4 @@
-## B.Sc. Capstone Projects (Undergraduate Thesis)
+## B.Sc. Undergraduate Capstone Projects
 ---
 
 #### Silas Aguiar Melo, Computational Mathematics <span style="color:green"> &#10004; </span>
