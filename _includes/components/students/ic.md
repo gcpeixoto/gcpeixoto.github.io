@@ -1,13 +1,28 @@
-## B.Sc. Research and Outreach Programs
+## B.Sc. Education, Research and Outreach Programs
 ---
 
+#### José Augusto da Silva Barbosa, Data Science and Artificial Intelligence <span style="color:rgb(200,200,0);"> &#10144; </span>
+- *Subsea Energy Transition*, 2024.
+- Funding: UFPB
+
+
+#### Gabrielly Silva Batista, Data Science and Artificial Intelligence <span style="color:rgb(200,200,0);"> &#10144; </span>
+- *Best Practices in Data Visualization*, 2024.
+- Funding: UFPB
+
+
 #### Adriel Ferreira Trajano, Data Science and Artificial Intelligence <span style="color:rgb(200,200,0);"> &#10144; </span>
-- *Machine learning applications for carbon merket projects*, 2023.
+- *Detection of Clusters and Hubs of CSS in Brazil: FOCCUS Project*, 2023.
 - Funding: CNPq
 
+
 #### Davi Nasiasene Amorim, Data Science and Artificial Intelligence <span style="color:rgb(200,200,0);"> &#10144; </span>
-- *Machine learning applications for carbon merket projects*, 2023.
+- *Detection of Clusters and Hubs of CSS in Brazil: FOCCUS Project*, 2023.
 - Funding: CNPq
+
+#### Erlon Lacerda, Data Science and Artificial Intelligence <span style="color:rgb(200,200,0);"> &#10144; </span>
+- *Detection of Clusters and Hubs of CSS in Brazil: FOCCUS Project*, 2023.
+- Funding: none
 
 
 #### Jaislan dos Santos Silva, Materials Engg. <span style="color:rgb(200,200,0);"> &#10144; </span>
