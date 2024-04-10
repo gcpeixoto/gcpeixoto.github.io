@@ -131,6 +131,7 @@ PD&I, Termo de Outorga, Convênio para PD&I);
 - [RG](../_media/files/leis/regimento-geral-ufpb.pdf): Regimento Geral.
 - [Res. CONSUNI 22/2011](../_media/files/leis/resolucao-consuni-22-2011-criacao-ci.pdf): Criação do CI.
 - [Res. CONSEPE 22/2014](../_media/files/leis/resolucao-consepe-22-2014-regimento-ci.pdf): Regimento do CI.
+- [Res. CONSUNI 14/2014](https://ct.ufpb.br/ct/contents/documentos/resolucoes/regimentoct.pdf): Regimento do CT.
 
 ## Graduação - UFPB
 
