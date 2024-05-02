@@ -163,7 +163,7 @@ gem install --user-install bundler, jekyll, webrick
 ### Command line PDF to TXT conversion
 
 - Install: `brew install xpdf`
-- Usage: `pdftotext in.pdf out.txt`
+- Usage: `pdftotext -enc UTF-8 in.pdf out.txt`
 
 
 ### Command line PDF merger
