@@ -62,8 +62,8 @@ Additional contents for brainstorming, discussion and in-class debates:
 
 Booklets resulting from the last internal scientific writing seminars.
 
-- [II SWS Booklet - 2020](https://drive.google.com/file/d/1xxfxV7UHRueCw1ypkBxd4d6sHHWjYv_J/view?usp=sharing)
-- [I SWS Booklet - 2019](https://drive.google.com/file/d/1la5sxLVFtLGfDyAIL732l2tcyKTQtOe_/view?usp=sharing)
+- [II SWS Booklet - 2020](https://drive.google.com/file/d/1lpGOYiiwczVBA72UCWdg7TsjYptKzgXE/view?usp=share_link)
+- [I SWS Booklet - 2019](https://drive.google.com/file/d/1j-cGH6E4cqsNQxLvBR4aBv0ayBV0GaKH/view?usp=share_link)
 
 #### New QUALIS strata
 
