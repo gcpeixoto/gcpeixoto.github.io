@@ -21,12 +21,12 @@ G.P.O.
 ### Identification 
 
 - Nationality: Brazilian
-- Age: 36
+- Age: 37
 - Family status: married to Viviane and Theo's father.
 
 ### Roles
 
-- Vice-Coordinator of the [Graduate Program in Mechanical Engineering](https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?id=1870)
+- Coordinator of the [Graduate Program in Mechanical Engineering](https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?id=1870)
 - Collaborating Professor of the [Graduate Program in Informatics](https://ppgi.ci.ufpb.br)
 - Adjunct Professor at the Scientific Computing Department - [Center of Informatics](http://www.ci.ufpb.br)
 - Researcher and co-manager at the [TRIL Lab](https://tril.ci.ufpb.br)
@@ -35,6 +35,7 @@ G.P.O.
 
 #### Previous roles
 
+- Vice-Coordinator of the [Graduate Program in Mechanical Engineering](https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?id=1870) (Abr 2022 - Mar 2024)
 - Director of Promotion and Academic-Scientific Actions at the UFPB's [International Cooperation Office](http://ufpb.br/acieng) (Feb 2022 - Dec 2022)
 
 ### Education
