@@ -3,7 +3,7 @@
 
 Numerical methods for undergrads in STEM courses (usually Engineering, Statistics, Physics, and Mathematics).
 
-- My *Virtual Lab of Numerical Methods*, educational basis for this course, is freely available [here](https://gcpeixoto.github.io/LVMN).
+- My *Virtual Lab of Numerical Methods*, the educational basis for this course, is freely available [here](https://gcpeixoto.github.io/LVMN).
 - Complementary materials are available from the textbook [Introduction to Python for Computational Science and Engineering](https://gcpeixoto.github.io/lecture-ipynb) (Portuguese only), translated from the original by [Prof. Hans Fanghor](https://fangohr.github.io) @Southampton.
 
 #### Resources 
@@ -40,7 +40,7 @@ Numerical methods for undergrads in STEM courses (usually Engineering, Statistic
 ###### Numerical Linear Algebra
 - Applied Numerical Linear Algebra, by J. W. Demmel
 - Linear Algebra and its Applications, by G. Strang
-- Matrix Computationas, by G. H. Golub and C. F. Van Loan
+- Matrix Computations, by G. H. Golub and C. F. Van Loan
 - Numerical Matrix Analysis: Linear Systems and Least Squares, by I. C. F. Ipsen
 
 
@@ -71,19 +71,24 @@ Numerical methods for undergrads in STEM courses (usually Engineering, Statistic
 
 ##### Movies
 
-List of movies talking about mathematics, computing, theorems, geniuses. Contents directly related to numerical methods are made explicit below.   
+List of movies talking about mathematics, computing, theorems, and geniuses. Contents directly related to numerical methods are made explicit below.   
 
-- ["Adventures of a Mathematician" (2020)](https://www.imdb.com/title/tt6875374/) (_O Matemático_). This movie is an account of how the mathematician [Stanislaw Ulam](https://en.wikipedia.org/wiki/Stanislaw_Ulam), the physicist [Edward Teller](https://en.wikipedia.org/wiki/Edward_Teller), and other scientists began to develop the hydrogen bomb at Los Alamos, USA, in the post-war 1950s. Ulam is the inventor of the [Monte-Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_method) numerical method and a pioneer with John Von Neumann to the advent of the computer. In a few scenes, Ulam teaches random variables and probability distributions. A summary about "The Super" (the hydrogen bomb) can be read [here](https://www.atomicheritage.org/history/hydrogen-bomb-1950).
+- ["Adventures of a Mathematician" (2020)](https://www.imdb.com/title/tt6875374/) (_O Matemático_). This movie is an account of how the mathematician [Stanislaw Ulam](https://en.wikipedia.org/wiki/Stanislaw_Ulam), the physicist [Edward Teller](https://en.wikipedia.org/wiki/Edward_Teller), and other scientists began to develop the hydrogen bomb at Los Alamos, USA, in the post-war 1950s. Ulam is the inventor of the [Monte-Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_method) numerical method and a pioneer with John Von Neumann to the advent of the computer. In a few scenes, Ulam teaches random variables and probability distributions. A summary of "The Super" (the hydrogen bomb) can be read [here](https://www.atomicheritage.org/history/hydrogen-bomb-1950).
+
+- ["The Current War" (2017)](https://www.imdb.com/title/tt2140507/) (_A Batalha das Correntes_). The dramatic race between Thomas Edison and George Westinghouse (involving Nikola Tesla) to determine who would provide power to the modern world.
 
 - ["Hidden Figures" (2016)](https://www.imdb.com/title/tt4846340/) (_Estrelas Além do Tempo_). In this movie, Taraji Hanson performs [Katherine Johnson](https://abcnews.go.com/US/katherine-johnson-mathematician-real-life-subject-hidden-figures/story?id=69176001), a former NASA's human computer, that uses the Euler's method to compute the John Glenn capsule's back-to-Earth trajectory. 
 
-- ["The Man Who Knew Infinity" (2015)](https://www.imdb.com/title/tt0787524/) (_O Homem que Via o Infinito_).
+- ["The Man Who Knew Infinity" (2015)](https://www.imdb.com/title/tt0787524/) (_O Homem que Via o Infinito_). The overcoming story of the life and academic career of the mathematician Srinivasa Ramanujan after leaving India for England. Ramanujan struggled to present a new theorem-proof to the famous G. H. Hardy and elite scientists at Cambridge, which led him to get his Ph.D. title. 
 
-- ["The Imitation Game" (2014)](https://www.imdb.com/title/tt2084970/) (_O Jogo da Imitação_).
+- ["The Theory of Everything" (2014)](https://www.imdb.com/title/tt2980516/) (_A Teoria de Tudo_). The story of Stephen Hawkins.
 
-- ["A Beautiful Mind" (2001)](https://www.imdb.com/title/tt0268978/?ref_=nv_sr_srsg_0) (_Uma Mente Brilhante_). In this movie, Russell Crowe performs John Nash, Nobel in Economics during his Ph.D. trail at Princeton. Nash's thesis was related to Game Theory, where **fixed-point** theorems are applied.
 
-- ["Good Will Hunting" (1997)](https://www.imdb.com/title/tt0119217/?ref_=tt_sims_tt_i_1) (_Gênio Indomável_).
+- ["The Imitation Game" (2014)](https://www.imdb.com/title/tt2084970/) (_O Jogo da Imitação_). On cryptography, this movie is the story of Alan Turing and his friends trying to crack the German "Enigma" code during World War 2.
+
+- ["A Beautiful Mind" (2001)](https://www.imdb.com/title/tt0268978/) (_Uma Mente Brilhante_). In this movie, Russell Crowe performs John Nash, Nobel in Economics during his Ph.D. trial at Princeton. Nash's thesis was related to Game Theory, where **fixed-point** theorems are applied.
+
+- ["Good Will Hunting" (1997)](https://www.imdb.com/title/tt0119217/) (_Gênio Indomável_). The story of Will Hunting, a janitor at MIT with remarkable mathematical skills helped by a psychologist due to his lack of life purpose.
 
 
 ##### Videos
@@ -94,7 +99,7 @@ List of movies talking about mathematics, computing, theorems, geniuses. Content
 ##### Papers
 
 - Goldberg, David. [What every computer scientist should know about floating-point arithmetic](https://dl.acm.org/doi/pdf/10.1145/103162.103163). ACM computing surveys (CSUR) 23.1 (1991): 5-48.
-- Rajaraman, V. [IEEE Standard for Floating Point Numbers](https://www.ias.ac.in/article/fulltext/reso/021/01/0011-0030), IAS
+- Rajaraman, V. [IEEE Standard for Floating-Point Numbers](https://www.ias.ac.in/article/fulltext/reso/021/01/0011-0030), IAS
 - Fanghor, H. [A Comparison of C, MATLAB, and Python as Teaching Languages in Engineering](https://link.springer.com/chapter/10.1007/978-3-540-25944-2_157). Part of the Lecture Notes in Computer Science book series (LNCS, volume 3039)
 
 ##### Libraries

@@ -141,3 +141,11 @@ c.ServerApp.browser = u'/Applications/Google\ Chrome.app/Contents/MacOS/Google\ 
 from mdtable import MDTable 
 MDTable('input.csv').save_table('output.csv')
 {% endhighlight %}
+
+
+### How to solve `ModuleNotFoundError` in VSCode while using Python Debugger
+
+- If using a virtual environment, such as a conda env, check which package manager is called. This is frequently caused by `pip` installs when the `pip` called is not the one from inside the env. Then, check if `which pip` points to the current environment. Otherwise, use `python -m pip install <package_name>` to execute the "true" `pip`. Then, use `pip list` to check if the package was installed.
+- Use `Cmd + Shift + P` and switch to the Python interpreter for your env.
+- Add  `"env": { "PYTHONPATH": "${workspaceRoot}"}` to the configuration file `launch.json`.
+- Do it all and restart VSCode.
