@@ -1,32 +1,36 @@
 ## B.Sc. Education, Research and Outreach Programs
 ---
 
-#### José Augusto da Silva Barbosa, Data Science and Artificial Intelligence <span style="color:rgb(200,200,0);"> &#10144; </span>
-- *Subsea Energy Transition*, 2024.
-- Funding: UFPB
-
-
-#### Gabrielly Silva Batista, Data Science and Artificial Intelligence <span style="color:rgb(200,200,0);"> &#10144; </span>
+#### Tales Nobre, Data Science and Artificial Intelligence <span style="color:rgb(200,200,0);"> &#10144; </span>
 - *Best Practices in Data Visualization*, 2024.
 - Funding: UFPB
 
 
-#### Adriel Ferreira Trajano, Data Science and Artificial Intelligence <span style="color:rgb(200,200,0);"> &#10144; </span>
+#### José Augusto da Silva Barbosa, Data Science and Artificial Intelligence <span style="color:rgb(200,200,0);"> &#10144; </span>
+- *Subsea Energy Transition*, 2024.
+- Funding: CNPq
+
+
+#### Gabrielly Silva Batista, Data Science and Artificial Intelligence  <span style="color:green;"> &#10004; </span>
+- *Best Practices in Data Visualization*, 2024.
+- Funding: UFPB
+
+
+#### Adriel Ferreira Trajano, Data Science and Artificial Intelligence  <span style="color:green;"> &#10004; </span>
 - *Detection of Clusters and Hubs of CSS in Brazil: FOCCUS Project*, 2023.
 - Funding: CNPq
 
 
-#### Davi Nasiasene Amorim, Data Science and Artificial Intelligence <span style="color:rgb(200,200,0);"> &#10144; </span>
+#### Davi Nasiasene Amorim, Data Science and Artificial Intelligence  <span style="color:green;"> &#10004; </span>
 - *Detection of Clusters and Hubs of CSS in Brazil: FOCCUS Project*, 2023.
 - Funding: CNPq
 
-#### Erlon Lacerda, Data Science and Artificial Intelligence <span style="color:rgb(200,200,0);"> &#10144; </span>
+#### Erlon Lacerda, Data Science and Artificial Intelligence  <span style="color:green;"> &#10004; </span>
 - *Detection of Clusters and Hubs of CSS in Brazil: FOCCUS Project*, 2023.
-- Funding: none
 
 
-#### Jaislan dos Santos Silva, Materials Engg. <span style="color:rgb(200,200,0);"> &#10144; </span>
-- *CAD modeling and mesh generation for fluid flow problems in hospital environments*, 2022.
+#### Jaislan dos Santos Silva, Materials Engg.  <span style="color:green;"> &#10004; </span>
+- *CAD modeling and mesh generation for fluid flow problems in hospital environments*, 2023 - 2024.
 - Funding: CNPq
 
 #### Guilherme Huther Baldo, Computer Science <span style="color:green;"> &#10004; </span>
@@ -34,19 +38,11 @@
 - Funding: UFPB
 - [LinkedIn](https://www.linkedin.com/in/guilherme-huther-baldo-a9b57821a/)
 
-#### Yhasmim de Souza Tigre, Data Science and Artificial Intelligence <span style="color:rgb(200,200,0);"> &#10144; </span>
+#### Yhasmim de Souza Tigre, Data Science and Artificial Intelligence <span style="color:green;"> &#10004; </span>
 - *Data science applied to reservoir qualification for CO2 storage (continued)*, 2022.
 - Funding: CNPq
 - [LinkedIn](https://www.linkedin.com/in/yhasmim-tigre-1696701a1/)
 
-#### Guilherme Iram Silva Araujo, Data Science and Artificial Intelligence <span style="color:rgb(200,0,0);"> &#10006; </span>
-- *Data science applied to reservoir qualification for CO2 storage*, 2022.
-- Funding: CNPq
-- [LinkedIn](https://www.linkedin.com/in/guilherme-iram-ds/)
-
-#### Rafael Magno Evaristo Ferraz, Electrical Engineering <span style="color:rgb(200,0,0);"> &#10006; </span>
-- *APyCE Project: A Python-based CMG Builder®/Schlumberger Eclipse® wrapper for 3D visualization of reservoir grids (continued)*, 2021.
-- Funding: UFPB
 
 #### Mateus Metzker Tosta, Computer Science <span style="color:green;"> &#10004; </span>
 - *[APyCE Project: A Python-based CMG Builder®/Schlumberger Eclipse® wrapper for 3D visualization of reservoir grids](https://github.com/mateustosta/apyce-repo)*, 2020.
