@@ -2,12 +2,11 @@
 
 Hello!
 
-Currently, I'm an adjunct professor at the Federal University of Paraíba (UFPB), located in the beautiful seashore João Pessoa city, where  lies the Brazil's far east point. My predominant research areas cover numerical methods, fluid mechanics, and scientific computing. In a recent past, I sailed amidst finite elements, multiphase flows, numerical analysis, porous media, and reservoir modeling.
-More recently, I have been focused on data science applications for energy and healthcare sectors.
+Currently, I'm an adjunct professor at the Federal University of Paraíba (UFPB), located in the beautiful seashore João Pessoa city, where lies the Brazil's far east point and one of the creators of [TRIL Lab](https://tril.ci.ufpb.br). After many waves, river wakes, and mixtures revolve the life, I'd say that my field of study is [Computational Science and Engineering - CSE](https://en.wikipedia.org/wiki/Computational_engineering), where I conserve an interdisciplinary and breadth-like profile covering numerical methods, scientific computing, mechanical sciences, and data _SAVE_ (sciance, analytics, visualization, and engineering).
 
-Although I've held a bit of math in my innermost roots, I've tasted several mechanics' syrups over the years, so that I acquired a passionate vision of certain disciplines, such as transport phenomena and fluid mechanics. Today, after many waves, river wakes, and mixtures revolve the life, I'd say that my field of study is [Computational Science and Engineering](https://en.wikipedia.org/wiki/Computational_engineering), where I conserve an interdisciplinary and breadth-like scientific profile.
+Several subjects form my past experience, such as finite elements, transport phenomena, multiphase flows, numerical analysis, porous media, and reservoir modeling. More recently, I have been focused on CSE for energy, such as carbon capture, storage, and utilization (CCUS).
 
-This webpage was developed to show my career portfolio, gather useful technical information in my toolbox pages and provide links to third-party stuff, such as profiles of coworkers and interesting people. I hope you like to be here! :) 
+This webpage was developed to show my career portfolio, gather useful technical information in my toolbox pages, thoughts, and provide links to third-party stuff, such as profiles of coworkers and interesting people. I hope you like to be here! :) 
 
 Don't hesitate to contact me if you realize I can help you with something.
 
@@ -21,12 +20,11 @@ G.P.O.
 ### Identification 
 
 - Nationality: Brazilian
-- Age: 37
+- Age: 38
 - Family status: married to Viviane and Theo's father.
 
-### Roles
+### Main roles
 
-- Coordinator of the [Graduate Program in Mechanical Engineering](https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?id=1870)
 - Collaborating Professor of the [Graduate Program in Informatics](https://ppgi.ci.ufpb.br)
 - Adjunct Professor at the Scientific Computing Department - [Center of Informatics](http://www.ci.ufpb.br)
 - Researcher and co-manager at the [TRIL Lab](https://tril.ci.ufpb.br)
@@ -35,6 +33,7 @@ G.P.O.
 
 #### Previous roles
 
+- Coordinator of the [Graduate Program in Mechanical Engineering](https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?id=1870) (Mar 2024 - Apr 2025)
 - Vice-Coordinator of the [Graduate Program in Mechanical Engineering](https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?id=1870) (Abr 2022 - Mar 2024)
 - Director of Promotion and Academic-Scientific Actions at the UFPB's [International Cooperation Office](http://ufpb.br/acieng) (Feb 2022 - Dec 2022)
 
@@ -56,25 +55,23 @@ G.P.O.
 
 ### Profiles 
 
-Find full details on my scientific production in the **TROIM** dimensions (*Teaching*, *Research*, *Outreach*, *Innovation*, and *Management*) on the Brazilian Lattes database:
+Find full details on my scientific production in the **TROIM** dimensions (*Teaching*, *Research*, *Outreach*, *Innovation*, and *Management*) by looking at the sidebar profiles or below:
 
 - [CNPq Lattes Platform](http://lattes.cnpq.br/2612838955804083)
-
 - [Sciprofiles](https://sciprofiles.com/profile/2812210)
-
 
 --- 
 ## Recommended links
 
+
 - [co2ss Project](http://www.co2ssproject.com)
-- [EQPStats](http://eqpstats.com/)
 - [H-CFD Brazil](https://sites.google.com/view/h-cfdbrazil)
 - [Americo Cunha's website](http://www.americocunha.org)
 - [Gustavo Anjos's website](https://gustavorabello.github.io)
 - [Eduardo Freigedo's website](https://evitral.github.io)
 - [GESAR Lab @UERJ Brazil](https://www.gesar.uerj.br)
-- [LaSER Lab @UFPB Brazil](https://laser.ci.ufpb.br)
-- [MRST Project @Sintef Norway](https://www.sintef.no/projectweb/mrst/)
+- [LASER Lab @UFPB Brazil](https://laser.ci.ufpb.br)
+- [ASC Group @SINTEF Norway]https://www.sintef.no/en/digital/departments-new/department-of-mathematics-and-cybernetics/research-group-applied-computational-science/
 - [Gibbon Code @NUIG Ireland](https://www.gibboncode.org)
 - [Snap @Stanford USA ](https://snap.stanford.edu)
 - [Paraview @Kitware USA ](https://www.paraview.org/)

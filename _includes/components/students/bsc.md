@@ -1,8 +1,13 @@
 ## B.Sc. Undergraduate Capstone Projects
 ---
 
-#### Luiz Fernando Santos, Data Science and Artificial Intelligence  <span style="color:rgb(200,200,0);"> &#10144; </span>
-- *CO2 plume forecasting through KANs*
+#### Jansen Cruz dos Santos, Data Science and Artificial Intelligence <span style="color:green"> &#10004; </span>
+- *Triagem de Clusters e Hubs Industriais de CCUS no Nordeste Brasileiro por Análise de Dados Geoespaciais*, 2025
+- [LinkedIn]()
+
+
+#### Luiz Fernando Santos, Data Science and Artificial Intelligence <span style="color:green"> &#10004; </span>
+- *PUMLE: A Framework for Data-Driven Applications in Underground Carbon Sequestration Ventures*, 2025
 - [LinkedIn](https://www.linkedin.com/in/luiz-fernando632/)
 
 
