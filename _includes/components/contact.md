@@ -14,6 +14,4 @@
 - **County:** Mangabeira (near *Centro Hípico da Paraíba*)
 - **Country:** Brazil 
 - **Postal code:** 58058-600
-- **Room:** 222
-- **Phone:** +55 (83) 3209 8298
 

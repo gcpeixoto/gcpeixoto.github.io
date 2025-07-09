@@ -43,10 +43,16 @@ Below, you see an informal and non-optimally arranged tree of fields of expertis
 ---
 ## Portfolio
 
-Find here a few cards telling you about themes that compose my research portfolio. Many things are reported in my publications under different words. Others are not...
+Below are a few cards highlighting the key themes that make up my research portfolio. Many of these topics appear in my publications, though sometimes under different terms. Others reflect ongoing or unpublished work. The cards are arranged in rough chronological order, starting from the bottom right and flowing upward in an "S" shape to the top left.
 
 <!-- Arranged in reversed order in time --> 
 <div class="card-columns">
+{% include components/portfolio/nzh.html %}
+{% include components/portfolio/dist-to-trap.html %}
+{% include components/portfolio/hospital-room.html %}
+{% include components/portfolio/ale-sl2.html %}
+{% include components/portfolio/gawps.html %}
+{% include components/portfolio/pdi-pores-po.html %}
 {% include components/portfolio/patch.html %}
 {% include components/portfolio/5-spot.html %}
 {% include components/portfolio/woc.html %}

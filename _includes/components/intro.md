@@ -71,7 +71,7 @@ Find full details on my scientific production in the **TROIM** dimensions (*Teac
 - [Eduardo Freigedo's website](https://evitral.github.io)
 - [GESAR Lab @UERJ Brazil](https://www.gesar.uerj.br)
 - [LASER Lab @UFPB Brazil](https://laser.ci.ufpb.br)
-- [ASC Group @SINTEF Norway]https://www.sintef.no/en/digital/departments-new/department-of-mathematics-and-cybernetics/research-group-applied-computational-science/
+- [ASC Group @SINTEF Norway](https://www.sintef.no/en/digital/departments-new/department-of-mathematics-and-cybernetics/research-group-applied-computational-science/)
 - [Gibbon Code @NUIG Ireland](https://www.gibboncode.org)
 - [Snap @Stanford USA ](https://snap.stanford.edu)
 - [Paraview @Kitware USA ](https://www.paraview.org/)
