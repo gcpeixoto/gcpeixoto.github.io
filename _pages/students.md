@@ -2,9 +2,11 @@
 layout: defaults/page
 permalink: students.html
 narrow: true
-title: Students
+title: Students and advisees
 ---
 {% include components/students/statusbar.md %}
+
+{% include components/students/posdoc.md %}
 
 {% include components/students/dsc.md %}
 

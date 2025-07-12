@@ -1,37 +1,44 @@
 ## B.Sc. Education, Research and Outreach Programs
 ---
 
-#### Tales Nobre, Data Science and Artificial Intelligence <span style="color:rgb(200,200,0);"> &#10144; </span>
-- *Best Practices in Data Visualization*, 2024.
-- Funding: UFPB
-
-
 #### José Augusto da Silva Barbosa, Data Science and Artificial Intelligence <span style="color:rgb(200,200,0);"> &#10144; </span>
 - *Subsea Energy Transition*, 2024.
 - Funding: CNPq
+- [LinkedIn](https://www.linkedin.com/in/josé-augusto-da-silva-barbosa-11b438252/)
 
+#### Vinícius Vieri Bezerra de Lima, Data Science and Artificial Intelligence <span style="color:green;"> &#10004; </span>
+- *Data-Driven Analysis of the Thermo-Hydraulic Performance of Heat Exchangers Combined with Pumping Stations*, 2025.
+- Funding: CNPq
+- [LinkedIn](https://www.linkedin.com/in/viniciusvieri/)
+
+#### Tales Nobre, Data Science and Artificial Intelligence <span style="color:green;"> &#10004; </span>
+- *Best Practices in Data Visualization*, 2025.
+- Funding: UFPB
+- [LinkedIn](https://www.linkedin.com/in/talesnobre/)
 
 #### Gabrielly Silva Batista, Data Science and Artificial Intelligence  <span style="color:green;"> &#10004; </span>
 - *Best Practices in Data Visualization*, 2024.
 - Funding: UFPB
-
+- [LinkedIn](https://www.linkedin.com/in/gabrielly-silva-batista-263a4820b/)
 
 #### Adriel Ferreira Trajano, Data Science and Artificial Intelligence  <span style="color:green;"> &#10004; </span>
 - *Detection of Clusters and Hubs of CSS in Brazil: FOCCUS Project*, 2023.
 - Funding: CNPq
-
+- [LinkedIn](https://www.linkedin.com/in/adriel-ft/)
 
 #### Davi Nasiasene Amorim, Data Science and Artificial Intelligence  <span style="color:green;"> &#10004; </span>
 - *Detection of Clusters and Hubs of CSS in Brazil: FOCCUS Project*, 2023.
 - Funding: CNPq
+- [LinkedIn](https://www.linkedin.com/in/nasiasene/)
 
 #### Erlon Lacerda, Data Science and Artificial Intelligence  <span style="color:green;"> &#10004; </span>
 - *Detection of Clusters and Hubs of CSS in Brazil: FOCCUS Project*, 2023.
-
+- [LinkedIn](https://www.linkedin.com/in/erlon-lacerda-01020a25a/)
 
 #### Jaislan dos Santos Silva, Materials Engg.  <span style="color:green;"> &#10004; </span>
 - *CAD modeling and mesh generation for fluid flow problems in hospital environments*, 2023 - 2024.
 - Funding: CNPq
+- [LinkedIn]()
 
 #### Guilherme Huther Baldo, Computer Science <span style="color:green;"> &#10004; </span>
 - *ODEX: Paraíba State Foreign Trade BI Platform*, 2022.
@@ -42,7 +49,6 @@
 - *Data science applied to reservoir qualification for CO2 storage (continued)*, 2022.
 - Funding: CNPq
 - [LinkedIn](https://www.linkedin.com/in/yhasmim-tigre-1696701a1/)
-
 
 #### Mateus Metzker Tosta, Computer Science <span style="color:green;"> &#10004; </span>
 - *[APyCE Project: A Python-based CMG Builder®/Schlumberger Eclipse® wrapper for 3D visualization of reservoir grids](https://github.com/mateustosta/apyce-repo)*, 2020.
@@ -57,6 +63,7 @@
 #### Marcos Ramon Bezerra dos Santos, Mech Engg. <span style="color:green;"> &#10004; </span> 
 - *Strategic Placement of Oil Wells in Hydraulic Flow Units and Multiphase Flow Simulations*, 2019.
 - Funding: ABCM
+- [LinkedIn](https://www.linkedin.com/in/santosmrb/)
 
 #### Samuel Moreira Lustoza Rodrigues, Civil Engg. <span style="color:green;"> &#10004; </span>
 - *Mathematical Models for Well Layout Optimization under Stress Effects*, 2017.
@@ -70,4 +77,4 @@
 #### Lucas Cavalcanti Silva, Mech. Engg. <span style="color:green;"> &#10004; </span>
 - *Reservoir Simulation with MRST Toolbox*, 2017
 - Funding: UFPB and Petrobras
-
+- [LinkedIn](https://www.linkedin.com/in/lucas-cavalcanti-silva-754052134/)

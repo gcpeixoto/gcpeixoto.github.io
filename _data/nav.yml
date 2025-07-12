@@ -1,7 +1,7 @@
 - title: Home
   href: index.html
 
-- title: Publications
+- title: Pubs
   href: publications.html
 
 - title: Research
@@ -9,6 +9,9 @@
 
 - title: Teaching
   href: teaching.html
+
+- title: Books
+  href: books.html
 
 - title: Consulting
   href: consulting.html
@@ -18,7 +21,7 @@
 
 - title: Toolbox
   href: list/toolbox.html
-
+ 
 - title: Contact
   href: contact.html
 

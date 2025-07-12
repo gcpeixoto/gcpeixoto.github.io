@@ -2,7 +2,7 @@
 
 Hello!
 
-Currently, I'm an adjunct professor at the Federal University of Paraíba (UFPB), located in the beautiful seashore João Pessoa city, where lies the Brazil's far east point and one of the creators of [TRIL Lab](https://tril.ci.ufpb.br). After many waves, river wakes, and mixtures revolve the life, I'd say that my field of study is [Computational Science and Engineering - CSE](https://en.wikipedia.org/wiki/Computational_engineering), where I conserve an interdisciplinary and breadth-like profile covering numerical methods, scientific computing, mechanical sciences, and data _SAVE_ (sciance, analytics, visualization, and engineering).
+Currently, I'm an adjunct professor at the Federal University of Paraíba (UFPB), located in the beautiful seashore João Pessoa city – where lies the Brazil's far east point – and one of the creators of [TRIL Lab](https://tril.ci.ufpb.br). After many waves, river wakes, and mixtures revolve the life, I'd say that my field of study is [Computational Science and Engineering - CSE](https://en.wikipedia.org/wiki/Computational_engineering), where I conserve an interdisciplinary and breadth-like profile covering numerical methods, scientific computing, mechanical sciences, and data _SAVE_ (sciance, analytics, visualization, and engineering).
 
 Several subjects form my past experience, such as finite elements, transport phenomena, multiphase flows, numerical analysis, porous media, and reservoir modeling. More recently, I have been focused on CSE for energy, such as carbon capture, storage, and utilization (CCUS).
 
@@ -28,13 +28,14 @@ G.P.O.
 - Collaborating Professor of the [Graduate Program in Informatics](https://ppgi.ci.ufpb.br)
 - Adjunct Professor at the Scientific Computing Department - [Center of Informatics](http://www.ci.ufpb.br)
 - Researcher and co-manager at the [TRIL Lab](https://tril.ci.ufpb.br)
+- Member of the [Brazilian Computer Society](http://www.sbc.org.br)
 - Member of the [Brazilian Society of Mechanical Sciences and Engineering](http://www.abcm.org.br) 
 - Member of the Structuring Teaching Nucleus of the Undergraduate Program in Data Science and Artificial Intelligence (CI/UFPB)
 
 #### Previous roles
 
 - Coordinator of the [Graduate Program in Mechanical Engineering](https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?id=1870) (Mar 2024 - Apr 2025)
-- Vice-Coordinator of the [Graduate Program in Mechanical Engineering](https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?id=1870) (Abr 2022 - Mar 2024)
+- Vice-Coordinator of the [Graduate Program in Mechanical Engineering](https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?id=1870) (Apr 2022 - Mar 2024)
 - Director of Promotion and Academic-Scientific Actions at the UFPB's [International Cooperation Office](http://ufpb.br/acieng) (Feb 2022 - Dec 2022)
 
 ### Education
@@ -63,7 +64,6 @@ Find full details on my scientific production in the **TROIM** dimensions (*Teac
 --- 
 ## Recommended links
 
-
 - [co2ss Project](http://www.co2ssproject.com)
 - [H-CFD Brazil](https://sites.google.com/view/h-cfdbrazil)
 - [Americo Cunha's website](http://www.americocunha.org)
@@ -80,7 +80,7 @@ Find full details on my scientific production in the **TROIM** dimensions (*Teac
 ---
 #### Afterwords
 
-> *“And wisdom and knowledge shall be the stability of thy times, and strength of salvation: the fear of the Lord is his treasure.”* The Holy Bible, Isaiah 33:6, apud: Introduction to Hydrodynamics Stability, by P. G. Drazin.
+> *“And wisdom and knowledge shall be the stability of thy times, and strength of salvation: the fear of the Lord is his treasure.”* The Holy Bible, Isaiah 33:6, apud: Introduction to Hydrodynamic Stability, by P. G. Drazin.
 
 > *"Let my teaching drop as the rain, my speech distill as the dew, as the droplets on the fresh grass and as the showers on the herb."* (The Song of Moses), The Holy Bible, Deuteronomy 32:2, apud: "Drop Jet in Crossflow: ALE/Finite Element Simulations and Interfacial Effects. GPO's thesis.
 
