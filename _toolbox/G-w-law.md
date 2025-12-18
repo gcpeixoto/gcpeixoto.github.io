@@ -118,10 +118,18 @@ PD&I, Termo de Outorga, Convênio para PD&I);
 12. Dispensa de licitação em serviços de até R$ 300 mil;
 13. Política Institucional de Inovação.
 
-Âmbito UFPB:
+### Âmbito UFPB:
 
 - [Res. CONSUNI/UFPB 18/2017](../_media/files/leis/resolucao-consuni-18-2017-inovacao.pdf): Política de PI e Inovação.
-- [Res. CONSUNI/UFPB 04/2018](../_media/files/leis/resolucao-conuni-04-2018-empresa-junior.pdf): Criação, reconhecimento e funcionamento de Empresas Juniores.
+- [Res. CONSUNI/UFPB 04/2018](../_media/files/leis/resolucao-consuni-04-2018-empresa-junior.pdf): Criação, reconhecimento e funcionamento de Empresas Juniores.
+- [Res. CONSEPE/UFPB 31/2021](): Normas sobre a participação de docentes sujeitos ao regime de dedicação exclusiva em atividades esporádicas.
+
+### CP-CT&I/AGU
+
+- Ver [aqui](https://www.gov.br/agu/pt-br/composicao/procuradoria-geral-federal-1/subprocuradoria-federal-de-consultoria-juridica/ciencia-tecnologia-e-inovacao).
+- PARECER n. 00001/2023/CP-CT&I/DEPCONSU/PGF/AGU
+- PARECER n. 00004/2024/CP-CT&I/SUBCONSU/PGF/AGU
+
 
 ## Regimentos e estruturação - UFPB
 
