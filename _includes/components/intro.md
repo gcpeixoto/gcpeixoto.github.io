@@ -2,7 +2,7 @@
 
 Hello!
 
-Currently, I'm an adjunct professor at the Federal University of Paraíba (UFPB), located in the beautiful seashore João Pessoa city – where lies the Brazil's far east point – and one of the creators of [TRIL Lab](https://tril.ci.ufpb.br). After many waves, river wakes, and mixtures revolve the life, I'd say that my field of study is [Computational Science and Engineering - CSE](https://en.wikipedia.org/wiki/Computational_engineering), where I conserve an interdisciplinary and breadth-like profile covering numerical methods, scientific computing, mechanical sciences, and data _SAVE_ (sciance, analytics, visualization, and engineering).
+Currently, I'm an adjunct professor at the Federal University of Paraíba (UFPB), located in the beautiful seashore João Pessoa city – where lies the Brazil's far east point, one of the creators of [TRIL Lab](https://tril.ci.ufpb.br) and leader of the [Holistic Computational Science and Engineering - HOCSE](https://tril.ci.ufpb.br/hocse) group. After many waves, river wakes, and mixtures revolve the life, my field of study stabilized around [Computational Science and Engineering - CSE](https://en.wikipedia.org/wiki/Computational_engineering), where I conserve an interdisciplinary and broad profile covering numerical methods, scientific computing, mechanical sciences, and data life cycle (sciance, analytics, visualization, and engineering).
 
 Several subjects form my past experience, such as finite elements, transport phenomena, multiphase flows, numerical analysis, porous media, and reservoir modeling. More recently, I have been focused on CSE for energy, such as carbon capture, storage, and utilization (CCUS).
 
@@ -25,13 +25,12 @@ G.P.O.
 
 ### Main roles
 
-- Collaborating Professor of the [Graduate Program in Informatics](https://ppgi.ci.ufpb.br)
 - Adjunct Professor at the Scientific Computing Department - [Center of Informatics](http://www.ci.ufpb.br)
-- Researcher and co-manager at the [TRIL Lab](https://tril.ci.ufpb.br)
+- Collaborating Professor of the [Graduate Program in Informatics](https://ppgi.ci.ufpb.br)
+- Member of the Structuring Teaching Nucleus of the Undergraduate Program in Data Science and Artificial Intelligence (CI/UFPB)
 - Member of the [Brazilian Computer Society](http://www.sbc.org.br)
 - Member of the [Brazilian Society of Mechanical Sciences and Engineering](http://www.abcm.org.br) 
-- Member of the Structuring Teaching Nucleus of the Undergraduate Program in Data Science and Artificial Intelligence (CI/UFPB)
-
+- 
 #### Previous roles
 
 - Coordinator of the [Graduate Program in Mechanical Engineering](https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?id=1870) (Mar 2024 - Apr 2025)
@@ -60,6 +59,35 @@ Find full details on my scientific production in the **TROIM** dimensions (*Teac
 
 - [CNPq Lattes Platform](http://lattes.cnpq.br/2612838955804083)
 - [Sciprofiles](https://sciprofiles.com/profile/2812210)
+
+### Special grants and awards
+
+#### 2025
+
+- Lenilde de Sá Best Thesis Award 2024 
+- Advisee: José Wilker de Lima Silva (Mech. Engg. Grad. Program)
+- Awarded by: Federal University of Paraíba
+
+#### 2022
+- Oil and Gas Sectoral Fund (CT-PETRO)
+- Funded by: CNPq/Brazil
+
+#### 2018
+- Undergraduate Research National Call
+- Advisee: Marcos Ramon Bezerra dos Santos
+- Funded by: Brazilian Society of Mechanical Sciences and Engineering
+
+#### 2016
+- Post-Doc Fellowship "Score 10" - PDR 10
+- Funded by: FAPERJ/Brazil
+
+#### 2015
+- National Program for Post-Doctoral Studies - PNPD
+- Funded by: CAPES/Brazil
+
+#### 2011
+- Best Poster Award (International Workshop on Energy and Environment)
+- Awarded by: State University of Rio de Janeiro
 
 --- 
 ## Recommended links
